@@ -36,14 +36,14 @@
 .hamburger {
   display: block;
   cursor: pointer;
+  position: absolute;
+  right: 20px;
+  top: 45px;
 }
 
 .hamburgerIcon {
   width: 2rem;
   height: 2rem;
-  position: absolute;
-  right: 20px;
-  top: 45px;
   color: #ffffff;
 }
 
