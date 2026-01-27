@@ -1,0 +1,212 @@
+.menu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: white;
+  z-index: 50;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem 2rem;
+}
+
+.desktopNav {
+  display: none;
+  color: azure;
+}
+
+.link {
+  color: white;
+  padding: 10px;  
+  text-transform: uppercase;
+  text-decoration: none;
+  transition: 0.4s ease-in-out;
+}
+
+/* .link:hover {
+   background-color: #db6d05; 
+} */
+
+.hamburger {
+  display: block;
+  cursor: pointer;
+}
+
+.hamburgerIcon {
+  width: 2rem;
+  height: 2rem;
+  position: absolute;
+  right: 20px;
+  top: 45px;
+  color: #ffffff;
+}
+
+.mobileNav {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: calc(100% - 120px);
+  left: 0;
+  top: 120px;
+  flex-direction: column;
+  background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.mobile_li, .li {
+  text-decoration: none;
+  text-align: center;
+  color: #04021f;
+  font-weight: bold;
+  padding: 20px;
+  background: none;
+  border: none;
+  font-size: 16px
+}
+
+.li {
+  text-align: left;
+  min-width: 300px;
+  padding: 20px;
+}
+
+.mobile-li {
+
+}
+
+.mobile_li:hover ,.li:hover{
+  color: white;
+  background-color: var(--blue);
+}
+
+.active {
+  color: white;
+  background-color: var(--blue); 
+}
+
+
+.active {
+  background-color: var(--blue);
+  color: white;
+}
+
+.dropdownContent {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 50px;
+  background: white;
+  min-width: 150px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  z-index: 10;
+}
+
+.dropdownLink {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  color: #333;
+}
+
+.dropdownLink:hover {
+  background-color: #0070f3;
+  color: white;
+}
+
+.caretOpen {
+  transform: rotate(180deg);
+}
+
+.mobileDropdown {
+  display: flex;
+  flex-direction: column; 
+}
+
+.mobileDropdownLink {
+  padding: 0.5rem 0;
+  text-decoration: none;
+  color: #333;
+}
+
+.mobileDropdownLink:hover {
+  color: #0070f3;
+}
+
+.dropdown button {
+  background: none;       
+  border: none;           
+  cursor: pointer;
+  font: inherit;          
+  padding: 0.5rem 1rem;
+  text-transform: uppercase;
+   color: white;
+}
+
+.caret {
+  margin-left: 0.25rem;
+  transition: transform 0.2s;
+  display: inline-block;
+}
+
+.caretOpen {
+  transform: rotate(180deg);
+}
+
+.menuBackground {
+  width: 100%;
+  height: 100%; /* tu peux ajuster ou mettre min-height */
+  background-color: #000000;
+  background-image: url('/logo.png'); /* chemin vers ton image */
+  background-size: cover; /* pour couvrir toute la div */
+  background-position: center; /* centrage de l'image */
+  background-repeat: no-repeat; /* éviter la répétition */
+  position: relative; /* si tu veux mettre un overlay ou du texte par dessus */
+}
+
+@media (min-width: 768px) {
+  .desktopNav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    gap: 1.5rem;
+    position: relative
+  }
+  .hamburger {
+    display: none;
+  }
+  .mobileNav {
+    display: none;
+  }
+}
+
+@media (min-width: 450px) {
+  .btn {
+    display: none
+  }    
+}
+
+@media (max-width: 450px) {
+  .contact {
+    width: 100%;
+    height: 30px;
+   
+  }
+  .hamburgerIcon {
+    position: absolute;
+    left: 20px;
+    width: 30px
+  }
+  .btn {
+    position: absolute;
+    right: 20px;
+    padding: 6px;
+    border-radius: 4px;
+    z-index: 30
+  }
+}
