@@ -46,6 +46,18 @@ body.menu-open {
   padding: 2rem 1.5rem;
 }
 
+.h1 {
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.span {
+  display: flex;
+  color: var(--blue)
+}
+
 /* -------------------
    BOUTON FERMER
 ------------------- */
