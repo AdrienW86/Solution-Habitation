@@ -2,6 +2,11 @@ import React from 'react'
 
 export default function page() {
   return (
-    <div>page</div>
+    <section>
+      <p> Nettoyage de vitres </p>
+      <p> Nettoyage de tapis moquettes </p>
+      <p> Nettoyage de vitres </p>
+      <p> Nettoyage intérieur </p>
+    </section>
   )
 }

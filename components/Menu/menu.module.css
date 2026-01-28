@@ -36,16 +36,19 @@
 .hamburger {
   display: block;
   cursor: pointer;
-  position: absolute;
-  right: 20px;
-  top: 45px;
-  z-index: 150
+  width: 100%;
+  height: 120px;
+  
 }
 
 .hamburgerIcon {
   width: 2rem;
   height: 2rem;
   color: #ffffff;
+  z-index: 50;
+  right: 20px;
+  top: 45px;
+  position: absolute;
 }
 
 .mobileNav {
@@ -159,14 +162,16 @@
 }
 
 .menuBackground {
+  display: flex;
+  justify-content: center;
   width: 100%;
-  height: 100%; /* tu peux ajuster ou mettre min-height */
+  height: 100%;
   background-color: #000000;
-  background-image: url('/logo.png'); /* chemin vers ton image */
-  background-size: cover; /* pour couvrir toute la div */
-  background-position: center; /* centrage de l'image */
-  background-repeat: no-repeat; /* éviter la répétition */
-  position: relative; /* si tu veux mettre un overlay ou du texte par dessus */
+}
+
+.logo {
+  display: flex;
+ margin: auto;
 }
 
 @media (min-width: 768px) {
@@ -200,7 +205,7 @@
   }
   .hamburgerIcon {
     position: absolute;
-    left: 20px;
+    right: 20px;
     width: 30px
   }
   .btn {
