@@ -51,38 +51,38 @@
 }
 
 .buttonContainer {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    width: 100%;
-    padding-top: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  width: 100%;
+  padding-top: 50px;
 }
 
 .callButton, .formButton {
-    margin: 20px auto;
-    padding: 12px;   
-    border-radius: 16px;
-    width: 160px;
-    opacity: 0.8;
-    transition: .4s ease-in-out;
-    font-weight: bold;
+  margin: 20px auto;
+  padding: 12px;   
+  border-radius: 16px;
+  width: 160px;
+  opacity: 0.8;
+  transition: .4s ease-in-out;
+  font-weight: bold;
 }
 
 .callButton {
-    color: var(--blue);
-    border: 1px solid var(--blue);
-    background-color: #fff;
+  color: var(--blue);
+  border: 1px solid var(--blue);
+  background-color: #fff;
 }
 
 .formButton {
-    color: white;
-    border: 1px solid white;
-    background-color: var(--blue);
+  color: white;
+  border: 1px solid white;
+  background-color: var(--blue);
 }
 
 .callButton:hover, .formButton:hover {
-    cursor: pointer;
-    opacity: 1;
+  cursor: pointer;
+  opacity: 1;
 }
 
 .cursor {
@@ -96,23 +96,22 @@
   25%, 75% { opacity: 0; }
 }
 
-
 @media (max-width: 370px) {
- .content h2 {
-  font-size: clamp(1.5rem, 4vw, 2.5rem);
-  font-weight: 700;
-  margin-bottom: 1rem;
-  color: white; 
-  height: 100px;
-  font-style: italic;
+  .content h2 {
+    font-size: clamp(1.5rem, 4vw, 2.5rem);
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: white; 
+    height: 100px;
+    font-style: italic;
 }
 
-.content p {
-  font-size: clamp(1rem, 2vw, 1.5rem);
-  max-width: 720px;
-  opacity: 0.95;
-  color: var(--blue);
-  font-weight: bold;
-  /* -webkit-text-stroke: 1px rgb(0, 0, 0); */
-}
+  .content p {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    max-width: 720px;
+    opacity: 0.95;
+    color: var(--blue);
+    font-weight: bold;
+    /* -webkit-text-stroke: 1px rgb(0, 0, 0); */
+  }
 }

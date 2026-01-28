@@ -9,22 +9,20 @@ import styles from "./menu.module.css";
 export default function Menu() {
   const [isOpen, setIsOpen] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
-  const [modalHeight, setModalHeight] = useState("100vh"); // hauteur dynamique
+  const [modalHeight, setModalHeight] = useState("100vh");
 
   const toggleMenu = () => setIsOpen(!isOpen);
   const toggleServices = () => setIsServicesOpen(!isServicesOpen);
   const pathname = usePathname();
 
-  // Mettre à jour la hauteur de la modale mobile
+  // Hauteur dynamique pour mobile
   useEffect(() => {
     function updateHeight() {
       setModalHeight(`${window.innerHeight}px`);
     }
-
     updateHeight();
     window.addEventListener("resize", updateHeight);
     window.addEventListener("orientationchange", updateHeight);
-
     return () => {
       window.removeEventListener("resize", updateHeight);
       window.removeEventListener("orientationchange", updateHeight);
@@ -43,7 +41,7 @@ export default function Menu() {
   return (
     <div className={styles.menu}>
       <div className={styles.container}>
-        {/* Menu desktop */}
+        {/* Desktop nav */}
         <nav className={styles.desktopNav}>
           <Link href="/" className={`${styles.link} ${pathname === "/" ? styles.active : ""}`}>Accueil</Link>
 
@@ -55,7 +53,6 @@ export default function Menu() {
               Services{" "}
               <span className={`${styles.caret} ${isServicesOpen ? styles.caretOpen : ""}`}>&#9662;</span>
             </button>
-
             {isServicesOpen && (
               <div className={styles.dropdownContent}>
                 <Link href="/peinture" className={styles.li} onClick={() => setIsOpen(false)}>Peinture</Link>
@@ -65,7 +62,7 @@ export default function Menu() {
                 <Link href="/plomberie" className={styles.li} onClick={() => setIsOpen(false)}>Plomberie</Link>
                 <Link href="/couverture" className={styles.li} onClick={() => setIsOpen(false)}>Travaux de couverture</Link>
                 <Link href="/nuisibles" className={styles.li} onClick={() => setIsOpen(false)}>Traitement des nuisibles</Link>
-                <Link href="/contact" className={styles.li} onClick={() => setIsOpen(false)}>Demande de devis et contact</Link>
+                <Link href="/contact" className={styles.li} onClick={() => setIsOpen(false)}>Contact</Link>
               </div>
             )}
           </div>
@@ -90,52 +87,50 @@ export default function Menu() {
         </div>
       </div>
 
-      {/* Menu mobile */}
-      {isOpen && (
-        <nav
-          className={styles.mobileNav}
-          style={{ height: modalHeight }}
-          onClick={toggleMenu} // fermer si clic hors menu
+      {/* Mobile nav avec animation */}
+      <nav
+        className={`${styles.mobileNav} ${isOpen ? styles.open : ""}`}
+        style={{ height: modalHeight }}
+        onClick={toggleMenu}
+      >
+        <div
+          className={styles.mobileContent}
+          onClick={(e) => e.stopPropagation()} // empêche la fermeture si clic dans le menu
         >
-          <div
-            className={styles.mobileContent}
-            onClick={(e) => e.stopPropagation()} // empêcher la fermeture si clic dans le menu
-          >
-            <div className={styles.header}>
-              <Image
-                className={styles.logo2}
-                src="/logo.png"
-                alt="Solution habitation logo"
-                width={100}
-                height={100}
-                priority
-              />
-              <p className={styles.h1}>Solution <span className={styles.span}>Habitation</span></p>
-            </div>
-
-            <Link href="/" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Accueil</Link>     
-            <Link href="/peinture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Peinture</Link>
-            <Link href="/nettoyage" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Nettoyage</Link>
-            <Link href="/plomberie" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Plomberie</Link>
-            <Link href="/electricite" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Electricité</Link>
-            <Link href="/exterieur" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Jardin et exterieur</Link>
-            <Link href="/couverture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Travaux de couverture</Link>
-            <Link href="/nuisibles" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Traitement des nuisibles</Link>            
-            <Link href="/contact" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Contact & Devis gratuit</Link>
-
-            <div className={styles.menuBackground}>
-              <Image
-                className={styles.logo}
-                src="/logo.png"
-                alt="Solution habitation logo"
-                width={80}
-                height={80}
-                priority
-              />
-            </div>
+        <div className={styles.header}>
+            <Image
+              className={styles.logo2}
+              src="/logo.png"
+              alt="Solution habitation logo"
+              width={100}
+              height={100}
+              priority
+            />
+            <p className={styles.h1}>Solution <span className={styles.span}>Habitation</span></p>
           </div>
-        </nav>
-      )}
+
+          <Link href="/" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Accueil</Link>     
+          <Link href="/peinture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Peinture</Link>
+          <Link href="/nettoyage" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Nettoyage</Link>
+          <Link href="/plomberie" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Plomberie</Link>
+          <Link href="/electricite" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Electricité</Link>
+          <Link href="/exterieur" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Jardin et exterieur</Link>
+          <Link href="/couverture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Travaux de couverture</Link>
+          <Link href="/nuisibles" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Traitement des nuisibles</Link>            
+          <Link href="/contact" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Contact & Devis gratuit</Link>
+
+          <div className={styles.menuBackground}>
+            <Image
+              className={styles.logo}
+              src="/logo.png"
+              alt="Solution habitation logo"
+              width={80}
+              height={80}
+              priority
+            />
+          </div>
+        </div>
+      </nav>
     </div>
   );
 }

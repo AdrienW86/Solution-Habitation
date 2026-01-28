@@ -1,232 +1,140 @@
-.menu {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  color: white;
-  z-index: 50;
+/* -------------------
+   RESET GLOBAL
+------------------- */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow-x: hidden;
+  box-sizing: border-box;
 }
 
-.header {
-  font-size: 2rem;
-  font-weight: bold;
-  padding: 10px;
-  display: flex;
-  width: 100%;
-  height: 15vh;
+body.menu-open {
+  overflow: hidden;
+  height: 100%;
+}
+
+/* -------------------
+   MOBILE NAV
+------------------- */
+.mobileNav {
+  position: fixed;
   top: 0;
-  z-index: 20;
-  background-color: black;
+  left: 0;
+  width: 100vw;
+  background-color: #000000;
+  z-index: 9999;
+  overflow: hidden;
+  transform: translateY(-100%);
+  opacity: 0;
+  transition: transform 0.35s ease, opacity 0.35s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.mobileNav.open {
+  transform: translateY(0);
+  opacity: 1;
+}
+
+.mobileContent {
+  height: 100%;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+}
+
+/* -------------------
+   BOUTON FERMER
+------------------- */
+.hamburgerIcon {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: transparent;
+  border: none;
+  font-size: 2rem;
+  cursor: pointer;
+  z-index: 10000;
+  color: #ffffff;
+  height: 4vh;
+  width: 4vh;
+  top: 5vh
+}
+
+/* -------------------
+   HEADER MENU
+------------------- */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+}
+
+.logo2 {
+  width: 60px;
+  height: 60px;
 }
 
 .h1 {
-  margin-left: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  font-size: 1.5rem;
+  font-weight: bold;
 }
 
 .span {
-  display: flex;
-  color: var(--blue)
-}
-
-.container {
-  max-width: 1200px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 1rem 2rem;
-}
-
-.desktopNav {
-  display: none;
-  color: azure;
-}
-
-.link {
-  color: white;
-  padding: 10px;  
-  text-transform: uppercase;
-  text-decoration: none;
-  transition: 0.4s ease-in-out;
-}
-
-/* .link:hover {
-   background-color: #db6d05; 
-} */
-
-.hamburger {
-  display: block;
-  cursor: pointer;
-  width: 100%;
-  height: 120px;
-  
-}
-
-.hamburgerIcon {
-  width: 2rem;
-  height: 2rem;
-  color: #ffffff;
-  z-index: 50;
-  right: 20px;
-  top: 45px;
-  position: absolute;
-}
-
-.mobileNav {
-  display: flex;
-  position: fixed;
-  width: 100%;
-  height: 100dvh;
-  top: 0;
-  left: 0;
-  flex-direction: column;
-  background: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.mobile_li, .li {
-  text-decoration: none;
-  text-align: center;
-  color: #04021f;
-  font-weight: bold;
-  padding: 20px;
-  background: none;
-  border: none;
-  font-size: 16px
-}
-
-.li {
-  text-align: left;
-  min-width: 300px;
-  padding: 20px;
-}
-
-.mobile_li {
-  height: 7dvh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
-
-.mobile_li:hover ,.li:hover{
-  color: white;
-  background-color: var(--blue);
-}
-
-.active {
-  color: white;
-  background-color: var(--blue); 
-}
-
-
-.active {
-  background-color: var(--blue);
-  color: white;
-}
-
-.dropdownContent {
-  display: flex;
-  flex-direction: column;
-  position: absolute;
-  top: 50px;
-  background: white;
-  min-width: 150px;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
-  z-index: 10;
-}
-
-.dropdownLink {
-  padding: 0.5rem 1rem;
-  text-decoration: none;
-  color: #333;
-}
-
-.dropdownLink:hover {
-  background-color: #0070f3;
-  color: white;
-}
-
-.caretOpen {
-  transform: rotate(180deg);
-}
-
-.mobileDropdown {
-  display: flex;
-  flex-direction: column; 
-}
-
-.mobileDropdownLink {
-  padding: 0.5rem 0;
-  text-decoration: none;
-  color: #333;
-}
-
-.mobileDropdownLink:hover {
   color: #0070f3;
 }
 
-.dropdown button {
-  background: none;       
-  border: none;           
-  cursor: pointer;
-  font: inherit;          
-  padding: 0.5rem 1rem;
-  text-transform: uppercase;
-   color: white;
+.mobile_li {
+  padding: 1rem 0;
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: #333;
+  border-bottom: 1px solid #eee;
+  transition: color 0.2s ease;
 }
 
+.mobile_li:hover {
+  color: #0070f3;
+}
+
+.menuBackground {
+  margin-top: auto;
+  display: flex;
+  justify-content: center;
+  padding: 2rem 0;
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
+}
+
+/* -------------------
+   CARET DESKTOP
+------------------- */
 .caret {
   margin-left: 0.25rem;
-  transition: transform 0.2s;
   display: inline-block;
+  transition: transform 0.3s ease;
 }
 
 .caretOpen {
   transform: rotate(180deg);
 }
 
-.menuBackground {
-  display: flex;
-  justify-content: center;
-  width: 100%;
-  height: 24dvh;
-  background-color: #000000;
-}
-
-.logo {
-  display: flex;
- margin: auto;
-}
-
+/* -------------------
+   RESPONSIVE
+------------------- */
 @media (min-width: 768px) {
-  .desktopNav {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    gap: 1.5rem;
-    position: relative
-  }
   .hamburger {
     display: none;
   }
+
   .mobileNav {
     display: none;
   }
 }
-
-@media (max-width: 450px) {
-  .contact {
-    width: 100%;
-    height: 30px;
-  }
-  .hamburgerIcon {
-    position: absolute;
-    right: 20px;
-    width: 30px
-  }
-}
-
