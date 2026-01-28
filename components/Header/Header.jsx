@@ -10,8 +10,8 @@ export default function Header() {
         className={styles.logo}
         src="/logo.png"
         alt="Solution habitation logo"
-        width={100}
-        height={100}
+        width={80}
+        height={80}
         priority
       />
         <h1 className={styles.h1}> Solution <span className={styles.span}> Habitation </span>   </h1>

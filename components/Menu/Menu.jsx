@@ -98,17 +98,16 @@ export default function Menu() {
           onClick={(e) => e.stopPropagation()} // empêche la fermeture si clic dans le menu
         >
         <div className={styles.header}>
-            <Image
-              className={styles.logo2}
-              src="/logo.png"
-              alt="Solution habitation logo"
-              width={100}
-              height={100}
-              priority
-            />
-            <p className={styles.h1}>Solution <span className={styles.span}>Habitation</span></p>
-          </div>
-
+          <Image
+            className={styles.logo2}
+            src="/logo.png"
+            alt="Solution habitation logo"
+            width={80}
+            height={80}
+            priority
+          />
+          <p className={styles.h1}>Solution <span className={styles.span}>Habitation</span></p>
+        </div>
           <Link href="/" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Accueil</Link>     
           <Link href="/peinture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Peinture</Link>
           <Link href="/nettoyage" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Nettoyage</Link>
@@ -118,14 +117,13 @@ export default function Menu() {
           <Link href="/couverture" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Travaux de couverture</Link>
           <Link href="/nuisibles" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Traitement des nuisibles</Link>            
           <Link href="/contact" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Contact & Devis gratuit</Link>
-
           <div className={styles.menuBackground}>
             <Image
               className={styles.logo}
               src="/logo.png"
               alt="Solution habitation logo"
-              width={80}
-              height={80}
+              width={100}
+              height={100}
               priority
             />
           </div>

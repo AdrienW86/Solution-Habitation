@@ -97,9 +97,6 @@ body.menu-open {
   font-weight: bold;
 }
 
-.span {
-  color: #0070f3;
-}
 
 .mobile_li {
   padding: 1rem 0;
@@ -139,6 +136,10 @@ body.menu-open {
   transform: rotate(180deg);
 }
 
+.desktopNav {
+  display: none
+}
+
 /* -------------------
    RESPONSIVE
 ------------------- */
@@ -149,5 +150,9 @@ body.menu-open {
 
   .mobileNav {
     display: none;
+  }
+
+  .desktopNav {
+    display: flex;
   }
 }

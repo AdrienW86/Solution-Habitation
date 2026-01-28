@@ -7,9 +7,16 @@
     top: 0;
     z-index: 20;
     background-color: black;
+   
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 2rem;
+
 }
 
 .h1 {
+    font-size: 1.5rem;
     margin-left: 20px;
     display: flex;
     flex-direction: column;
@@ -19,6 +26,11 @@
 .span {
     display: flex;
     color: var(--blue)
+}
+
+.logo {
+  width: 80px;
+  height: 80px;
 }
 
 
