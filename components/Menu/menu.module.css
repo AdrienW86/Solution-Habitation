@@ -13,7 +13,7 @@
   padding: 10px;
   display: flex;
   width: 100%;
-  height: 15dvh;
+  height: 15vh;
   top: 0;
   z-index: 20;
   background-color: black;
@@ -230,25 +230,3 @@
   }
 }
 
-/* Menu mobile full-screen */
-.mobileNav {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100vw;        /* toute la largeur */
-  overflow: hidden;    /* empêche le scroll de l'overlay */
-  z-index: 9999;
-}
-
-/* Contenu interne scrollable si besoin */
-.mobileContent {
-  height: 100%;        /* prend toute la hauteur du nav */
-  overflow-y: auto;    /* uniquement le scroll interne si trop de liens */
-  -webkit-overflow-scrolling: touch; /* inertie iOS */
-}
-
-/* Supprimer le scroll du body quand menu ouvert */
-body.menu-open {
-  overflow: hidden;
-  height: 100%;
-}

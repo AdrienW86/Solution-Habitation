@@ -9,13 +9,13 @@ import styles from "./menu.module.css";
 export default function Menu() {
   const [isOpen, setIsOpen] = useState(false);
   const [isServicesOpen, setIsServicesOpen] = useState(false);
-  const [modalHeight, setModalHeight] = useState("100vh"); // pour la hauteur mobile
+  const [modalHeight, setModalHeight] = useState("100vh"); // hauteur dynamique
 
   const toggleMenu = () => setIsOpen(!isOpen);
   const toggleServices = () => setIsServicesOpen(!isServicesOpen);
   const pathname = usePathname();
 
-  // Calculer la hauteur dynamique sur mobile
+  // Mettre à jour la hauteur de la modale mobile
   useEffect(() => {
     function updateHeight() {
       setModalHeight(`${window.innerHeight}px`);
@@ -31,11 +31,22 @@ export default function Menu() {
     };
   }, []);
 
+  // Bloquer le scroll du body quand le menu est ouvert
+  useEffect(() => {
+    if (isOpen) {
+      document.body.classList.add("menu-open");
+    } else {
+      document.body.classList.remove("menu-open");
+    }
+  }, [isOpen]);
+
   return (
     <div className={styles.menu}>
       <div className={styles.container}>
+        {/* Menu desktop */}
         <nav className={styles.desktopNav}>
           <Link href="/" className={`${styles.link} ${pathname === "/" ? styles.active : ""}`}>Accueil</Link>
+
           <div className={styles.dropdown}>
             <button
               className={`${styles.link} ${pathname.startsWith("/services") ? styles.active : ""}`}
@@ -44,6 +55,7 @@ export default function Menu() {
               Services{" "}
               <span className={`${styles.caret} ${isServicesOpen ? styles.caretOpen : ""}`}>&#9662;</span>
             </button>
+
             {isServicesOpen && (
               <div className={styles.dropdownContent}>
                 <Link href="/peinture" className={styles.li} onClick={() => setIsOpen(false)}>Peinture</Link>
@@ -57,9 +69,11 @@ export default function Menu() {
               </div>
             )}
           </div>
+
           <Link href="/contact" className={`${styles.link} ${pathname === "/contact" ? styles.active : ""}`}>Contact & Devis gratuit</Link>
         </nav>
 
+        {/* Hamburger */}
         <div className={styles.hamburger} onClick={toggleMenu}>         
           <svg
             className={styles.hamburgerIcon}
@@ -76,15 +90,15 @@ export default function Menu() {
         </div>
       </div>
 
-      {/* Mobile nav */}
+      {/* Menu mobile */}
       {isOpen && (
         <nav
           className={styles.mobileNav}
-          style={{ height: modalHeight }} // appliquer la hauteur dynamique
-          onClick={toggleMenu} // fermeture si clic hors menu
+          style={{ height: modalHeight }}
+          onClick={toggleMenu} // fermer si clic hors menu
         >
           <div
-            className={styles.mobileContent} // ajouter un div interne pour le scroll du menu si nécessaire
+            className={styles.mobileContent}
             onClick={(e) => e.stopPropagation()} // empêcher la fermeture si clic dans le menu
           >
             <div className={styles.header}>
