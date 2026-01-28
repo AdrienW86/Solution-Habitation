@@ -58,6 +58,17 @@ export default function Menu() {
       </div>
       {isOpen && (
         <nav className={styles.mobileNav}>
+          <div className={styles.header}>
+           <Image
+        className={styles.logo2}
+        src="/logo.png"
+        alt="Solution habitation logo"
+        width={100}
+        height={100}
+        priority
+      />
+        <p className={styles.h1}> Solution <span className={styles.span}> Habitation </span>   </p>
+          </div>
           <Link href="/" className={styles.mobile_li} onClick={() => setIsOpen(false)}>Accueil</Link>     
           <Link href="/peinture" className={styles.mobile_li} onClick={() => setIsOpen(false)}> Peinture </Link>
           <Link href="/nettoyage" className={styles.mobile_li} onClick={() => setIsOpen(false)}> Nettoyage </Link>
