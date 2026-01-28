@@ -72,8 +72,8 @@ export default function Menu() {
               className={styles.logo}
               src="/logo.png"
               alt="Solution habitation logo"
-              width={100}
-              height={100}
+              width={80}
+              height={80}
               priority
             />
           </div>
