@@ -80,8 +80,8 @@
   padding: 20px;
 }
 
-.mobile-li {
-
+.mobile_li {
+  height: 7vh
 }
 
 .mobile_li:hover ,.li:hover{
