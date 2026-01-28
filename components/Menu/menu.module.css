@@ -65,7 +65,7 @@ body.menu-open {
   position: absolute;
   top: 1.5rem;
   right: 1.5rem;
-  background: transparent;
+  background: black;
   border: none;
   font-size: 2rem;
   cursor: pointer;
@@ -73,7 +73,8 @@ body.menu-open {
   color: #ffffff;
   height: 4vh;
   width: 4vh;
-  top: 5vh
+  top: 5vh;
+  border: 1px solid white;
 }
 
 /* -------------------
@@ -104,7 +105,7 @@ body.menu-open {
   padding: 1rem 0;
   font-size: 1.2rem;
   text-decoration: none;
-  color: #333;
+  color: #b8b8b8;
   border-bottom: 1px solid #eee;
   transition: color 0.2s ease;
 }
