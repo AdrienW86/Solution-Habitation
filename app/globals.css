@@ -35,6 +35,10 @@ a {
   text-decoration: none;
 }
 
+strong {
+  color: var(--blue)
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
