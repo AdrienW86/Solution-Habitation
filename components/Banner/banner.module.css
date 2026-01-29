@@ -47,6 +47,7 @@
   opacity: 0.95;
   color: var(--blue);
   font-weight: bold;
+  font-style: italic;
   /* -webkit-text-stroke: 1px rgb(0, 0, 0); */
 }
 
@@ -54,8 +55,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-    width: 100%;
-    padding-top: 50px;
+  width: 100%;
+  padding-top: 50px;
 }
 
 .callButton, .formButton {
@@ -64,6 +65,9 @@
   border-radius: 16px;
   width: 160px;
   opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
   transition: .4s ease-in-out;
   font-weight: bold;
 }
@@ -114,4 +118,18 @@
     font-weight: bold;
     /* -webkit-text-stroke: 1px rgb(0, 0, 0); */
   }
+
+  .callButton, .formButton {
+  margin: 20px auto;
+  padding: 10px;   
+  border-radius: 16px;
+  width: 130px;
+  font-size: 0.8rem;
+  opacity: 0.8;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  transition: .4s ease-in-out;
+  font-weight: bold;
+}
 }
