@@ -18,7 +18,7 @@
     justify-content: center;
 }
 
-.span {
+.span2 {
     display: flex;
     color: var(--blue);
     margin-left: 10px;
@@ -44,6 +44,7 @@
 }
 
 .span {
+    margin-left: 7px;
     color: var(--blue);
     font-weight: bold;
     font-style: italic;

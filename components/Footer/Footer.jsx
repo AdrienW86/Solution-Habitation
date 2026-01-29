@@ -14,7 +14,7 @@ export default function Footer() {
             height={80}
             priority
         />
-        <p className={styles.h1}> Solution <span className={styles.span}> Habitation </span> </p>
+        <p className={styles.h1}> Solution <span className={styles.span2}> Habitation </span> </p>
         <section className={styles.linkContainer}>           
           <Link href="/peinture" className={styles.li} >Peinture</Link>
           <Link href="/nettoyage" className={styles.li} >Nettoyage</Link>
