@@ -2,6 +2,11 @@
   height: 200vh
 }
 
+.servicesCards {
+  display: flex;
+  flex-wrap: wrap;
+}
+
 .h3 {
   padding: 20px;
   text-align: center;
