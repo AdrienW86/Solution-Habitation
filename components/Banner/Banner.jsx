@@ -101,10 +101,10 @@ export default function Banner() {
         </h2>
         <p>Des solutions modernes, fiables et durables pour votre habitation, vos locaux ou bureaux.</p>
         <div className={styles.buttonContainer}>
-            <a href="tel:+33123456789" className={styles.callButton}>
+            <a href="tel:+33628286967" className={styles.callButton}>
             📞 06 28 28 67 69
             </a>
-            <a href="tel:+33123456789" className={styles.formButton}>
+            <a href="/contact" className={styles.formButton}>
                 Devis Gratuit
             </a>
         </div>

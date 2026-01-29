@@ -1,6 +1,7 @@
 .servicesCards {
   display: flex;
   flex-wrap: wrap;
+  margin-bottom: 30px;
 }
 
 .h3 {
