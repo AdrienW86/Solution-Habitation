@@ -2,11 +2,10 @@
 
 import { useEffect, useState, useRef } from "react";
 import Image from "next/image";
-import styles from "./banner.module.css";
+import styles from "./simpleBanner.module.css";
 
-const words = ["Création", " - Innovation", " - Protection"];
-
-export default function Banner() {
+export default function Banner(props) {
+  const words = props.words
   const [text, setText] = useState("");
   const [wordIndex, setWordIndex] = useState(0);
   const [charIndex, setCharIndex] = useState(0);
@@ -38,10 +37,8 @@ export default function Banner() {
 
     const timeout = setTimeout(() => {
       if (!isDeleting) {
-        // on est en mode écriture
         if (wordIndex < words.length) {
           const currentWord = words[wordIndex];
-          // construction du texte : mots précédents + lettres actuelles
           const prevWords = words.slice(0, wordIndex).join(" ");
           const newText = prevWords ? prevWords + " " + currentWord.slice(0, charIndex + 1) : currentWord.slice(0, charIndex + 1);
           setText(newText);
@@ -84,8 +81,8 @@ export default function Banner() {
   return (
     <section ref={bannerRef} className={styles.banner}>      
       <Image
-        src="/banner.png"
-        alt="Innovation, création et protection"
+        src={props.image}
+        alt={props.alt}
         fill
         priority
         className={styles.image}
@@ -96,7 +93,7 @@ export default function Banner() {
           {text}
           <span className={styles.cursor}>|</span>
         </h2>
-        <p>Des solutions modernes, fiables et durables pour votre habitation, vos locaux ou bureaux.</p>
+        <p>{props.description}</p>
         <div className={styles.buttonContainer}>
             <a href="tel:+33628286967" className={styles.callButton}>
             📞 06 28 28 67 69

@@ -1,0 +1,10 @@
+.container {
+    margin-top: 15vh;
+}
+
+.h2 {
+    padding: 12px;
+    text-align: center;
+    background-color: var(--blue);
+}
+
