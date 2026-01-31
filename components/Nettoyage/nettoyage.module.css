@@ -8,3 +8,25 @@
     background-color: var(--blue);
 }
 
+.h3 {
+    padding: 20px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.intro {
+    padding: 20px;
+    line-height: 1.4rem;   
+}
+
+.ul {
+    padding: 30px;
+}
+
+.spanUl {
+    margin-bottom: 30px;
+}
+
+.li {
+    margin: 10px;
+}
