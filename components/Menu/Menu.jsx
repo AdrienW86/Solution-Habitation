@@ -55,14 +55,14 @@ export default function Menu() {
             </button>
             {isServicesOpen && (
               <div className={styles.dropdownContent}>
-                <Link href="/peinture" className={styles.li} onClick={() => setIsOpen(false)}>Peinture</Link>
-                <Link href="/nettoyage" className={styles.li} onClick={() => setIsOpen(false)}>Nettoyage</Link>
-                <Link href="/electricite" className={styles.li} onClick={() => setIsOpen(false)}>Electricité</Link>
-                <Link href="/exterieur" className={styles.li} onClick={() => setIsOpen(false)}>Jardin et exterieur</Link>
-                <Link href="/plomberie" className={styles.li} onClick={() => setIsOpen(false)}>Plomberie</Link>
-                <Link href="/couverture" className={styles.li} onClick={() => setIsOpen(false)}>Travaux de couverture</Link>
-                <Link href="/nuisibles" className={styles.li} onClick={() => setIsOpen(false)}>Traitement des nuisibles</Link>
-                <Link href="/contact" className={styles.li} onClick={() => setIsOpen(false)}>Contact</Link>
+                <Link href="/peinture" className={styles.li} onClick={() => setIsServicesOpen(false)}>Peinture</Link>
+                <Link href="/nettoyage" className={styles.li} onClick={() => setIsServicesOpen(false)}>Nettoyage</Link>
+                <Link href="/electricite" className={styles.li} onClick={() => setIsServicesOpen(false)}>Electricité</Link>
+                <Link href="/exterieur" className={styles.li} onClick={() => setIsServicesOpen(false)}>Jardin et exterieur</Link>
+                <Link href="/plomberie" className={styles.li} onClick={() => setIsServicesOpen(false)}>Plomberie</Link>
+                <Link href="/couverture" className={styles.li} onClick={() => setIsServicesOpen(false)}>Travaux de couverture</Link>
+                <Link href="/nuisibles" className={styles.li} onClick={() => setIsServicesOpen(false)}>Traitement des nuisibles</Link>
+                <Link href="/contact" className={styles.li} onClick={() => setIsServicesOpen(false)}>Contact</Link>
               </div>
             )}
           </div>

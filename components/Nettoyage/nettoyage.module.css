@@ -1,6 +1,6 @@
 .container {
     margin-top: 15vh;
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
 }
 
@@ -21,6 +21,8 @@
     text-align: center;
     line-height: 1.4rem;   
     border: 1px solid var(--blue);
+    background-color: var(--blue);
+    font-weight: bold;
     margin: 20px
 }
 
@@ -32,3 +34,12 @@
 .li {
     margin: 10px 30px 10px 50px
 }
+
+.servicesCards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+
