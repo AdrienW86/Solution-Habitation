@@ -1,45 +1,28 @@
 .container {
-    margin-top: 15vh;
-    max-width: 1200px;
-    margin: auto;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem;
+  font-family: 'Arial', sans-serif;
+  line-height: 1.6;
+  color: #333;
 }
 
-.h2 {
-    padding: 12px;
-    text-align: center;
-    background-color: var(--blue);
+.title {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1rem;
+  color: var(--blue);
+  text-align: center;
+ text-decoration: underline;
 }
 
-.h3 {
-    padding: 20px;
-    text-align: center;
-    margin-top: 10px;
+.text {
+  margin-bottom: 1rem;
+  font-size: 1rem;
 }
 
-.intro {
-    padding: 20px;
-    text-align: center;
-    line-height: 1.4rem;   
-    border: 1px solid var(--blue);
-    background-color: var(--blue);
-    font-weight: bold;
-    margin: 20px
+.list {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 1rem;
 }
-
-.spanUl {
-    margin: 30px;
-    color: var(--blue)
-}
-
-.li {
-    margin: 10px 30px 10px 50px
-}
-
-.servicesCards {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-}
-
-
-
