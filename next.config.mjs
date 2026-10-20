@@ -21,28 +21,6 @@ const nextConfig = {
   images: { formats: ['image/avif', 'image/webp'] },
   async redirects() {
     return [
-      ...[
-        '/',
-        '/expertises/:path*',
-        '/recherche',
-        '/territoires/:path*',
-        '/regions/:path*',
-        '/enseignes/:path*',
-        '/conseils/:path*',
-        '/contact',
-        '/le-reseau',
-        '/le-film',
-        '/informations',
-        '/confidentialite',
-        '/accessibilite',
-        '/sitemap.xml',
-        '/robots.txt',
-      ].map((source) => ({
-        source,
-        has: [{ type: 'host', value: 'www.solution-habitation.fr' }],
-        destination: `https://solution-habitation.fr${source}`,
-        statusCode: 301,
-      })),
       {
         source: '/mentions',
         destination: 'https://solution-habitation.fr/informations',
