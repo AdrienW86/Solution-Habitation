@@ -1,0 +1,207 @@
+{
+  "checked": 61,
+  "localPagesWithImage": 0,
+  "exactDuplicates": 0,
+  "pairs": [
+    {
+      "a": "/images/editorial/article-preparer-diagnostic-toiture.svg",
+      "b": "/images/editorial/article-nettoyage-toiture-methodes.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-preparer-diagnostic-toiture.svg",
+      "b": "/images/editorial/service-toiture-zinguerie.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-preparer-intervention-nuisibles.svg",
+      "b": "/images/editorial/article-rongeurs-acces-prevention.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-cahier-charges-nettoyage.svg",
+      "b": "/images/editorial/service-nettoyage-locaux-professionnels.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-preparer-location-climatiseur-mobile.svg",
+      "b": "/images/editorial/expertise-climatisation-mobile.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-ramonage-frequence-justificatifs.svg",
+      "b": "/images/editorial/article-attestation-ramonage-verifier.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-preparer-ravalement-facade.svg",
+      "b": "/images/editorial/service-peinture-facades-preparation-supports.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 0,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-traces-humidite-plafond.svg",
+      "b": "/images/editorial/service-toiture-zinguerie.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-nettoyage-toiture-methodes.svg",
+      "b": "/images/editorial/service-toiture-zinguerie.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-rongeurs-indices.svg",
+      "b": "/images/editorial/service-nuisibles-deratisation.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-punaises-lit-indices.svg",
+      "b": "/images/editorial/service-nuisibles-punaises-de-lit.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 0,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-punaises-lit-indices.svg",
+      "b": "/images/editorial/service-nuisibles-guepes-frelons.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-blattes-preparer-diagnostic.svg",
+      "b": "/images/editorial/service-nuisibles-guepes-frelons.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 1,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-nid-guepes-frelons.svg",
+      "b": "/images/editorial/service-nuisibles-guepes-frelons.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-nettoyage-bureaux-frequences.svg",
+      "b": "/images/editorial/service-nettoyage-locaux-professionnels.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 1,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-nettoyage-residentiel-perimetre.svg",
+      "b": "/images/editorial/service-nettoyage-nettoyage-residentiel.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-puissance.svg",
+      "b": "/images/editorial/article-climatiseur-mobile-location-achat.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-puissance.svg",
+      "b": "/images/editorial/service-climatisation-mobile-bureaux-commerces.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-puissance.svg",
+      "b": "/images/editorial/service-climatisation-mobile-evenements.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-location-achat.svg",
+      "b": "/images/editorial/article-climatiseur-mobile-bureau-commerce.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-location-achat.svg",
+      "b": "/images/editorial/service-climatisation-mobile-besoin-temporaire.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-location-achat.svg",
+      "b": "/images/editorial/service-climatisation-mobile-evenements.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-climatiseur-mobile-bureau-commerce.svg",
+      "b": "/images/editorial/service-climatisation-mobile-besoin-temporaire.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 0,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/article-attestation-ramonage-verifier.svg",
+      "b": "/images/editorial/service-ramonage-reglementation.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    },
+    {
+      "a": "/images/editorial/service-nuisibles-punaises-de-lit.svg",
+      "b": "/images/editorial/service-nuisibles-guepes-frelons.svg",
+      "exactBytes": false,
+      "exactPixels": false,
+      "differenceBits": 2,
+      "review": "Ressemblance globale à examiner visuellement ; le score ne prouve pas un doublon."
+    }
+  ]
+}

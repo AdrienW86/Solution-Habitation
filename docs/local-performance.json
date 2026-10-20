@@ -1,0 +1,37 @@
+{
+  "environment": "Production locale, Chromium iPhone 13, réseau 4 Mbps/40 ms, CPU x4. Mesures de laboratoire ponctuelles, sans garantie de terrain.",
+  "samples": [
+    {
+      "path": "/territoires/66/dossiers",
+      "lcp": 456,
+      "cls": 0,
+      "ttfb": 14.199999988079071,
+      "transferredBytes": 205236,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/territoires/66/bompas/couverture",
+      "lcp": 492,
+      "cls": 0,
+      "ttfb": 3.399999976158142,
+      "transferredBytes": 212868,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/territoires/66/bompas/deratisation",
+      "lcp": 452,
+      "cls": 0,
+      "ttfb": 3.300000011920929,
+      "transferredBytes": 212869,
+      "horizontalOverflow": false
+    },
+    {
+      "path": "/territoires/66/bompas/nettoyage",
+      "lcp": 464,
+      "cls": 0,
+      "ttfb": 3.199999988079071,
+      "transferredBytes": 212870,
+      "horizontalOverflow": false
+    }
+  ]
+}

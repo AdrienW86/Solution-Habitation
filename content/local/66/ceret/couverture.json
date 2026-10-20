@@ -1,0 +1,70 @@
+{
+  "communeCode": "66049",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Céret : préparer une visite avec accès par cour intérieure",
+  "h1": "Couverture à Céret : préparer une visite avec accès par cour intérieure",
+  "description": "À Céret, décrivez cour, passages et parties de toiture visibles pour demander une reconnaissance cohérente et un devis aux couvreurs du réseau.",
+  "intro": "Pour une toiture à Céret dont certaines parties donnent sur une cour intérieure, les vues depuis la rue peuvent être insuffisantes. Le centre historique est un repère documenté de la commune, sans décrire la configuration de chaque maison. Le réseau permet de consulter les couvreurs desservant Céret ; cette page aide à préparer une reconnaissance qui tienne compte des volumes visibles, des passages et des accès autorisés au bâtiment concerné.",
+  "intent": "Définir une reconnaissance lorsque la vue depuis la rue est incomplète ; distinguer cour, accès privatifs et moyens techniques sans supposer que tout le centre présente la même configuration.",
+  "specificValue": "Définir une reconnaissance lorsque la vue depuis la rue est incomplète ; distinguer cour, accès privatifs et moyens techniques sans supposer que tout le centre présente la même configuration.",
+  "sections": [
+    {
+      "heading": "Faire un relevé des vues disponibles",
+      "paragraphs": [
+        "Depuis les espaces normalement accessibles, indiquez quelles faces du bâtiment peuvent être vues et lesquelles restent masquées. Une cour, une extension ou un mur voisin peuvent limiter la compréhension d’un pan de toiture. Photographiez le contexte et placez les pièces concernées sur un croquis simple. La reconnaissance ne doit pas être préparée en montant sur des ouvrages ou en empruntant un accès non prévu pour cet usage : les points manquants seront à signaler au professionnel."
+      ]
+    },
+    {
+      "heading": "Identifier le parcours jusqu’à la cour",
+      "paragraphs": [
+        "Décrivez les portes, couloirs, escaliers et éventuelles parties partagées. Précisez qui peut ouvrir et quelles autorisations doivent être obtenues avant la visite. Un passage possible pour une personne ne garantit pas que du matériel de chantier puisse suivre le même chemin. L’entreprise devra déterminer les conditions nécessaires ; ne promettez pas l’utilisation d’un espace voisin ou d’un stationnement qui n’aurait pas été vérifié et accepté par les personnes concernées."
+      ]
+    },
+    {
+      "heading": "Situer les traces par rapport aux ouvrages",
+      "paragraphs": [
+        "Une marque dans une pièce donnant sur cour peut avoir plusieurs explications à examiner. Notez les dates, les circonstances et les modifications connues du bâtiment. Demandez que le diagnostic distingue couverture, raccords et évacuations, avec les limites dues aux parties non observées. Le caractère ancien d’un secteur ne justifie pas une conclusion générale sur l’état du toit. Les éventuelles prescriptions à l’adresse et les travaux nécessaires se vérifient séparément avec les interlocuteurs compétents."
+      ]
+    },
+    {
+      "heading": "Vérifier ce que couvre la proposition",
+      "paragraphs": [
+        "Un devis exploitable précise les ouvrages visés, les moyens d’accès retenus et les préparatifs attendus. Demandez comment les parties conservées seront reliées à la réparation et quels points restent hors mission. Le dossier conserve Céret et la famille couverture ; ajoutez les informations d’accès à la cour et votre chronologie de constats. La couverture départementale des entreprises affichées confirme la desserte de la commune, sans garantir une méthode, un délai ou une implantation professionnelle dans le centre de Céret."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une photo prise depuis la rue suffit-elle à établir le devis ?",
+      "answer": "Elle peut préparer le contact, mais ne montre pas toujours les ouvrages donnant sur cour ni leurs raccords. Demandez quelles vues et quelle reconnaissance seront nécessaires avant de considérer le périmètre comme établi."
+    },
+    {
+      "question": "Dois-je organiser moi-même l’accès chez un voisin ?",
+      "answer": "Si cet accès paraît nécessaire, signalez-le à l’entreprise et identifiez les personnes concernées. Les autorisations et les modalités doivent être convenues avant la visite ou les travaux, sans supposer qu’un passage sera disponible."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66049",
+      "label": "API Géo — identité officielle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.vallespir-tourisme.fr/decouvrez/5-idees-de-visites/",
+      "label": "Présentation institutionnelle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

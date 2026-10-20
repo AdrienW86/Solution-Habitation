@@ -1,0 +1,70 @@
+{
+  "communeCode": "66164",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Rivesaltes : distinguer réserve et zone de livraison",
+  "h1": "Dératisation à Rivesaltes : distinguer réserve et zone de livraison",
+  "description": "À Rivesaltes, documentez les indices dans une réserve et ses accès sans attribuer leur origine aux livraisons avant l’inspection professionnelle.",
+  "intro": "Un emballage endommagé dans une réserve à Rivesaltes demande un examen précis : quel objet, dans quelle zone et à quel moment ? Pour une dératisation, évitez d’attribuer immédiatement le passage aux livraisons ou au voisinage. Les entreprises du réseau desservant la commune peuvent étudier les indices et les accès ; le dossier initial doit rendre lisible ce qui est constaté et ce qui demeure hypothétique.",
+  "intent": "Qualifier un signalement dans une réserve avec marchandises, zones entrantes et accès extérieurs ; dissocier constat, hypothèse d’origine et mesures de prévention à examiner.",
+  "specificValue": "Qualifier un signalement dans une réserve avec marchandises, zones entrantes et accès extérieurs ; dissocier constat, hypothèse d’origine et mesures de prévention à examiner.",
+  "sections": [
+    {
+      "heading": "Cartographier le stockage sans déplacer les indices",
+      "paragraphs": [
+        "Repérez la zone de découverte sur un plan simple de la réserve et indiquez les circulations habituelles. Notez les dates d’ouverture des emballages concernés si vous les connaissez. Un dommage isolé ne suffit pas à établir l’étendue d’une présence. Photographiez sans manipuler les traces et signalez les autres zones contrôlées. Des informations sur la hauteur de stockage et l’encombrement aident à préparer l’inspection sans promettre que tout sera visible immédiatement."
+      ]
+    },
+    {
+      "heading": "Décrire les accès et les habitudes d’ouverture",
+      "paragraphs": [
+        "Indiquez les portes utilisées pour recevoir les marchandises, leurs périodes d’ouverture et les passages techniques visibles. La question n’est pas de désigner un responsable mais de permettre une lecture du fonctionnement des lieux. Ne bloquez pas une ventilation et ne modifiez pas un dispositif de sécurité pour supprimer un passage suspecté. Le professionnel pourra proposer des vérifications et des mesures compatibles avec les usages et les contraintes réelles du local."
+      ]
+    },
+    {
+      "heading": "Mettre les marchandises et les personnes dans le périmètre",
+      "paragraphs": [
+        "Précisez la nature générale de ce qui est stocké et les contraintes d’accès, sans joindre de données commerciales confidentielles. Demandez quelles précautions sont nécessaires pour les personnes et les biens, et quels déplacements doivent être préparés avant l’intervention. Les modalités retenues doivent être justifiées par le diagnostic. Un besoin sectoriel particulier doit être déclaré et confirmé directement, sans prêter à l’entreprise une qualification qui ne figure pas dans sa présentation."
+      ]
+    },
+    {
+      "heading": "Définir un suivi observable",
+      "paragraphs": [
+        "La demande doit permettre de distinguer inspection, traitement éventuel, prévention des accès et contrôles ultérieurs. Demandez quels éléments seront consignés et comment les nouveaux indices devront être signalés. À Rivesaltes, la couverture des entreprises affichées repose sur la déclaration départementale du réseau ; elle ne garantit pas de délai. Gardez la référence du dossier et désignez un interlocuteur pour que les observations recueillies après le premier passage restent comparables aux constats initiaux."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un carton rongé prouve-t-il que le stock est infesté ?",
+      "answer": "Ce constat appelle une vérification, mais ne permet pas à lui seul de qualifier tout le stock. Localisez le dommage, sa date de découverte et les autres indices éventuels afin que le professionnel précise le périmètre à examiner."
+    },
+    {
+      "question": "Dois-je réorganiser toute la réserve avant la visite ?",
+      "answer": "Demandez d’abord quelles zones doivent être rendues accessibles. Un déplacement massif peut brouiller la localisation des observations ; convenez des préparatifs et des précautions en fonction des biens et des usages du local."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66164",
+      "label": "API Géo — identité officielle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/rivesaltes/",
+      "label": "Présentation institutionnelle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

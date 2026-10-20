@@ -1,0 +1,99 @@
+{
+  "lighthouse": {
+    "categories": {
+      "performance": 96,
+      "accessibility": 100,
+      "best-practices": 100,
+      "seo": 69
+    },
+    "metrics": {
+      "first-contentful-paint": {
+        "value": 765.5652,
+        "display": "0.8 s"
+      },
+      "largest-contentful-paint": {
+        "value": 2770.5652,
+        "display": "2.8 s"
+      },
+      "total-blocking-time": {
+        "value": 40,
+        "display": "40 ms"
+      },
+      "cumulative-layout-shift": {
+        "value": 0,
+        "display": "0"
+      },
+      "speed-index": {
+        "value": 862.612610038953,
+        "display": "0.9 s"
+      }
+    },
+    "warnings": [],
+    "failed": [
+      {
+        "id": "largest-contentful-paint",
+        "title": "Largest Contentful Paint",
+        "display": "2.8 s"
+      },
+      {
+        "id": "largest-contentful-paint-element",
+        "title": "Largest Contentful Paint element",
+        "display": "2,770 ms"
+      },
+      {
+        "id": "render-blocking-resources",
+        "title": "Eliminate render-blocking resources",
+        "display": "Est savings of 0 ms"
+      },
+      {
+        "id": "unused-javascript",
+        "title": "Reduce unused JavaScript",
+        "display": "Est savings of 29 KiB"
+      },
+      {
+        "id": "uses-responsive-images",
+        "title": "Properly size images",
+        "display": "Est savings of 32 KiB"
+      },
+      {
+        "id": "legacy-javascript",
+        "title": "Avoid serving legacy JavaScript to modern browsers",
+        "display": "Est savings of 13 KiB"
+      },
+      {
+        "id": "is-crawlable",
+        "title": "Page is blocked from indexing"
+      },
+      {
+        "id": "forced-reflow-insight",
+        "title": "Forced reflow"
+      },
+      {
+        "id": "image-delivery-insight",
+        "title": "Improve image delivery",
+        "display": "Est savings of 48 KiB"
+      },
+      {
+        "id": "legacy-javascript-insight",
+        "title": "Legacy JavaScript",
+        "display": "Est savings of 14 KiB"
+      },
+      {
+        "id": "network-dependency-tree-insight",
+        "title": "Network dependency tree"
+      },
+      {
+        "id": "render-blocking-insight",
+        "title": "Render blocking requests",
+        "display": "Est savings of 20 ms"
+      }
+    ]
+  },
+  "crawl": {
+    "pages": 27,
+    "internalLinks": 45,
+    "broken": [],
+    "duplicateTitles": [],
+    "accessibilityViolations": 0
+  }
+}

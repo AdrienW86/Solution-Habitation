@@ -1,0 +1,70 @@
+{
+  "communeCode": "66021",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Bompas : suivre les indices entre jardin et logement",
+  "h1": "Dératisation à Bompas : suivre les indices entre jardin et logement",
+  "description": "Préparez une dératisation à Bompas avec un relevé des passages, des accès et des pièces concernées, puis comparez les entreprises du réseau.",
+  "intro": "Des indices près d’un abri de jardin, un emballage rongé dans le garage ou un bruit derrière une cloison n’appellent pas les mêmes vérifications. Pour une dératisation à Bompas, commencez par localiser ce qui est réellement constaté. Les professionnels du réseau desservant la commune peuvent ensuite examiner les lieux et définir une réponse, sans diagnostic d’espèce fondé sur une simple description.",
+  "intent": "Différencier une observation extérieure d’une présence intérieure, tracer les accès possibles et organiser le suivi sans attribuer une infestation à la commune.",
+  "specificValue": "Différencier une observation extérieure d’une présence intérieure, tracer les accès possibles et organiser le suivi sans attribuer une infestation à la commune.",
+  "sections": [
+    {
+      "heading": "Tracer une limite entre dehors et dedans",
+      "paragraphs": [
+        "Dessinez un plan sommaire reliant jardin, garage, cuisine et dépendances. Placez-y les observations avec leur date, y compris les endroits contrôlés où rien n’a été vu. Cette distinction aide à savoir si le problème décrit concerne une intrusion dans le logement ou une activité extérieure. Gardez les enfants et les animaux à distance des indices et ne manipulez pas des déjections pour en constituer un échantillon."
+      ]
+    },
+    {
+      "heading": "Utiliser le contexte de Bompas avec prudence",
+      "paragraphs": [
+        "La localisation de Bompas près de la Têt est un repère territorial documenté, pas la preuve d’une infestation ni d’un trajet de rongeurs vers votre maison. Les éléments utiles sont ceux de la parcelle : accès techniques, stockage, contenants de déchets et pièces touchées. Si vous suspectez un lien avec un espace voisin, présentez-le comme une hypothèse que le professionnel devra examiner, sans désigner un responsable."
+      ]
+    },
+    {
+      "heading": "Éviter de brouiller les observations",
+      "paragraphs": [
+        "Photographiez à distance les dommages visibles et notez les changements d’habitudes récents, comme l’ouverture prolongée d’un garage. Ne répartissez pas plusieurs produits au hasard et signalez tout traitement déjà réalisé. Une intervention sérieuse doit préciser les précautions liées aux occupants, les points contrôlés et le rôle des mesures de prévention. La recherche d’accès n’autorise pas à obturer vous-même un passage dont la fonction technique est inconnue."
+      ]
+    },
+    {
+      "heading": "Prévoir une décision et un suivi",
+      "paragraphs": [
+        "Dans la demande, séparez les lieux concernés, les signes, les dates et les contraintes de visite. Demandez ce que comprend le diagnostic, comment seront communiquées les consignes et si un contrôle ultérieur fait partie de la proposition. Les enseignes affichées sont calculées depuis la couverture du réseau ; leur présence ne constitue ni un délai garanti ni une implantation à Bompas. La disponibilité se vérifie directement avec l’entreprise choisie."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une observation dans le jardin impose-t-elle un traitement dans la maison ?",
+      "answer": "Non, les deux périmètres doivent être examinés séparément. Précisez ce qui a été observé dehors et les éventuels indices dans le logement ; le diagnostic doit justifier les zones à prendre en charge."
+    },
+    {
+      "question": "Faut-il fermer tous les trous avant la visite ?",
+      "answer": "Décrivez les ouvertures repérées, mais ne modifiez pas aveuglément les aérations ou les passages techniques. Le professionnel pourra distinguer un accès à traiter d’un élément nécessaire au fonctionnement du bâtiment."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66021",
+      "label": "API Géo — identité officielle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/bompas/",
+      "label": "Présentation institutionnelle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

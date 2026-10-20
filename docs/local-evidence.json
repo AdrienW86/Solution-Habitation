@@ -1,0 +1,358 @@
+{
+  "geographicReference": "data/geographie/communes.json",
+  "commercialReference": "data/reseau.json",
+  "ownerConfirmation": "mission-proprietaire-2026-10-20-couverture-66",
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66008",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/argeles-sur-mer/couverture",
+        "/territoires/66/argeles-sur-mer/deratisation",
+        "/territoires/66/argeles-sur-mer/nettoyage"
+      ]
+    },
+    {
+      "url": "https://www.argeles-sur-mer.com/cap-mediteranee/les-plages/plage-du-racou/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/argeles-sur-mer/couverture",
+        "/territoires/66/argeles-sur-mer/deratisation",
+        "/territoires/66/argeles-sur-mer/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66021",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/bompas/couverture",
+        "/territoires/66/bompas/deratisation",
+        "/territoires/66/bompas/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/bompas/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/bompas/couverture",
+        "/territoires/66/bompas/deratisation",
+        "/territoires/66/bompas/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66028",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/cabestany/couverture",
+        "/territoires/66/cabestany/deratisation",
+        "/territoires/66/cabestany/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/cabestany/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/cabestany/couverture",
+        "/territoires/66/cabestany/deratisation",
+        "/territoires/66/cabestany/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66037",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/canet-en-roussillon/couverture",
+        "/territoires/66/canet-en-roussillon/deratisation",
+        "/territoires/66/canet-en-roussillon/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/canet-en-roussillon/couverture",
+        "/territoires/66/canet-en-roussillon/deratisation",
+        "/territoires/66/canet-en-roussillon/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66049",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/ceret/couverture",
+        "/territoires/66/ceret/deratisation",
+        "/territoires/66/ceret/nettoyage"
+      ]
+    },
+    {
+      "url": "https://www.vallespir-tourisme.fr/decouvrez/5-idees-de-visites/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/ceret/couverture",
+        "/territoires/66/ceret/deratisation",
+        "/territoires/66/ceret/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66065",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/elne/couverture",
+        "/territoires/66/elne/deratisation",
+        "/territoires/66/elne/nettoyage"
+      ]
+    },
+    {
+      "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/les-villages-incontournables-en-pyrenees-mediterranee/elne/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/elne/couverture",
+        "/territoires/66/elne/deratisation",
+        "/territoires/66/elne/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66017",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/le-barcares/couverture",
+        "/territoires/66/le-barcares/deratisation",
+        "/territoires/66/le-barcares/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/le-barcares/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/le-barcares/couverture",
+        "/territoires/66/le-barcares/deratisation",
+        "/territoires/66/le-barcares/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66136",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/perpignan/couverture",
+        "/territoires/66/perpignan/deratisation",
+        "/territoires/66/perpignan/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/perpignan/couverture",
+        "/territoires/66/perpignan/deratisation",
+        "/territoires/66/perpignan/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66141",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/pia/couverture",
+        "/territoires/66/pia/deratisation",
+        "/territoires/66/pia/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66144",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/pollestres/couverture",
+        "/territoires/66/pollestres/deratisation",
+        "/territoires/66/pollestres/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/pollestres/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/pollestres/couverture",
+        "/territoires/66/pollestres/deratisation",
+        "/territoires/66/pollestres/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66149",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/prades/couverture",
+        "/territoires/66/prades/deratisation",
+        "/territoires/66/prades/nettoyage"
+      ]
+    },
+    {
+      "url": "https://www.prades.com/articles-3/25-22-entre-mer-et-montagne/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/prades/couverture",
+        "/territoires/66/prades/deratisation",
+        "/territoires/66/prades/nettoyage"
+      ]
+    },
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31269",
+      "assertions": [
+        "Cadre du dépôt de garantie ; le nettoyage ne détermine pas à lui seul l’issue de l’état des lieux."
+      ],
+      "documents": [
+        "/territoires/66/prades/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66164",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/rivesaltes/couverture",
+        "/territoires/66/rivesaltes/deratisation",
+        "/territoires/66/rivesaltes/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/rivesaltes/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/rivesaltes/couverture",
+        "/territoires/66/rivesaltes/deratisation",
+        "/territoires/66/rivesaltes/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66171",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/saint-cyprien/couverture",
+        "/territoires/66/saint-cyprien/deratisation",
+        "/territoires/66/saint-cyprien/nettoyage"
+      ]
+    },
+    {
+      "url": "https://saint-cyprien.com/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/saint-cyprien/couverture",
+        "/territoires/66/saint-cyprien/deratisation",
+        "/territoires/66/saint-cyprien/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66172",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/saint-esteve/couverture",
+        "/territoires/66/saint-esteve/deratisation",
+        "/territoires/66/saint-esteve/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saint-esteve/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/saint-esteve/couverture",
+        "/territoires/66/saint-esteve/deratisation",
+        "/territoires/66/saint-esteve/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66189",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/saleilles/couverture",
+        "/territoires/66/saleilles/deratisation",
+        "/territoires/66/saleilles/nettoyage"
+      ]
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saleilles/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/saleilles/couverture",
+        "/territoires/66/saleilles/deratisation",
+        "/territoires/66/saleilles/nettoyage"
+      ]
+    },
+    {
+      "url": "https://geo.api.gouv.fr/communes/66210",
+      "assertions": [
+        "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+      ],
+      "documents": [
+        "/territoires/66/thuir/couverture",
+        "/territoires/66/thuir/deratisation",
+        "/territoires/66/thuir/nettoyage"
+      ]
+    },
+    {
+      "url": "https://thuir.fr/",
+      "assertions": [
+        "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+      ],
+      "documents": [
+        "/territoires/66/thuir/couverture",
+        "/territoires/66/thuir/deratisation",
+        "/territoires/66/thuir/nettoyage"
+      ]
+    }
+  ],
+  "note": "Une source locale situe une commune ; elle ne prouve ni une infestation ni un type dominant de bâtiment. Les hypothèses conditionnelles des guides ne sont pas des statistiques communales."
+}

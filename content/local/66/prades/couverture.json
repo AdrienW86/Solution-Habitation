@@ -1,0 +1,70 @@
+{
+  "communeCode": "66149",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Prades : préparer un entretien avec un historique incomplet",
+  "h1": "Couverture à Prades : préparer un entretien avec un historique incomplet",
+  "description": "À Prades, organisez l’examen d’un toit dont l’historique est peu connu : observations, accès et distinction entre entretien, surveillance et réparation.",
+  "intro": "Vous disposez de peu d’informations sur la toiture d’un bien à Prades et souhaitez en préparer l’entretien ? L’absence d’historique ne justifie ni une rénovation systématique ni un simple nettoyage choisi sans examen. Le réseau permet de consulter les couvreurs desservant la commune. Cette page aide à rassembler les faits disponibles, à présenter les inconnues et à demander une reconnaissance adaptée avant de fixer le programme de travaux.",
+  "intent": "Cas d’un nouveau propriétaire ou d’un historique manquant : ne pas inventer l’âge du toit, hiérarchiser les inconnues et demander une reconnaissance avant une opération d’entretien.",
+  "specificValue": "Cas d’un nouveau propriétaire ou d’un historique manquant : ne pas inventer l’âge du toit, hiérarchiser les inconnues et demander une reconnaissance avant une opération d’entretien.",
+  "sections": [
+    {
+      "heading": "Écrire ce qui est connu sans compléter les blancs",
+      "paragraphs": [
+        "Indiquez les documents remis avec le bien, les dates de travaux réellement attestées et les observations faites depuis votre arrivée. Un aspect récent ne permet pas de dater une réfection. Si un ancien propriétaire a mentionné une intervention sans document, présentez cette information comme rapportée. Le professionnel doit pouvoir distinguer les données vérifiables des hypothèses ; cette prudence permet une discussion plus utile qu’un âge de toiture inventé pour remplir le dossier de demande."
+      ]
+    },
+    {
+      "heading": "Organiser une première lecture du toit",
+      "paragraphs": [
+        "Depuis les points accessibles, repérez les zones visibles, les éventuelles traces intérieures et les évacuations. Ne cherchez pas à soulever des éléments pour connaître leur état. Demandez quelles vérifications seront réalisées et si des parties resteront hors examen. Prades est située dans le Conflent dans sa présentation municipale, mais cette localisation ne permet pas de déduire les matériaux, l’exposition ou les désordres de votre bâtiment ; les choix doivent partir des constats à l’adresse concernée."
+      ]
+    },
+    {
+      "heading": "Distinguer les objectifs d’entretien et de réparation",
+      "paragraphs": [
+        "Une demande d’entretien doit préciser son objectif : examiner l’état, traiter un désordre identifié ou prévoir des actions régulières sur des ouvrages connus. Les opérations ne sont pas interchangeables et une méthode applicable sur un support ne convient pas à tous. Demandez pourquoi une intervention est proposée et ce qu’elle ne règle pas. Un devis qui énumère des gestes sans expliquer leur rapport à l’état observé ne permet pas une comparaison fiable avec une mission plus complète."
+      ]
+    },
+    {
+      "heading": "Constituer un historique pour la suite",
+      "paragraphs": [
+        "Après la visite, conservez les observations et le périmètre des actions retenues. Demandez quels points doivent être surveillés et quels contrôles de fin de travaux sont prévus. Le formulaire garde Prades et la couverture ; précisez que l’historique est incomplet afin que l’entreprise organise son échange en conséquence. Les disponibilités se confirment directement. Une future demande sera plus facile à qualifier si elle s’appuie sur ce dossier daté plutôt que sur une mémoire approximative des réparations et de leur emplacement."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il annoncer un âge de toiture estimé pour obtenir une réponse ?",
+      "answer": "Non, indiquez que l’information est inconnue si elle n’est pas documentée. Les éléments observables et les documents réellement disponibles aideront à préparer la reconnaissance ; une estimation non fondée pourrait orienter l’échange de manière trompeuse."
+    },
+    {
+      "question": "Un nettoyage est-il la première opération à prévoir sans historique ?",
+      "answer": "Il faut d’abord vérifier l’état et l’objectif de l’intervention. Demandez quelles observations justifient la méthode proposée et quelles réparations éventuelles doivent être distinguées d’un entretien, selon les ouvrages effectivement examinés."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66149",
+      "label": "API Géo — identité officielle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.prades.com/articles-3/25-22-entre-mer-et-montagne/",
+      "label": "Présentation institutionnelle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

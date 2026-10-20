@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+/test-results/
+/playwright-report/
+/artifacts/
+# Keep uncompressed institutional masters outside the repository.
+*motion-design-master*
+!.env.example

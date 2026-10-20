@@ -1,0 +1,70 @@
+{
+  "communeCode": "66021",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Bompas : comprendre un débordement avant de réparer",
+  "h1": "Couverture à Bompas : comprendre un débordement avant de réparer",
+  "description": "À Bompas, distinguez gouttière obstruée, raccord défaillant et infiltration. Préparez un diagnostic de toiture avec les couvreurs du réseau.",
+  "intro": "Une façade mouillée ou une gouttière qui déborde à Bompas ne suffit pas à désigner la réparation à entreprendre. Le réseau vous aide à trouver un couvreur desservant la commune puis à transmettre des observations exploitables. L’enjeu consiste à suivre le parcours de l’eau, sans monter sur le toit ni confondre une anomalie de collecte avec une couverture à remplacer.",
+  "intent": "Un parcours centré sur le cheminement des eaux de pluie, la distinction entre collecte et couverture, et les limites d’un diagnostic depuis le sol.",
+  "specificValue": "Un parcours centré sur le cheminement des eaux de pluie, la distinction entre collecte et couverture, et les limites d’un diagnostic depuis le sol.",
+  "sections": [
+    {
+      "heading": "Distinguer le toit de ses évacuations",
+      "paragraphs": [
+        "Une trace sous une rive peut provenir d’un élément de couverture, d’un raccord ou d’une évacuation qui ne remplit plus son rôle. Notez si l’eau apparaît pendant la pluie, après un épisode prolongé ou lors d’un débordement visible. Une photographie générale de la façade et une vue du point concerné, prises depuis une position sûre, donnent davantage de contexte qu’un gros plan isolé."
+      ]
+    },
+    {
+      "heading": "Situer le bien sans déduire son état",
+      "paragraphs": [
+        "La présentation métropolitaine place Bompas sur la rive gauche de la Têt. Ce repère géographique ne permet de conclure ni à un risque propre à votre parcelle ni à une cause d’infiltration. Pour la visite, indiquez plutôt l’adresse exacte, la hauteur approximative du bâtiment et les possibilités d’accès à la cour. Un diagnostic à l’adresse reste nécessaire pour relier les traces aux ouvrages concernés."
+      ]
+    },
+    {
+      "heading": "Mettre en ordre les vérifications",
+      "paragraphs": [
+        "Avant de demander une solution précise, réunissez les dates des désordres, les travaux précédents connus et les éventuelles observations depuis les combles accessibles. Distinguez ce que vous avez vu de ce qui reste supposé. Si une peinture a déjà été refaite, signalez-le : elle peut masquer l’évolution de la trace sans supprimer son origine. Le couvreur décidera des contrôles adaptés et des conditions d’accès en sécurité."
+      ]
+    },
+    {
+      "heading": "Comparer une proposition de réparation",
+      "paragraphs": [
+        "Un devis utile décrit les éléments examinés, la réparation proposée et les postes éventuellement exclus. Demandez comment sont traités les raccords et l’évacuation, puis quels contrôles accompagnent la fin des travaux. Le formulaire conserve Bompas et la famille couverture ; vous pouvez y préciser « débordement de gouttière » sans imposer un remplacement complet. Une copie locale du dossier ne vaut pas transmission à une entreprise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Dois-je demander directement le remplacement de la gouttière ?",
+      "answer": "Pas avant d’avoir identifié la cause. Un obstacle, un défaut de raccordement ou un autre désordre peuvent produire des signes proches ; demandez que le diagnostic et la solution retenue soient expliqués dans le périmètre proposé."
+    },
+    {
+      "question": "Une trace intérieure prouve-t-elle que le toit fuit ?",
+      "answer": "Elle justifie une vérification, mais n’établit pas à elle seule l’origine de l’humidité. Décrivez l’endroit, le moment d’apparition et son évolution ; l’entreprise doit vérifier le lien avec la couverture avant de proposer des travaux."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66021",
+      "label": "API Géo — identité officielle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/bompas/",
+      "label": "Présentation institutionnelle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

@@ -1,0 +1,70 @@
+{
+  "communeCode": "66144",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Pollestres : organiser une prestation après un déménagement",
+  "h1": "Nettoyage à Pollestres : organiser une prestation après un déménagement",
+  "description": "À Pollestres, préparez le nettoyage après déménagement en définissant les surfaces libres, les marques à examiner et les opérations réellement proposées.",
+  "intro": "Quand le mobilier a quitté un logement à Pollestres, des surfaces jusque-là masquées deviennent accessibles et certaines marques apparaissent. La demande de nettoyage doit préciser ces constats plutôt que considérer tout le logement comme remis à neuf par une même opération. Le réseau permet de consulter l’entreprise desservant la commune ; cette page aide à organiser les tâches, l’accès et la réception après le déménagement, sans y inclure implicitement des réparations ou un débarras.",
+  "intent": "Après départ du mobilier, traiter les zones auparavant cachées tout en distinguant usure et salissure ; ne pas présenter entretien courant comme débarras ou chantier spécialisé.",
+  "specificValue": "Après départ du mobilier, traiter les zones auparavant cachées tout en distinguant usure et salissure ; ne pas présenter entretien courant comme débarras ou chantier spécialisé.",
+  "sections": [
+    {
+      "heading": "Refaire un relevé après la sortie des meubles",
+      "paragraphs": [
+        "Parcourez les pièces en distinguant sols, plinthes, surfaces de cuisine et sanitaires. Repérez les zones découvertes récemment et notez les traces dont la nature reste incertaine. Une marque derrière un meuble peut correspondre à une salissure ou à une altération du support. Des vues d’ensemble rendent le besoin plus lisible qu’une série de détails sans localisation. Signalez aussi les objets encore présents, car un logement annoncé vide peut conserver des obstacles importants à certaines opérations."
+      ]
+    },
+    {
+      "heading": "Séparer les derniers objets du nettoyage",
+      "paragraphs": [
+        "Cartons, encombrants et éléments à réparer doivent être décrits comme des tâches distinctes. Ne supposez pas que l’entreprise les évacue parce que le passage intervient après un déménagement. Précisez les préparatifs restant à votre charge et demandez ce qui peut être pris en charge dans les prestations disponibles. Si un sol ou un équipement présente un défaut technique, il doit être vérifié avant d’attendre d’un entretien des surfaces qu’il en supprime les effets ou les traces permanentes."
+      ]
+    },
+    {
+      "heading": "Donner les conditions réelles du passage",
+      "paragraphs": [
+        "Indiquez si les lieux disposent d’eau et d’électricité, qui possède les clés et à quel moment le logement sera entièrement accessible. À votre adresse de Pollestres, précisez les étages et l’accès au matériel. Les consignes relatives aux revêtements doivent être transmises lorsqu’elles sont connues. Un matériau fragile ou inconnu nécessite une méthode à confirmer ; n’imposez pas un procédé agressif uniquement parce que le logement doit être remis rapidement à disposition d’un futur occupant."
+      ]
+    },
+    {
+      "heading": "Contrôler les tâches convenues avant fermeture",
+      "paragraphs": [
+        "Une liste par pièce permet de comparer le devis et le résultat sur les mêmes surfaces. Convenez de l’interlocuteur chargé de la réception et de la procédure de signalement d’un oubli dans le cadre prévu. Le formulaire conserve Pollestres et le nettoyage ; indiquez le calendrier souhaité sans considérer le créneau comme réservé. Un dossier téléchargé peut vous servir de liste de préparation, mais il ne constitue pas un envoi ni une commande tant qu’aucune transmission et confirmation réelle n’ont été obtenues."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une marque révélée par le départ d’un meuble disparaîtra-t-elle au nettoyage ?",
+      "answer": "Cela dépend de sa nature et du support. Faites examiner les traces qui motivent votre demande et demandez les limites de résultat avant de confondre une salissure traitable avec une décoloration ou une usure."
+    },
+    {
+      "question": "L’entreprise peut-elle emporter les cartons encore sur place ?",
+      "answer": "Ce service ne doit pas être présumé inclus. Décrivez les objets et les volumes concernés et faites confirmer les opérations disponibles ; un nettoyage après déménagement n’équivaut pas automatiquement à une prestation d’évacuation."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66144",
+      "label": "API Géo — identité officielle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/pollestres/",
+      "label": "Présentation institutionnelle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

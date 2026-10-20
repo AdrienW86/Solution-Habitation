@@ -1,0 +1,70 @@
+{
+  "communeCode": "66172",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Saint-Estève : comprendre des bruits sans faux diagnostic",
+  "h1": "Dératisation à Saint-Estève : comprendre des bruits sans faux diagnostic",
+  "description": "À Saint-Estève, préparez une recherche de rongeurs en distinguant bruits, dommages visibles et accès possibles avant de choisir une intervention.",
+  "intro": "Des bruits derrière une cloison ou au-dessus d’une pièce ne suffisent pas à identifier des rongeurs. Pour préparer une dératisation à Saint-Estève, décrivez ce qui est entendu et cherchez uniquement les indices accessibles sans démontage. Les intervenants du réseau peuvent examiner la situation ; la première demande doit éviter de transformer une hypothèse sonore en diagnostic certain et en traitement choisi d’avance.",
+  "intent": "Accompagner une suspicion fondée d’abord sur des bruits : carnet d’observation, limites d’identification, accès aux volumes et différence entre nuisance sonore et présence de rongeurs.",
+  "specificValue": "Accompagner une suspicion fondée d’abord sur des bruits : carnet d’observation, limites d’identification, accès aux volumes et différence entre nuisance sonore et présence de rongeurs.",
+  "sections": [
+    {
+      "heading": "Construire un carnet d’observation utile",
+      "paragraphs": [
+        "Pendant la période où vous constatez le phénomène, notez l’heure, la durée, la pièce et l’endroit où le son semble le plus net. Distinguez les faits observés par chaque occupant. Un bruit perçu dans deux pièces ne signifie pas forcément deux zones d’activité différentes. Ce relevé aide à préparer les vérifications, mais il ne permet pas d’identifier une espèce ni de conclure à une présence dans toute la maison."
+      ]
+    },
+    {
+      "heading": "Chercher des éléments accessibles sans démonter",
+      "paragraphs": [
+        "Indiquez s’il existe aussi des emballages endommagés, des traces ou des ouvertures visibles depuis les espaces de vie. Ne démontez pas une cloison et ne vous engagez pas dans un volume inaccessible pour obtenir une preuve. Si une trappe ou des combles peuvent être ouverts normalement, décrivez leur accès au professionnel. La sécurité et le bon usage du bâtiment priment sur la volonté de localiser précisément un bruit avant la visite."
+      ]
+    },
+    {
+      "heading": "Laisser le diagnostic guider la méthode",
+      "paragraphs": [
+        "Expliquez si des travaux récents ou des changements d’usage coïncident avec le début des bruits, sans en déduire une cause. Demandez comment l’entreprise distinguera les hypothèses et ce qu’elle peut conclure à partir des constats. Un protocole ne doit pas être retenu uniquement parce que le mot « dératisation » figure dans la demande. La localisation à Saint-Estève sert à sélectionner les intervenants, pas à présumer une infestation particulière de la commune."
+      ]
+    },
+    {
+      "heading": "Convenir de ce qui sera vérifié après la visite",
+      "paragraphs": [
+        "La proposition doit préciser les zones examinées, les actions éventuellement retenues et les observations à poursuivre. Si rien ne permet de confirmer une présence, demandez comment enrichir le signalement plutôt que de multiplier les produits. Le formulaire conserve la commune et le métier ; ajoutez votre chronologie et les limites d’accès. Une transmission acceptée ne constitue ni une garantie de résultat immédiat ni une réservation de créneau, qui restent à confirmer directement."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un bruit nocturne permet-il de choisir entre rats et souris ?",
+      "answer": "Non, l’horaire et le son ne suffisent pas à une identification fiable. Ils constituent des indications à rapprocher d’autres observations et de l’inspection des lieux avant de définir une intervention."
+    },
+    {
+      "question": "Faut-il ouvrir les cloisons pour préparer le rendez-vous ?",
+      "answer": "Ne réalisez pas de démontage à cette seule fin. Décrivez les volumes et les accès existants ; le professionnel indiquera les investigations envisageables et les conditions nécessaires pour les mener sans risque ni dégradation inutile."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66172",
+      "label": "API Géo — identité officielle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saint-esteve/",
+      "label": "Présentation institutionnelle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

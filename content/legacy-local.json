@@ -1,0 +1,1798 @@
+{
+  "localPages": [
+    {
+      "communeCode": "66136",
+      "slug": "perpignan",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Perpignan : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Perpignan",
+          "text": "Dans une ville où patrimoine ancien et architecture contemporaine se côtoient, le premier enjeu consiste à identifier le bâtiment concerné. À Perpignan, le réseau documente plusieurs métiers : toiture, nuisibles, peinture et nettoyage. Cette page vous aide à organiser ces besoins sans confondre la marque fédératrice et les entreprises qui réalisent les interventions."
+        },
+        {
+          "heading": "Coordonner les métiers avant les finitions",
+          "text": "Une auréole au plafond appelle d’abord une recherche de cause, puis une remise en état des supports, enfin un nettoyage adapté. Préparez des demandes distinctes pour le diagnostic de toiture, la peinture et l’entretien. Les périmètres, les interlocuteurs et les devis restent propres à chaque enseigne ; aucune coordination de chantier n’est promise par cette page."
+        },
+        {
+          "heading": "Préparer un accès en centre-ville",
+          "text": "Si le bien se situe dans le centre ancien, indiquez la rue, l’étage, la présence d’un ascenseur et les possibilités de déchargement à vérifier. Pour un immeuble, distinguez le logement, les combles et les parties communes. Pour des bureaux, précisez les horaires d’occupation et les surfaces à entretenir. Ces renseignements évitent de comparer des devis portant sur des zones différentes."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Coordonner les métiers avant les finitions. Préparer un accès en centre-ville. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Peut-on confier tous les travaux à un interlocuteur unique à Perpignan ?",
+          "answer": "La présence de plusieurs métiers ne constitue pas une offre de chantier global. Consultez chaque fiche, vérifiez les prestations et demandez à chaque entreprise son périmètre de responsabilité."
+        }
+      ]
+    },
+    {
+      "communeCode": "66037",
+      "slug": "canet-en-roussillon",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Canet-en-Roussillon : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Canet-en-Roussillon",
+          "text": "Canet-en-Roussillon associe un village ancien et une station littorale. Pour orienter une demande, précisez si elle concerne un logement au village, une résidence côté plage ou des locaux proches du port. Les prestations de couverture, nuisibles et nettoyage suivent désormais la desserte départementale confirmée par le propriétaire ; le choix précis des ouvrages et des accès reste à discuter à l’adresse du bien."
+        },
+        {
+          "heading": "Un logement fermé : préparer une visite utile",
+          "text": "Avant une réouverture, relevez les indices visibles, les pièces concernées et la dernière date d’occupation connue. Indiquez qui détient les clés et peut être présent pour la visite. Ne déduisez pas d’une fermeture prolongée qu’un traitement est nécessaire : l’identification des signes et l’examen des lieux déterminent la suite."
+        },
+        {
+          "heading": "Distinguer logement privatif et résidence",
+          "text": "Dans une résidence, précisez si les observations touchent uniquement votre appartement ou également les circulations, locaux à déchets et espaces partagés. Prévenez l’interlocuteur qui gère les parties communes pour clarifier les autorisations d’accès. La situation littorale ne permet pas, à elle seule, de choisir un protocole ou d’annoncer une espèce présente."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Un logement fermé : préparer une visite utile. Distinguer logement privatif et résidence. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Un couvreur référencé à Perpignan intervient-il automatiquement à Canet ?",
+          "answer": "Non. La couverture est vérifiée commune par commune. Utilisez la recherche pour Canet et confirmez les autres demandes directement avec les enseignes dont le périmètre reste à préciser."
+        }
+      ]
+    },
+    {
+      "communeCode": "66008",
+      "slug": "argeles-sur-mer",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Argelès-sur-Mer : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Argelès-sur-Mer",
+          "text": "À Argelès-sur-Mer, le secteur du Racou présente notamment des maisonnettes et des cheminements sans accès automobile. Cette configuration rappelle l’importance d’une adresse et d’un accès précis pour préparer une intervention. Les enseignes de nuisibles affichées ici sont celles dont la couverture d’Argelès est effectivement documentée."
+        },
+        {
+          "heading": "Anticiper le transport du matériel",
+          "text": "Pour un hébergement au Racou ou dans un secteur à accès restreint, décrivez le dernier point accessible en véhicule et le trajet jusqu’au logement. Signalez les marches et les passages étroits. Le professionnel pourra préciser ce qu’il peut transporter et comment organiser la visite ; une adresse dans la commune ne garantit pas à elle seule un accès adapté."
+        },
+        {
+          "heading": "Préparer une intervention entre deux occupations",
+          "text": "Si le logement est loué, communiquez les périodes d’occupation et le temps réellement disponible avant l’arrivée suivante. Le protocole et les consignes de réoccupation doivent être établis par l’entreprise. Ne promettez pas une disponibilité immédiate aux occupants avant d’avoir obtenu son accord sur le calendrier et les conditions d’intervention."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.argeles-sur-mer.com/cap-mediteranee/les-plages/plage-du-racou/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Anticiper le transport du matériel. Préparer une intervention entre deux occupations. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Peut-on programmer un traitement pendant un changement de locataire ?",
+          "answer": "Présentez les horaires de départ et d’arrivée au professionnel. Il doit vérifier si ce créneau permet le diagnostic, l’intervention et le respect des consignes ; la page ne garantit aucun délai."
+        }
+      ]
+    },
+    {
+      "communeCode": "66171",
+      "slug": "saint-cyprien",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Saint-Cyprien : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Saint-Cyprien",
+          "text": "Saint-Cyprien distingue notamment son village et son port. Pour une intervention sur les nuisibles, cette précision complète utilement le nom de la commune : appartement, maison et local professionnel nécessitent des accès et une organisation différents. Retrouvez ici les entreprises admissibles selon la couverture enregistrée, puis préparez votre échange."
+        },
+        {
+          "heading": "Un local près du port ou un logement au village",
+          "text": "Précisez l’usage du lieu plutôt que de demander un traitement générique. Un établissement recevant du public doit présenter ses horaires et ses zones sensibles ; un logement doit décrire les pièces et les occupants concernés. Cette distinction sert à préparer l’intervention et ne constitue pas un constat d’infestation dans un quartier."
+        },
+        {
+          "heading": "Rendre les observations comparables",
+          "text": "Notez dans un même relevé les indices vus à l’intérieur, les dates et les emplacements. Pour une copropriété, distinguez balcon, logement et espaces collectifs. Demandez au prestataire comment ces zones seront inspectées et quelles suites sont prévues, avant de comparer les montants de deux propositions."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://saint-cyprien.com/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Un local près du port ou un logement au village. Rendre les observations comparables. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "La proximité du port suffit-elle à identifier un nuisible ?",
+          "answer": "Non. Le secteur donne un contexte d’accès, mais seuls les indices et leur identification permettent de définir une intervention. Envoyez des observations précises avant toute demande de traitement."
+        }
+      ]
+    },
+    {
+      "communeCode": "66164",
+      "slug": "rivesaltes",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Rivesaltes : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Rivesaltes",
+          "text": "Rivesaltes dispose de sa propre fiche territoriale : une demande située dans cette commune ne doit pas être assimilée à une adresse de Perpignan. Les correspondances de nuisibles ci-dessous reposent sur le code INSEE de Rivesaltes et sur les périmètres du réseau. Pour un logement, une réserve ou un atelier, l’usage réel du bâtiment reste le point de départ du diagnostic."
+        },
+        {
+          "heading": "Décrire une réserve ou un atelier",
+          "text": "Si des indices sont observés près de marchandises ou de matériel, indiquez les zones accessibles, les types de stockage et les horaires d’activité. Distinguez les traces anciennes des observations récentes. Préparez un plan simple des espaces concernés pour que le premier échange porte sur un périmètre compréhensible."
+        },
+        {
+          "heading": "Relier l’observation aux accès du bâtiment",
+          "text": "Relevez depuis des zones sûres les ouvertures et passages que vous souhaitez faire examiner. Ne bouchez pas ni ne démontez des équipements avant de demander l’avis du professionnel. Pour un bâtiment partagé, identifiez les personnes qui peuvent autoriser l’accès aux réserves, dépendances et locaux techniques."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/rivesaltes/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Décrire une réserve ou un atelier. Relier l’observation aux accès du bâtiment. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Faut-il demander uniquement un traitement ou aussi un suivi ?",
+          "answer": "Demandez à l’entreprise ce que comprend son devis : diagnostic, intervention, recommandations sur les accès et éventuel contrôle. Le suivi dépend du constat et du contrat, sans garantie automatique."
+        }
+      ]
+    },
+    {
+      "communeCode": "66172",
+      "slug": "saint-esteve",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Saint-Estève : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Saint-Estève",
+          "text": "Saint-Estève se situe dans la plaine du Roussillon, à proximité directe de Perpignan. Cette proximité ne remplace pas une vérification de couverture : les résultats de cette page sont calculés pour Saint-Estève. Pour les nuisibles, commencez par distinguer ce qui est observé dans les pièces de vie, les dépendances et les espaces extérieurs."
+        },
+        {
+          "heading": "Une maison et ses dépendances : préciser le périmètre",
+          "text": "Si les signes concernent un garage ou un abri, décrivez séparément chaque espace et son lien avec l’habitation. Signalez les denrées, les aliments pour animaux et les zones de rangement à examiner. Le prestataire peut ainsi préparer son observation sans assimiler tout le terrain à une zone à traiter."
+        },
+        {
+          "heading": "Une observation à l’extérieur demande une identification",
+          "text": "Pour un nid présumé, indiquez l’emplacement, la hauteur approximative et les accès à proximité, sans vous approcher ni tenter de le détruire. Une photo prise à distance peut aider au premier échange. La présence d’espaces naturels dans la commune ne permet pas de déduire une infestation ou une méthode d’intervention."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/saint-esteve/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Une maison et ses dépendances : préciser le périmètre. Une observation à l’extérieur demande une identification. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Le jardin est-il compris dans un devis pour le logement ?",
+          "answer": "Cela dépend du périmètre écrit. Demandez si les dépendances et extérieurs sont inspectés, et quelles zones sont incluses dans l’intervention et dans un éventuel contrôle."
+        }
+      ]
+    },
+    {
+      "communeCode": "66028",
+      "slug": "cabestany",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Cabestany : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Cabestany",
+          "text": "Cabestany se trouve au sud-est de Perpignan et accueille notamment des zones économiques et un pôle de santé. Pour les nuisibles, l’usage précis des locaux compte davantage qu’une description générale de la commune. Les résultats présentés ici vérifient la couverture de Cabestany ; ils ne présument ni qualification sanitaire particulière ni intervention dans chaque type d’établissement."
+        },
+        {
+          "heading": "Organiser une visite dans des locaux occupés",
+          "text": "Pour des bureaux ou un commerce, décrivez les horaires, les espaces ouverts au public et les accès techniques. Si des activités sensibles sont présentes, présentez leurs contraintes au prestataire avant d’envisager une intervention. La couverture géographique ne vaut pas validation d’une méthode pour un local de santé ou de restauration."
+        },
+        {
+          "heading": "Partager un relevé avec le gestionnaire",
+          "text": "Repérez sur un plan les observations, les espaces communs et les zones dont l’accès dépend d’un tiers. Désignez une personne pour coordonner les clés et les informations pratiques. Cela aide à comparer des offres sur le même périmètre sans supposer une intervention sur tout le bâtiment."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/cabestany/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Organiser une visite dans des locaux occupés. Partager un relevé avec le gestionnaire. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Une couverture à Cabestany garantit-elle la prise en charge d’un établissement de santé ?",
+          "answer": "Non. Décrivez les contraintes propres à l’établissement et demandez à l’entreprise si ses moyens et son protocole conviennent. Aucune habilitation spécifique n’est déduite de sa présence dans la commune."
+        }
+      ]
+    },
+    {
+      "communeCode": "66065",
+      "slug": "elne",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Elne : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Elne",
+          "text": "La ville haute d’Elne et son quartier historique constituent un contexte utile pour décrire l’accès et l’organisation d’une visite. Cette page relie les besoins de l’habitat aux enseignes desservant la commune selon le réseau confirmé. Les dossiers distincts de couverture, dératisation et nettoyage aident à préparer chaque besoin sans confondre les métiers ni déduire l’état d’un bâtiment de son quartier."
+        },
+        {
+          "heading": "Préparer la visite d’un bâtiment ancien",
+          "text": "Décrivez les étages, les escaliers et les espaces annexes à inspecter. Si des indices apparaissent dans des combles ou derrière des aménagements, communiquez leur emplacement sans déposer de matériaux. Le professionnel doit pouvoir distinguer un accès simplement peu pratique d’une zone nécessitant des moyens spécifiques."
+        },
+        {
+          "heading": "Éviter de confondre nuisibles et désordres du bâti",
+          "text": "Des traces, poussières ou bruits ne suffisent pas à identifier une espèce. Rassemblez les observations et leur évolution avant de choisir une prestation. Si le diagnostic révèle une réparation de bâtiment à prévoir, elle doit faire l’objet d’un périmètre et d’un intervenant adaptés, distincts d’un traitement."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/les-villages-incontournables-en-pyrenees-mediterranee/elne/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Préparer la visite d’un bâtiment ancien. Éviter de confondre nuisibles et désordres du bâti. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Peut-on demander une intervention dans des combles difficiles d’accès ?",
+          "answer": "Décrivez l’accès, les dimensions connues et les obstacles sans vous mettre en difficulté. L’entreprise doit confirmer les moyens nécessaires et ce qu’elle peut inspecter avant de convenir d’une visite."
+        }
+      ]
+    },
+    {
+      "communeCode": "66210",
+      "slug": "thuir",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Thuir : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Thuir",
+          "text": "Thuir dispose d’un office de tourisme intercommunal Aspres-Thuir et d’une identité territoriale distincte de l’agglomération perpignanaise. Pour votre habitat, la recherche doit donc rester attachée à l’adresse de Thuir. Les correspondances de nuisibles disponibles ici sont vérifiées par commune ; les demandes pour un autre village des Aspres se recherchent séparément."
+        },
+        {
+          "heading": "Un logement et un local d’activité ne se décrivent pas de la même façon",
+          "text": "Précisez si le lieu sert d’habitation, de boutique ou de réserve. Dans un immeuble à usage mixte, indiquez les circulations communes et les accès indépendants. Les indices observés dans une réserve ne permettent pas d’étendre automatiquement le traitement à un logement situé au-dessus."
+        },
+        {
+          "heading": "Préparer un calendrier compatible avec l’occupation",
+          "text": "Rassemblez les disponibilités de la personne présente sur place et les contraintes d’activité. Demandez quand les espaces pourront être utilisés après l’intervention envisagée et quelles préparations sont nécessaires. Le calendrier dépend du protocole retenu, sans délai standard annoncé pour la commune."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://thuir.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Un logement et un local d’activité ne se décrivent pas de la même façon. Préparer un calendrier compatible avec l’occupation. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Les mêmes entreprises interviennent-elles dans tous les villages autour de Thuir ?",
+          "answer": "La couverture doit être vérifiée pour le code INSEE de chaque commune. Utilisez le moteur territorial pour l’adresse réelle du bien ; une page consacrée à Thuir ne valide pas les villages voisins."
+        }
+      ]
+    },
+    {
+      "communeCode": "66017",
+      "slug": "le-barcares",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Le Barcarès : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Le Barcarès",
+          "text": "Entre Méditerranée et étang, Le Barcarès comprend notamment les secteurs de la Coudalère et de Nautica. Pour préparer une demande concernant les nuisibles, précisez le quartier, la résidence et l’accès au bien. Le contexte littoral sert à décrire les lieux ; il ne permet pas de conclure à une présence particulière de nuisibles."
+        },
+        {
+          "heading": "Identifier un bien dans une résidence",
+          "text": "Complétez l’adresse par le nom de la résidence, le bâtiment, l’étage et un contact pour les clés. Pour un bien inoccupé, demandez quelles vérifications et préparations doivent être faites avant la visite. Une localisation approximative près d’un port ou d’un plan d’eau ne suffit pas à organiser l’accès."
+        },
+        {
+          "heading": "Distinguer terrasse et espaces communs",
+          "text": "Si les indices concernent une terrasse ou un local partagé, précisez qui en a l’usage et qui peut autoriser une intervention. Demandez comment seront traités les liens éventuels avec les parties privatives. Le périmètre du devis doit rester explicite, même lorsque plusieurs logements sont concernés."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/le-barcares/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Identifier un bien dans une résidence. Distinguer terrasse et espaces communs. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Peut-on faire intervenir une entreprise en l’absence du propriétaire ?",
+          "answer": "Une personne habilitée doit organiser l’accès et recevoir les consignes selon les modalités convenues avec l’entreprise. Confirmez qui sera présent et comment le compte rendu sera communiqué."
+        }
+      ]
+    },
+    {
+      "communeCode": "66049",
+      "slug": "ceret",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Céret : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Céret",
+          "text": "Au cœur du Vallespir, Céret possède un centre historique que l’office de tourisme propose de découvrir à pied. Pour une intervention dans l’habitat, un accès décrit précisément et un rendez-vous préparé restent essentiels. La desserte départementale confirmée du réseau permet de consulter les métiers de couverture, nuisibles et nettoyage ; le diagnostic et l’organisation des travaux se déterminent pour le bien concerné."
+        },
+        {
+          "heading": "Un accès en centre ancien à expliquer",
+          "text": "Indiquez les escaliers, les espaces de passage et le point où le professionnel pourra décharger son matériel, sous réserve des conditions locales. Distinguez la porte d’entrée de l’accès effectif à la pièce ou à la dépendance concernée. Préparez les coordonnées de la personne qui peut ouvrir sur place."
+        },
+        {
+          "heading": "Réunir les éléments avant de convenir du déplacement",
+          "text": "Pour un bien situé à Céret, envoyez un relevé clair des indices, des pièces et des interventions antérieures. Demandez si un diagnostic préalable est nécessaire et quelles informations peuvent être examinées à distance. Aucun délai ni coût de déplacement ne se déduit de la seule couverture communale."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.vallespir-tourisme.fr/decouvrez/5-idees-de-visites/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Un accès en centre ancien à expliquer. Réunir les éléments avant de convenir du déplacement. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Pourquoi la liste des enseignes diffère-t-elle de celle de Perpignan ?",
+          "answer": "Les entreprises sont sélectionnées sur leur périmètre confirmé. Une enseigne documentée à Perpignan peut ne pas l’être à Céret ; la liste conserve seulement les correspondances établies pour votre commune."
+        }
+      ]
+    },
+    {
+      "communeCode": "66149",
+      "slug": "prades",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Prades : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Prades",
+          "text": "La mairie de Prades présente la ville dans son contexte du Conflent, entre mer et montagne, avec plusieurs formes d’hébergement. Pour une demande liée à l’habitat, précisez l’usage du bâtiment et l’adresse réelle. Les métiers du réseau disposant d’une desserte départementale confirmée sont disponibles à la recherche dans la commune ; les dossiers rédigés permettent de préparer des échanges distincts selon le besoin."
+        },
+        {
+          "heading": "Préparer un hébergement ou une habitation",
+          "text": "Une chambre louée, une maison occupée et un logement fermé n’ont pas les mêmes contraintes d’accès et d’organisation. Décrivez les périodes de présence, les pièces à examiner et les personnes pouvant recevoir les consignes. Les indices observés doivent guider le diagnostic, sans présumer un traitement à partir du seul usage touristique."
+        },
+        {
+          "heading": "Confirmer les modalités de visite dans le Conflent",
+          "text": "Demandez à l’entreprise comment elle organise la visite à l’adresse indiquée, puis faites préciser le périmètre, le calendrier et les conditions de suivi. Si votre bien est hors de Prades, sélectionnez sa véritable commune dans la recherche. Cela évite de présenter une couverture voisine comme une disponibilité acquise."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.prades.com/articles-3/25-22-entre-mer-et-montagne/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — revue éditoriale et contrôle des correspondances JSON",
+        "localValue": "Préparer un hébergement ou une habitation. Confirmer les modalités de visite dans le Conflent. Fiche rédigée individuellement, contexte sourcé et conseils conditionnels adaptés au lieu ; entreprises et prestations calculées sans élargissement des couvertures."
+      },
+      "faqs": [
+        {
+          "question": "Une recherche à Prades couvre-t-elle aussi les communes de montagne voisines ?",
+          "answer": "Non. Recherchez l’adresse avec sa propre commune. Le moteur distingue les périmètres documentés et les disponibilités se confirment ensuite directement auprès des entreprises."
+        }
+      ]
+    },
+    {
+      "communeCode": "11262",
+      "slug": "narbonne",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Narbonne : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Narbonne",
+          "text": "Narbonne distingue notamment ses quartiers urbains et Narbonne-Plage dans ses informations municipales. Pour une demande de toiture, précisez le secteur et l’adresse réelle du bâtiment : un immeuble du centre, une maison ou un logement côté plage ne présentent pas les mêmes accès. Le réseau référence Narbonne Toiture dans l’Aude ; le diagnostic et les conditions de déplacement restent à confirmer avec cette enseigne."
+        },
+        {
+          "heading": "Commencer par l’accès, avant de parler de remplacement",
+          "text": "Dans un immeuble, identifiez la personne qui peut ouvrir les combles et autoriser la visite des parties communes. Pour une maison, décrivez les obstacles autour du bâtiment et l’accès au terrain. Si le bien est à Narbonne-Plage, indiquez-le explicitement au premier échange. Une localisation complète aide l’entreprise à préparer les moyens d’observation sans présumer la nécessité d’un échafaudage ou d’une réfection."
+        },
+        {
+          "heading": "Relier l’entrée d’eau à un historique exploitable",
+          "text": "Notez les circonstances de la fuite, les pièces touchées et les réparations déjà effectuées. Une photo de la trace au plafond doit être accompagnée d’une vue générale de la pièce, prise sans se mettre en danger. Demandez ensuite au couvreur de distinguer le constat, les zones à examiner et le périmètre proposé. Pour les vérifications d’urbanisme, la mairie reste l’interlocuteur pour votre adresse."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.narbonne.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Une présence à Narbonne signifie-t-elle une intervention immédiate ?",
+          "answer": "Non. Le référencement confirme un périmètre géographique documenté, pas un créneau ni un délai. Décrivez l’état du bâtiment et demandez directement les possibilités d’intervention."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Commencer par l’accès, avant de parler de remplacement. Relier l’entrée d’eau à un historique exploitable. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11069",
+      "slug": "carcassonne",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Carcassonne : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Carcassonne",
+          "text": "La Cité médiévale et la Bastide Saint-Louis font partie des secteurs présentés par l’office de tourisme de Carcassonne. Pour votre toiture, cette distinction invite à donner une adresse précise plutôt qu’un simple nom de ville. Le réseau oriente vers la couverture audoise documentée de Narbonne Toiture, sans lui attribuer de qualification patrimoniale ou de chantier dans ces quartiers."
+        },
+        {
+          "heading": "Présenter les caractéristiques du bâtiment ancien",
+          "text": "Si votre bien comporte des éléments anciens, rassemblez les photos disponibles, les références de matériaux connus et l’historique des reprises. Précisez les accès intérieurs et les zones qui ne peuvent être observées sans moyens spécifiques. Une ancienneté supposée ne permet pas de choisir une tuile, un produit ou une méthode de réparation à distance : le couvreur doit examiner la situation."
+        },
+        {
+          "heading": "Séparer le projet technique des vérifications administratives",
+          "text": "Demandez au professionnel un périmètre lisible avec les matériaux envisagés et les points singuliers concernés. Présentez ensuite votre adresse et votre projet au service compétent pour connaître les documents applicables, sans appliquer à toute la ville une règle déduite de la Cité. La visite, les accès et les éventuelles autorisations doivent être clarifiés avant de fixer le déroulement des travaux."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.tourisme-carcassonne.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Le réseau annonce-t-il des travaux sur monuments historiques à Carcassonne ?",
+          "answer": "Non. Une couverture communale n’établit aucune qualification particulière sur le patrimoine. Les compétences nécessaires au bâtiment concerné doivent être vérifiées directement auprès de l’entreprise."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Présenter les caractéristiques du bâtiment ancien. Séparer le projet technique des vérifications administratives. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11203",
+      "slug": "lezignan-corbieres",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Lézignan-Corbières : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Lézignan-Corbières",
+          "text": "Lézignan-Corbières figure dans le catalogue officiel des communes de l’Aude et dans les ressources du tourisme départemental. Pour un projet d’habitat, distinguez une maison, une réserve et un bâtiment à usage professionnel avant de choisir votre demande. La correspondance du réseau porte ici sur la toiture, avec une enseigne dont le périmètre annoncé comprend le département."
+        },
+        {
+          "heading": "Un bâtiment d’activité exige un relevé des usages",
+          "text": "Si le toit protège un atelier ou une zone de stockage, indiquez les horaires d’occupation et les équipements qui ne peuvent pas être déplacés. Repérez les espaces situés sous la zone humide, sans démonter la couverture. Le premier échange peut alors distinguer la recherche de la cause, les protections à organiser et les contraintes d’accès aux locaux."
+        },
+        {
+          "heading": "Comparer une réparation et une reprise plus étendue",
+          "text": "Demandez quelles observations justifient chaque proposition : remplacement d’éléments, reprise d’un raccord, évacuation des eaux ou réfection d’un versant. Faites préciser les parties conservées et les finitions. Le prix global d’une intervention ne dit pas si les offres portent sur le même besoin ; un périmètre écrit évite de confondre une mesure ponctuelle et un projet complet."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.audetourisme.com/fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Une couverture de l’Aude couvre-t-elle aussi un site professionnel à Lézignan ?",
+          "answer": "Elle établit une correspondance géographique. Présentez séparément l’usage, les accès et la nature du bâtiment pour que l’entreprise confirme l’adéquation de ses moyens à votre projet."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Un bâtiment d’activité exige un relevé des usages. Comparer une réparation et une reprise plus étendue. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11076",
+      "slug": "castelnaudary",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Castelnaudary : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Castelnaudary",
+          "text": "L’office de tourisme de Castelnaudary présente le port et le canal du Midi parmi les repères de la ville. Pour une toiture, une description de l’adresse et du bâtiment est toutefois plus utile qu’une simple proximité avec ces sites. Le réseau permet d’identifier une enseigne de couverture présente dans l’Aude, puis de préparer une demande adaptée à votre logement."
+        },
+        {
+          "heading": "Organiser une visite lorsque le bien est occupé",
+          "text": "Précisez les jours de présence, l’accès aux combles et les pièces traversées pour les atteindre. Si des objets doivent être protégés ou déplacés, demandez au couvreur ses consignes avant la visite. Signalez les contraintes de bruit et les ouvertures à préserver, sans présumer de la durée ni des moyens nécessaires au chantier."
+        },
+        {
+          "heading": "Construire un dossier d’entretien sur plusieurs saisons",
+          "text": "Rassemblez les factures, les photographies datées et la liste des réparations connues. Si un désordre revient, notez son évolution plutôt que d’effacer les traces avant le diagnostic. Demandez comment les évacuations, raccords et éléments de couverture seront examinés et quels points resteront hors de la visite. Ce dossier sert aussi à mieux comprendre les recommandations d’entretien proposées."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.castelnaudary-tourisme.com/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Faut-il attendre une fuite pour demander un avis sur la toiture ?",
+          "answer": "Vous pouvez demander un examen lorsque des éléments visibles depuis une zone sûre ou des réparations répétées soulèvent une question. La nécessité des travaux dépend du constat, pas d’une durée universelle d’utilisation."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Organiser une visite lorsque le bien est occupé. Construire un dossier d’entretien sur plusieurs saisons. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11206",
+      "slug": "limoux",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Limoux : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Limoux",
+          "text": "Limoux s’inscrit dans le territoire présenté par l’office de tourisme du Limouxin. La fiche habitat du réseau s’attache à la commune exacte et aux besoins de couverture documentés, sans annoncer une disponibilité dans tous les villages voisins. Pour votre premier échange, distinguez l’état observé du toit de ce que vous souhaitez changer dans le logement."
+        },
+        {
+          "heading": "Une rénovation intérieure peut révéler une question de toiture",
+          "text": "Avant de refaire un plafond ou une peinture, décrivez les traces d’eau et les interventions précédentes. Si l’origine reste inconnue, demandez un diagnostic plutôt qu’un simple traitement de la finition. Le couvreur précisera les points qu’il peut examiner et les renseignements utiles sur les combles, les fenêtres de toit ou les raccords."
+        },
+        {
+          "heading": "Clarifier les limites de la demande de devis",
+          "text": "Une demande de réparation ne doit pas devenir implicitement une commande de réfection générale. Faites préciser le constat, les éléments visés et les éventuelles vérifications complémentaires. Si vous envisagez aussi de modifier les volumes ou les matériaux, décrivez ce second objectif séparément pour pouvoir évaluer les choix techniques et les démarches propres au bâtiment."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.limouxin-tourisme.com/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "La liste de Limoux vaut-elle pour une maison située ailleurs dans le Limouxin ?",
+          "answer": "Recherchez la commune réelle du bien. Même lorsqu’une entreprise annonce une couverture départementale, la localisation exacte est nécessaire pour organiser sa visite et confirmer ses conditions."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Une rénovation intérieure peut révéler une question de toiture. Clarifier les limites de la demande de devis. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11170",
+      "slug": "gruissan",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Gruissan : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Gruissan",
+          "text": "Gruissan est présentée comme une destination littorale par son office de tourisme. Pour préparer une intervention de toiture, indiquez le secteur, le type de logement et les conditions d’occupation. La correspondance du réseau repose sur la couverture audoise enregistrée ; elle n’implique ni une équipe installée sur place ni une intervention déjà réalisée dans votre résidence."
+        },
+        {
+          "heading": "Un logement utilisé ponctuellement demande un accès organisé",
+          "text": "Si vous n’êtes pas présent, identifiez une personne autorisée à ouvrir le bien et à recevoir les consignes. Faites préciser si la première visite implique un accès intérieur, une observation extérieure ou des moyens particuliers. Un calendrier de location ou de déplacement doit être communiqué avant la confirmation du rendez-vous, sans supposer une possibilité d’intervention entre deux séjours."
+        },
+        {
+          "heading": "Présenter les éléments exposés sans conclure à une cause",
+          "text": "Décrivez les éléments de couverture, les raccords métalliques et les fixations connus, avec des photos prises depuis une zone sûre. L’adresse littorale donne un contexte ; elle ne prouve pas à elle seule une corrosion ou un défaut d’étanchéité. Demandez quel examen justifie la solution envisagée et comment les parties conservées seront protégées."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.gruissan-mediterranee.com/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Peut-on établir un devis définitif à partir de photos prises avant un séjour ?",
+          "answer": "Les photos facilitent le premier échange, mais leurs limites doivent être précisées. L’entreprise peut demander un examen sur place avant de confirmer les quantités, les accès et le périmètre."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Un logement utilisé ponctuellement demande un accès organisé. Présenter les éléments exposés sans conclure à une cause. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11266",
+      "slug": "port-la-nouvelle",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Port-la-Nouvelle : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Port-la-Nouvelle",
+          "text": "Port-la-Nouvelle associe un port, des rues commerçantes et un secteur balnéaire dans la présentation de l’agence touristique de l’Aude. Votre projet de toiture doit préciser l’usage réel du bien dans cette commune. Le réseau identifie la couverture disponible selon son JSON, sans déduire une spécialisation portuaire de cette seule localisation."
+        },
+        {
+          "heading": "Distinguer commerce en activité et logement",
+          "text": "Pour un commerce, précisez les horaires, les espaces accessibles au public et les équipements situés sous la zone à examiner. Pour un logement, décrivez les pièces concernées et l’accès aux combles. Une intervention sur une toiture ne doit pas reposer sur les mêmes hypothèses d’organisation si les usages du bâtiment sont différents."
+        },
+        {
+          "heading": "Documenter les évacuations et débordements",
+          "text": "Si vous observez un débordement, notez l’endroit et les conditions dans lesquelles il apparaît. Demandez si le problème relève d’un entretien, d’un raccord ou d’un examen plus large du cheminement des eaux. N’allez pas nettoyer vous-même une zone en hauteur pour compléter la demande ; des observations depuis le sol ou l’intérieur suffisent à préparer le premier échange."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.audetourisme.com/en/aude-in-brief/corbieres-minervois-narbonnaise/port-la-nouvelle/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Le référencement à Port-la-Nouvelle inclut-il les bâtiments industriels ?",
+          "answer": "Le périmètre géographique ne valide pas automatiquement un type d’ouvrage. Décrivez la structure et l’activité afin que l’entreprise confirme les prestations qu’elle peut assurer."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Distinguer commerce en activité et logement. Documenter les évacuations et débordements. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11379",
+      "slug": "sigean",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Sigean : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Sigean",
+          "text": "La mairie de Sigean fournit les informations communales utiles pour situer votre bâtiment et préparer les démarches locales. Pour l’habitat, le réseau documente une correspondance de toiture dans l’Aude. Une maison, une annexe ou un bâtiment partagé doit être décrit séparément afin de ne pas étendre automatiquement le périmètre de visite à toute la propriété."
+        },
+        {
+          "heading": "Séparer la toiture principale et les annexes",
+          "text": "Si la demande concerne aussi un garage, un abri ou une extension, indiquez les éléments dont les matériaux et les accès diffèrent. Une réparation sur le bâtiment principal ne comprend pas nécessairement ces zones. Joignez un croquis simple et demandez au couvreur quelles parties seront effectivement examinées avant toute proposition."
+        },
+        {
+          "heading": "Préparer les documents sans entreprendre de dépose",
+          "text": "Les anciennes factures, les photographies disponibles et les plans peuvent aider à comprendre les reprises successives. Si un matériau ou un revêtement est inconnu, signalez-le au professionnel et attendez ses consignes. Ne déposez pas d’éléments pour obtenir une meilleure photo : l’examen et les précautions à prévoir font partie de la préparation de la visite."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.sigean.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Une annexe est-elle automatiquement comprise dans la demande ?",
+          "answer": "Non. Mentionnez chaque bâtiment et demandez un périmètre écrit. Les moyens d’accès et les matériaux peuvent justifier des postes distincts dans le devis."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Séparer la toiture principale et les annexes. Préparer les documents sans entreprendre de dépose. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11202",
+      "slug": "leucate",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Leucate : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Leucate",
+          "text": "Leucate fait partie des destinations du littoral audois présentées par l’agence départementale du tourisme. Pour une toiture, précisez notamment le secteur et les conditions d’accès au logement. Le réseau vous oriente vers la couverture enregistrée dans l’Aude ; la proximité d’une enseigne catalane ne permet pas d’ajouter celle-ci aux résultats de Leucate."
+        },
+        {
+          "heading": "Éviter les confusions entre secteurs et départements",
+          "text": "Communiquez le code postal, la commune officielle et l’adresse complète du bien. Si vous gérez plusieurs logements entre l’Aude et les Pyrénées-Orientales, préparez une demande distincte par adresse. Les correspondances et les modalités du rendez-vous peuvent différer ; le moteur ne transforme pas une recherche sur un secteur côtier en couverture de l’ensemble du littoral."
+        },
+        {
+          "heading": "Décrire les conditions d’une visite extérieure",
+          "text": "Indiquez les accès au terrain, les passages étroits et les éléments que vous souhaitez faire observer depuis une zone sûre. Les conditions météo et les moyens d’observation doivent être appréciés par le professionnel avant toute montée ou intervention. La localisation littorale ne suffit pas à choisir des fixations, une méthode ou un produit de protection."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.audetourisme.com/fr/a-voir-a-faire/incontournables/la-mer-mediterranee/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Pourquoi une entreprise affichée au Barcarès peut-elle ne pas apparaître à Leucate ?",
+          "answer": "Les deux communes appartiennent à des départements différents. Le moteur applique les zones documentées de chaque entreprise et ne déduit pas une couverture de leur proximité."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Éviter les confusions entre secteurs et départements. Décrire les conditions d’une visite extérieure. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11106",
+      "slug": "coursan",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Coursan : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Coursan",
+          "text": "Coursan est identifiée par son propre code INSEE dans le catalogue officiel de l’Aude. Utilisez cette commune pour une demande concernant votre logement, plutôt qu’une adresse approximative à Narbonne. La couverture de toiture présentée ici provient du périmètre départemental documenté ; elle ne préjuge pas des contraintes d’un immeuble ou d’une habitation particulière."
+        },
+        {
+          "heading": "Un immeuble partagé demande un interlocuteur défini",
+          "text": "Lorsque la fuite touche un appartement, précisez la personne qui peut autoriser l’accès aux combles et aux parties communes. Rassemblez les observations disponibles chez les différents occupants sans conclure à une cause unique. Une visite commune peut nécessiter des accords et une organisation qui ne se déduisent pas de la seule demande d’un résident."
+        },
+        {
+          "heading": "Conserver les repères avant une réparation",
+          "text": "Datez les photos et décrivez l’emplacement des traces par rapport aux pièces et ouvertures. Si un dépannage a déjà été réalisé, indiquez ce qui a été repris et ce qui reste à examiner. Le devis doit distinguer les travaux envisagés des zones simplement observées, afin d’éviter qu’une réparation limitée soit présentée comme un contrôle complet du toit."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://geo.api.gouv.fr/departements/11/communes",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Qui doit être présent si le logement et les combles dépendent de personnes différentes ?",
+          "answer": "Organisez l’accès avec les personnes habilitées et communiquez leurs disponibilités au couvreur. La préparation de la visite doit préciser les zones réellement accessibles."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Un immeuble partagé demande un interlocuteur défini. Conserver les repères avant une réparation. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11145",
+      "slug": "fleury",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Fleury : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Fleury",
+          "text": "Pour un bien à Fleury, le code INSEE et le code postal permettent de distinguer la commune dans le catalogue officiel, y compris lorsque l’adresse est présentée avec un nom de secteur. Le réseau audois documente la toiture ; il faut ensuite décrire le bâtiment et les accès plutôt que présumer une prestation à partir d’un nom de station ou de résidence."
+        },
+        {
+          "heading": "Le nom d’une résidence ne remplace pas une adresse",
+          "text": "Ajoutez le numéro de bâtiment, les indications d’entrée et la personne qui possède les clés. Si vous utilisez un nom commercial pour un hébergement, donnez aussi son adresse administrative. Cela évite les confusions pour une visite et permet de préciser si l’examen concerne une couverture privative ou des parties gérées collectivement."
+        },
+        {
+          "heading": "Prévoir une remise en service après une période d’absence",
+          "text": "Avant de rouvrir un logement, décrivez les traces visibles et la date de la dernière occupation. Une odeur ou une auréole ancienne ne permet pas à elle seule d’affirmer qu’une fuite est active. Demandez comment le professionnel distinguera les traces anciennes d’un désordre en cours, et ce qu’une visite pourra réellement confirmer."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.audetourisme.com/fr/a-voir-a-faire/incontournables/la-mer-mediterranee/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Un nom de quartier ou de résidence suffit-il pour rechercher une entreprise ?",
+          "answer": "Sélectionnez d’abord la commune officielle dans le moteur, puis ajoutez les précisions d’adresse à votre dossier. La correspondance de couverture reste attachée au code INSEE."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Le nom d’une résidence ne remplace pas une adresse. Prévoir une remise en service après une période d’absence. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "11397",
+      "slug": "trebes",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "title": "Habitat à Trèbes : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Trèbes",
+          "text": "Trèbes dispose d’un accès local distinct dans le réseau audois, en complément de sa présence dans les ressources touristiques départementales. Pour la toiture, cette page aide à préparer une visite après une observation inhabituelle, sans annoncer une urgence disponible ni un événement météorologique local qui n’aurait pas été documenté."
+        },
+        {
+          "heading": "Après un épisode météo, décrire uniquement ce qui est constaté",
+          "text": "Notez la date et les signes que vous avez réellement observés : bruit, trace intérieure ou élément visible depuis le sol. Évitez de relier automatiquement un défaut à la dernière pluie si vous ne disposez pas d’un constat. Conservez les photographies et demandez au couvreur les informations utiles avant de convenir d’un déplacement."
+        },
+        {
+          "heading": "Distinguer mise en protection et travaux définitifs",
+          "text": "Si une première mesure est envisagée, demandez son objectif, ses limites et ce qui devra encore être examiné. Un devis de réparation définitive doit être compréhensible indépendamment d’une éventuelle protection ponctuelle. Les accès, la météo et l’état du bâtiment conditionnent les moyens que le professionnel peut employer ; aucun délai standard n’est annoncé par cette fiche."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://www.audetourisme.com/uploads/2024/05/2024-carte-touristique-fr-en-bd.pdf",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "La fiche de Trèbes garantit-elle une prise en charge d’urgence ?",
+          "answer": "Non. La disponibilité et la possibilité d’une protection ponctuelle sont à confirmer directement. La présence dans la commune ne constitue pas une permanence ou un délai d’intervention garanti."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Après un épisode météo, décrire uniquement ce qui est constaté. Distinguer mise en protection et travaux définitifs. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66141",
+      "slug": "pia",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "title": "Habitat à Pia : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Pia",
+          "text": "À Pia, la couverture départementale confirmée permet de consulter les métiers de toiture, nuisibles et nettoyage du réseau. Une trace dans les combles, un bruit ou un besoin d’entretien ne conduisent pas automatiquement au même interlocuteur. L’adresse et le code INSEE situent la demande ; les observations et les contraintes du bien permettent ensuite de choisir le métier et le périmètre à discuter."
+        },
+        {
+          "heading": "Combles : décrire les indices sans choisir trop tôt une cause",
+          "text": "Notez les bruits, les traces d’eau et les matériaux visibles depuis un accès sûr, en les séparant dans votre dossier. Une nuisance et un défaut de couverture peuvent demander deux examens différents. N’attribuez pas un désordre à un animal sans identification et ne demandez pas un traitement pour remplacer une vérification du bâtiment."
+        },
+        {
+          "heading": "Organiser les suites entre professionnels",
+          "text": "Si plusieurs métiers sont consultés, conservez les constats et demandez ce qui doit être fait avant de refermer ou de réparer une zone. Un devis de couverture et un protocole de nuisibles ne constituent pas un chantier global géré par le réseau. Chaque entreprise précise son périmètre, ses accès et les conditions de suivi qu’elle propose."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://geo.api.gouv.fr/departements/66/communes",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Un même dossier peut-il évoquer toiture et nuisibles à Pia ?",
+          "answer": "Décrivez les deux observations mais choisissez une expertise pour chaque demande transmise. Des demandes distinctes rendent les diagnostics et responsabilités plus lisibles ; le réseau ne promet pas une coordination de travaux."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Combles : décrire les indices sans choisir trop tôt une cause. Organiser les suites entre professionnels. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66144",
+      "slug": "pollestres",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Pollestres : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Pollestres",
+          "text": "Pollestres se situe entre la plaine du Roussillon et les premiers reliefs des Aspres, selon sa présentation métropolitaine. Pour les nuisibles, cette localisation n’établit aucune infestation : le diagnostic part des indices observés dans votre bien. Retrouvez les correspondances communales documentées et préparez une demande distinguant les pièces de vie, le garage et les extérieurs."
+        },
+        {
+          "heading": "Une dépendance n’est pas automatiquement une zone à traiter",
+          "text": "Si les indices concernent un garage, un abri ou une réserve, indiquez leurs usages et leurs liens avec la maison. Précisez où sont conservés les aliments ou les objets déplacés récemment. Ces renseignements servent à préparer l’inspection ; ils ne permettent pas de conclure à une présence dans l’ensemble de la propriété."
+        },
+        {
+          "heading": "Préparer une observation sans manipuler les indices",
+          "text": "Une photographie prise à distance et un relevé des emplacements sont préférables à une collecte improvisée. Notez la fréquence des observations et les interventions déjà tentées. Demandez à l’entreprise quelles zones laisser accessibles et quelles préparations attendre de ses consignes avant la visite."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/pollestres/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Peut-on demander seulement l’examen d’un garage à Pollestres ?",
+          "answer": "Présentez ce périmètre à l’entreprise et demandez ce qui sera inspecté. Le diagnostic pourra conduire à examiner d’autres accès, mais le devis doit préciser les zones et interventions retenues."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Une dépendance n’est pas automatiquement une zone à traiter. Préparer une observation sans manipuler les indices. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66021",
+      "slug": "bompas",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Bompas : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Bompas",
+          "text": "Bompas est située sur la rive gauche de la Têt dans sa présentation officielle métropolitaine. Cette information situe votre demande sans constituer un indicateur d’infestation. Pour les nuisibles, la page regroupe les enseignes dont la couverture de Bompas est documentée et les éléments utiles pour décrire des observations à proximité ou à l’intérieur du logement."
+        },
+        {
+          "heading": "Séparer les observations de rue et celles du bâtiment",
+          "text": "Une observation dans l’espace public ne signifie pas nécessairement que votre habitation est concernée. Indiquez précisément le lieu, la date et les signes constatés chez vous. Pour un espace géré collectivement, identifiez le gestionnaire avant de demander une intervention sur une zone dont vous n’avez pas la maîtrise."
+        },
+        {
+          "heading": "Constituer une chronologie simple",
+          "text": "Consignez l’évolution des signes sur plusieurs observations, sans attendre une certitude pour prendre contact. Mentionnez les travaux, déplacements d’objets ou traitements connus qui peuvent aider l’entreprise à comprendre le contexte. Demandez quelles vérifications doivent précéder le choix d’un protocole et comment seront expliquées les limites de la première visite."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/bompas/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "La proximité d’un cours d’eau suffit-elle à demander une dératisation ?",
+          "answer": "Non. Une localisation ne remplace pas les indices et leur identification. Décrivez ce qui est constaté dans le périmètre concerné et faites préciser le besoin réel par le professionnel."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Séparer les observations de rue et celles du bâtiment. Constituer une chronologie simple. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66189",
+      "slug": "saleilles",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Saleilles : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Saleilles",
+          "text": "Saleilles est présentée comme une commune périurbaine entre Perpignan et la Côte Vermeille. Pour votre habitat, les enseignes de nuisibles sont sélectionnées sur leur couverture de Saleilles et non sur cette proximité. La préparation diffère selon que les indices touchent une maison occupée, une petite copropriété ou un local utilisé ponctuellement."
+        },
+        {
+          "heading": "En copropriété, savoir qui peut autoriser l’accès",
+          "text": "Repérez les observations dans le logement, les circulations et les locaux communs sur un même plan. Précisez au professionnel les accès dépendant du syndic ou d’un autre occupant. Un signalement dans un appartement ne vaut pas commande d’intervention sur tout l’immeuble ; les zones à inspecter et les autorisations doivent être explicites."
+        },
+        {
+          "heading": "Définir un interlocuteur pour le suivi",
+          "text": "Si plusieurs occupants sont concernés, désignez une personne pour réunir les constats et recevoir les consignes pratiques. Demandez comment seront communiquées les préparations, les restrictions éventuelles d’accès et les suites prévues. Le réseau ne déduit aucune durée ou fréquence d’intervention de la seule présence d’une enseigne dans la commune."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/saleilles/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Une intervention dans un logement comprend-elle les parties communes ?",
+          "answer": "Seulement si le périmètre et les autorisations le prévoient. Signalez les observations dans ces espaces, puis clarifiez avec le gestionnaire et l’entreprise la demande qui peut être engagée."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "En copropriété, savoir qui peut autoriser l’accès. Définir un interlocuteur pour le suivi. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66195",
+      "slug": "le-soler",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Le Soler : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Le Soler",
+          "text": "Le Soler dispose de sa propre fiche dans les communes de Perpignan Méditerranée Métropole. La recherche de nuisibles doit conserver cette localisation exacte, particulièrement lorsqu’un occupant décrit son adresse comme étant près de Perpignan. Le réseau présente les enseignes admissibles au Soler et permet de préparer une demande centrée sur les signes réellement observés."
+        },
+        {
+          "heading": "Une pièce fermée demande une description de l’usage",
+          "text": "Pour un logement peu occupé ou une chambre longtemps fermée, indiquez la dernière période de présence et l’emplacement des indices. Distinguez les objets stockés, les meubles fixes et les zones accessibles. L’absence d’occupation ne permet pas de conclure à une espèce ou à un protocole ; l’entreprise doit pouvoir examiner ce qui justifie la demande."
+        },
+        {
+          "heading": "Anticiper la remise en usage des espaces",
+          "text": "Expliquez à quelle date les lieux doivent être utilisés et par qui les consignes pourront être appliquées. Demandez les étapes nécessaires avant et après une éventuelle intervention. Un calendrier souhaité n’est pas une garantie de réoccupation : les modalités dépendent du diagnostic et des instructions du professionnel."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/le-soler/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Faut-il vider une pièce avant le diagnostic ?",
+          "answer": "Attendez les consignes de l’entreprise en décrivant ce qu’elle contient. Un déplacement d’objets improvisé peut modifier le contexte à observer ; le périmètre de préparation dépend de la situation."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Une pièce fermée demande une description de l’usage. Anticiper la remise en usage des espaces. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66227",
+      "slug": "villeneuve-de-la-raho",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Villeneuve-de-la-Raho : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Villeneuve-de-la-Raho",
+          "text": "Villeneuve-de-la-Raho est décrite par la métropole comme une commune établie sur une butte dominant la plaine du Roussillon. Pour une demande de nuisibles, le réseau s’attache au bien concerné, à son code INSEE et à ses accès. Le cadre paysager ne permet pas de déduire une présence particulière d’insectes ou de rongeurs."
+        },
+        {
+          "heading": "Décrire la relation entre habitation et terrasse",
+          "text": "Si les observations se situent près d’une porte, d’une terrasse ou d’un rangement extérieur, repérez l’endroit et sa relation avec les pièces intérieures. Mentionnez les espaces appartenant à un voisin ou gérés collectivement. Le professionnel pourra expliquer ce qu’il doit inspecter sans considérer tout l’environnement comme une zone de traitement."
+        },
+        {
+          "heading": "Un nid présumé se décrit à distance",
+          "text": "Communiquez son emplacement, sa hauteur approximative et les usages des accès voisins. Ne vous approchez pas pour obtenir une photo plus précise et ne tentez pas de démonter un support. Demandez à l’entreprise comment l’identification sera réalisée et quelles consignes s’appliquent avant sa venue."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/villeneuve-de-la-raho/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Un nid situé dans un espace partagé peut-il faire l’objet d’une demande individuelle ?",
+          "answer": "Vous pouvez signaler l’observation, mais l’autorisation et l’organisation de l’intervention dépendent du gestionnaire du lieu. Précisez cette situation au professionnel dès le premier échange."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Décrire la relation entre habitation et terrasse. Un nid présumé se décrit à distance. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66213",
+      "slug": "toulouges",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Toulouges : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Toulouges",
+          "text": "Toulouges se situe au sud-ouest de Perpignan selon la fiche métropolitaine. La proximité entre communes ne remplace pas le contrôle des couvertures : les correspondances de nuisibles ci-dessous sont calculées pour Toulouges. Pour organiser un rendez-vous utile, décrivez les occupants, les horaires et les pièces réellement concernées par les observations."
+        },
+        {
+          "heading": "Un logement occupé demande des consignes compréhensibles",
+          "text": "Signalez les contraintes de présence et les espaces qui ne peuvent pas être libérés facilement. Présentez les équipements ou animaux dont l’organisation doit tenir compte, sans transmettre d’informations privées inutiles. L’entreprise doit expliquer les préparations et les restrictions propres au protocole envisagé plutôt que fournir une consigne générique pour toute la commune."
+        },
+        {
+          "heading": "Comparer ce qui est inclus dans le suivi",
+          "text": "Demandez comment sera réalisé le premier constat et dans quelles conditions un contrôle est prévu. Faites distinguer les étapes incluses, les recommandations et les éventuels nouveaux passages. Une couverture géographique documentée ne garantit ni résultat immédiat ni nombre d’interventions identique pour toutes les situations."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/toulouges/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Comment comparer deux propositions de traitement à Toulouges ?",
+          "answer": "Vérifiez l’identification retenue, les zones concernées, les préparations et les conditions de suivi. Les propositions doivent décrire le même besoin pour être comparables."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Un logement occupé demande des consignes compréhensibles. Comparer ce qui est inclus dans le suivi. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    },
+    {
+      "communeCode": "66180",
+      "slug": "saint-laurent-de-la-salanque",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "title": "Habitat à Saint-Laurent-de-la-Salanque : les métiers et enseignes du réseau",
+      "sections": [
+        {
+          "heading": "Votre projet à Saint-Laurent-de-la-Salanque",
+          "text": "La fiche métropolitaine situe Saint-Laurent-de-la-Salanque à proximité du littoral et de l’agglomération perpignanaise. Pour un bien dans cette commune, le réseau filtre les enseignes sur leur couverture effective. La présence de plusieurs correspondances permet de comparer les interlocuteurs, sans classement commercial ni promesse de créneau disponible."
+        },
+        {
+          "heading": "Pour un commerce, préciser les contraintes d’activité",
+          "text": "Indiquez les horaires d’ouverture, les réserves, les zones accessibles au public et les espaces dont l’accès dépend d’un tiers. Demandez si la visite peut être préparée sans perturber l’activité et quelles informations supplémentaires seront nécessaires. Le référencement ne constitue pas une qualification particulière pour un type d’établissement."
+        },
+        {
+          "heading": "Centraliser le relevé des indices avant la visite",
+          "text": "Rassemblez les emplacements, les dates et les interventions déjà tentées dans un dossier unique. Évitez de transmettre des observations contradictoires par plusieurs canaux sans les dater. L’entreprise pourra distinguer le périmètre de diagnostic du traitement éventuel et proposer un suivi correspondant à ce qui a effectivement été constaté."
+        }
+      ],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/saint-laurent-de-la-salanque/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "indexable": true,
+      "reviewedAt": "2026-10-20",
+      "faqs": [
+        {
+          "question": "Le réseau peut-il garantir une intervention avant l’ouverture d’un commerce ?",
+          "answer": "Non. Exposez vos horaires et confirmez directement les possibilités avec l’entreprise. Le choix d’un créneau dépend de ses disponibilités, du diagnostic et des consignes d’utilisation des lieux."
+        }
+      ],
+      "editorialReview": {
+        "approved": true,
+        "reviewer": "Codex — contrôle éditorial, géographique et des correspondances JSON",
+        "localValue": "Pour un commerce, préciser les contraintes d’activité. Centraliser le relevé des indices avant la visite. Contenu rédigé individuellement à partir du lieu documenté, sans présumer une fréquence de sinistres ni un type de bâtiment dominant. Prestations et entreprises calculées avec les règles communes au moteur."
+      }
+    }
+  ],
+  "localServicePages": [
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "service": "reparation-infiltrations",
+      "title": "Infiltration de toiture à Perpignan : préparer le diagnostic",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "À Perpignan, une demande d’infiltration doit d’abord distinguer la trace visible dans le logement et l’origine encore à examiner sur la couverture. Couverture Catalane figure dans les correspondances communales du réseau pour cette prestation. Présentez les pièces touchées, les circonstances et l’accès aux combles avant de demander une réparation chiffrée."
+        },
+        {
+          "heading": "Un appartement humide ne désigne pas à lui seul le point d’entrée",
+          "text": "Dans un immeuble perpignanais, précisez l’étage et les personnes qui peuvent autoriser la visite des parties communes. Si plusieurs logements présentent des traces, datez chaque observation et évitez de les regrouper comme une cause déjà établie. Le couvreur doit expliquer ce qu’il a pu examiner, les limites de sa visite et les raccords ou éléments qui justifient les travaux proposés. Une remise en peinture se prépare après clarification de la cause, avec un intervenant distinct si nécessaire."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "La visite du logement suffit-elle à confirmer la réparation du toit ?",
+          "answer": "Elle peut apporter des indices, mais le professionnel doit préciser les examens nécessaires pour localiser la cause. Le devis doit relier la réparation au constat et aux zones effectivement accessibles."
+        }
+      ],
+      "guides": ["preparer-diagnostic-toiture", "traces-humidite-plafond"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "service": "renovation-couverture",
+      "title": "Rénovation de couverture à Perpignan : définir le bon périmètre",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Un projet de rénovation de toiture à Perpignan ne se résume pas à choisir un nouveau revêtement. Le réseau permet d’identifier Couverture Catalane dans la commune, puis de préparer les informations qui permettront de distinguer une réparation ciblée, une reprise de versant et une réfection plus générale."
+        },
+        {
+          "heading": "Présenter les objectifs avant de comparer les solutions",
+          "text": "Indiquez si votre demande répond à des entrées d’eau, à des réparations répétées ou à un projet de transformation du bâtiment. Pour un bien ancien, rassemblez les informations connues sur les matériaux et consultez les documents locaux applicables à l’adresse. Demandez au couvreur quelles parties peuvent être conservées et ce qui motive chaque remplacement. Une réflexion sur l’isolation ou les équipements présents sur le toit doit être identifiée séparément, sans attribuer au réseau une maîtrise d’œuvre ou une qualification non documentée."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Une toiture ancienne doit-elle être entièrement remplacée ?",
+          "answer": "L’âge ne suffit pas à fixer le périmètre. Demandez un constat sur les composants et les raccords, puis une explication des parties conservées et de celles dont la reprise est justifiée."
+        }
+      ],
+      "guides": ["toiture-reparer-ou-renover", "comparer-devis-couverture"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "service": "zinguerie",
+      "title": "Zinguerie à Perpignan : comprendre le cheminement des eaux",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Une gouttière qui déborde ou un raccord humide à Perpignan demande une description précise de son emplacement. Le réseau documente la zinguerie proposée par Couverture Catalane dans cette commune. Cette page aide à préparer le diagnostic, sans conclure à un défaut de dimensionnement ou à la nécessité d’un remplacement depuis une simple photographie."
+        },
+        {
+          "heading": "Relier le débordement à ce qui est réellement observé",
+          "text": "Notez si le débordement apparaît à un angle, à une naissance de descente ou le long d’un raccord avec un mur. Indiquez les nettoyages déjà effectués et les zones visibles depuis le sol. Pour un immeuble mitoyen, signalez les évacuations communes et les accès dépendant d’un voisin. Faites préciser ce que l’entreprise pourra contrôler et quels travaux relèvent de votre propre périmètre. Un entretien, une reprise d’assemblage et une modification de l’évacuation doivent être distingués dans le devis."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Un débordement implique-t-il de remplacer toute la gouttière ?",
+          "answer": "Pas nécessairement. L’entreprise doit examiner l’origine du phénomène et préciser si sa proposition porte sur l’entretien, un point d’assemblage ou une reprise plus large."
+        }
+      ],
+      "guides": ["gouttieres-debordement", "raccords-zinguerie"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "service": "entretien-toiture",
+      "title": "Entretien de toiture à Perpignan : examiner avant de nettoyer",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Pour l’entretien d’une toiture à Perpignan, le choix d’une méthode doit tenir compte du revêtement et de son état. Couverture Catalane fait partie des correspondances documentées pour cette prestation dans la commune. Préparez les accès, l’historique et les observations visibles avant de demander un nettoyage ou une protection."
+        },
+        {
+          "heading": "Clarifier l’objectif de l’entretien",
+          "text": "Précisez ce qui motive la demande : dépôt visible, évacuation encombrée, contrôle périodique ou interrogation après un précédent traitement. Ne demandez pas un produit universel ou une pression de lavage avant que les matériaux aient été examinés. Pour une maison avec terrasse ou végétation proche, faites décrire les protections prévues et les éléments à dégager. Un entretien ne vaut pas automatiquement réfection, étanchéité garantie ou contrôle de toutes les zones du bâtiment."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Le nettoyage peut-il remplacer un diagnostic de fuite ?",
+          "answer": "Non. Décrivez séparément les entrées d’eau et l’entretien souhaité. La cause d’une infiltration et l’état des matériaux doivent être examinés avant de retenir une méthode."
+        }
+      ],
+      "guides": ["nettoyage-toiture-methodes", "entretien-toiture-saisons"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "service": "deratisation",
+      "title": "Dératisation à Perpignan : décrire les indices et les accès",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "À Perpignan, Express Nuisibles et Protection Nuisibles correspondent à la prestation rats et souris selon le catalogue du réseau. Avant de comparer les entreprises, relevez les signes réellement observés et l’usage des pièces. Cette fiche ne présume ni infestation générale dans un quartier ni nécessité d’un traitement particulier."
+        },
+        {
+          "heading": "Dans un immeuble, distinguer logement, cave et espaces communs",
+          "text": "Repérez les observations sur un plan simple et précisez qui peut ouvrir chaque zone. Un bruit dans une cloison, une trace dans une cave et une observation dans la rue ne constituent pas un même constat. Signalez les produits ou interventions déjà tentés au professionnel. Demandez comment l’identification sera réalisée, quels accès doivent être examinés et ce que le suivi comprend. Le choix d’un protocole relève de l’entreprise après étude du périmètre, sans engagement de résultat ou de délai annoncé par le réseau."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Pourquoi plusieurs enseignes peuvent-elles apparaître à Perpignan ?",
+          "answer": "Le moteur affiche toutes les entreprises actives dont la prestation et la couverture correspondent. L’ordre est alphabétique ; il ne constitue ni recommandation commerciale ni disponibilité garantie."
+        }
+      ],
+      "guides": ["rongeurs-indices", "rongeurs-acces-prevention"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "service": "punaises-de-lit",
+      "title": "Punaises de lit à Perpignan : préparer une identification fiable",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Une suspicion de punaises de lit à Perpignan ne doit pas être transformée en diagnostic à partir d’une seule observation. Le réseau présente Express Nuisibles et Protection Nuisibles pour cette prestation dans la commune. Rassemblez les indices, les pièces concernées et l’historique des actions déjà entreprises avant le premier échange."
+        },
+        {
+          "heading": "Préparer le logement sans déplacer les objets au hasard",
+          "text": "Décrivez la literie, les rangements proches et les changements récents d’occupation. Une photographie d’un indice peut aider au premier échange, mais l’identification reste à confirmer. Évitez de déplacer les affaires vers d’autres logements pour préparer la visite sans consignes. Demandez les étapes retenues, les préparations attendues et la manière dont sera contrôlée l’évolution de la situation. Les recommandations des autorités sanitaires privilégient une prise en charge adaptée ; cette page ne remplace pas les instructions spécifiques d’un professionnel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Une observation sur la peau suffit-elle à identifier une punaise de lit ?",
+          "answer": "Elle ne suffit pas à établir l’origine de l’observation ni le périmètre du problème. Présentez les indices trouvés dans les lieux et demandez une identification adaptée avant de choisir un protocole."
+        }
+      ],
+      "guides": ["punaises-lit-indices", "punaises-lit-preparer-logement"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "service": "cafards-blattes",
+      "title": "Cafards et blattes à Perpignan : préparer l’examen des locaux",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Pour une demande concernant des cafards ou blattes à Perpignan, les entreprises admissibles du réseau sont Express Nuisibles et Protection Nuisibles. L’objectif du premier échange est de préciser ce qui a été observé, à quel moment et dans quels espaces, sans assimiler une observation isolée à une situation déjà diagnostiquée."
+        },
+        {
+          "heading": "Un commerce et un logement n’ont pas les mêmes contraintes",
+          "text": "Indiquez les zones de stockage, les points d’eau et les accès techniques concernés par les observations. Dans un commerce, présentez les horaires et les espaces sensibles avant la visite ; dans un immeuble, identifiez les parties communes et leurs gestionnaires. Demandez au prestataire quelles préparations sont nécessaires et comment il définira le périmètre d’inspection. Ne multipliez pas les produits pendant cette préparation sans lui communiquer ce qui a déjà été utilisé."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Le traitement d’un local comprend-il le reste de l’immeuble ?",
+          "answer": "Le périmètre doit être écrit et autorisé par les personnes compétentes. Signalez les observations voisines, mais ne présumez pas qu’un devis privatif couvre les parties communes ou les autres lots."
+        }
+      ],
+      "guides": ["blattes-preparer-diagnostic", "nuisibles-local-professionnel"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "service": "guepes-frelons",
+      "title": "Guêpes et frelons à Perpignan : signaler sans s’approcher",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Pour un nid présumé à Perpignan, le réseau documente Express Nuisibles et Protection Nuisibles. La demande doit préciser l’emplacement et les usages des accès proches, sans vous exposer pour identifier l’insecte. La présence d’une enseigne dans la commune n’implique ni permanence ni possibilité d’intervenir immédiatement."
+        },
+        {
+          "heading": "Une façade ou une toiture exige des indications d’accès",
+          "text": "Depuis une zone sûre, décrivez la hauteur approximative, le support visible et les obstacles. Si le point observé dépend d’un immeuble ou d’une propriété voisine, indiquez-le avant de convenir d’un rendez-vous. Demandez comment l’entreprise confirmera l’identification et quels moyens seront nécessaires. N’organisez pas vous-même une dépose d’élément ou une approche du nid pour rendre la zone accessible : attendez les consignes du professionnel."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Faut-il photographier le nid de près avant de prendre contact ?",
+          "answer": "Non. Une description à distance et, si elle peut être prise sans exposition, une vue générale du lieu sont suffisantes pour préparer le premier échange. L’entreprise précisera les vérifications utiles."
+        }
+      ],
+      "guides": ["nid-guepes-frelons", "preparer-suivi-nuisibles"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "peinture-facades",
+      "service": "ravalement-facade",
+      "title": "Ravalement à Perpignan : du support au projet de façade",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "À Perpignan, Peinture Occitane constitue la correspondance communale documentée du réseau pour le ravalement. La demande doit distinguer l’état des supports, l’objectif esthétique et les contraintes d’accès. Une trace humide ou une fissure doit être décrite avant de choisir une finition destinée à la recouvrir."
+        },
+        {
+          "heading": "Présenter l’adresse et les transformations envisagées",
+          "text": "Pour une façade ancienne ou située dans un environnement patrimonial, consultez les documents locaux applicables à votre adresse et présentez les modifications souhaitées au service compétent. Rassemblez les vues générales et les informations sur les revêtements précédents. Demandez à l’entreprise quels examens sont nécessaires, quelles préparations sont incluses et comment seront protégées les menuiseries et les abords. Le réseau n’attribue aucune habilitation patrimoniale à une enseigne sur la seule base de sa couverture."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Une couleur peut-elle être choisie avant le diagnostic du support ?",
+          "answer": "Vous pouvez définir une intention, mais la préparation, la compatibilité du revêtement et les vérifications locales doivent être clarifiées avant de retenir la solution complète."
+        }
+      ],
+      "guides": ["preparer-ravalement-facade", "fissures-facade-observer"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "peinture-facades",
+      "service": "peinture-interieure",
+      "title": "Peinture intérieure à Perpignan : préparer une pièce occupée",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Pour une peinture intérieure à Perpignan, le réseau permet de consulter l’enseigne référencée et de préparer un dossier centré sur les supports et l’usage des pièces. Une surface approximative ne suffit pas à comparer les offres : les plafonds, boiseries, reprises et protections doivent être décrits distinctement."
+        },
+        {
+          "heading": "Définir ce qui reste dans la pièce pendant les travaux",
+          "text": "Indiquez le mobilier, les équipements fragiles et les passages qui doivent rester utilisables. Demandez qui organise les déplacements et les protections, puis comment sera préparé chaque support. Si une trace d’humidité est présente, mentionnez son historique plutôt que de demander seulement de la masquer. Un échantillon observé sous l’éclairage réel peut aider à préciser l’intention de teinte ; les délais et consignes d’usage des lieux restent à confirmer avec l’entreprise."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Les plafonds et les boiseries sont-ils inclus dans une peinture de pièce ?",
+          "answer": "Ce n’est pas automatique. Faites préciser les surfaces, les préparations et les finitions incluses afin de comparer des devis sur un périmètre commun."
+        }
+      ],
+      "guides": ["peinture-piece-occupee", "comparer-devis-peinture"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nettoyage",
+      "service": "locaux-professionnels",
+      "title": "Nettoyage de bureaux à Perpignan : définir les tâches et les accès",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Nettoyage Perpignan est référencée dans la commune pour les locaux professionnels. Son catalogue ne fournit pas encore de canal de contact direct vérifié : cette page permet donc de préparer un dossier sans annoncer une réception par cette entreprise ni une prestation réservée. Les tâches et les fréquences souhaitées doivent être décrites avant toute proposition."
+        },
+        {
+          "heading": "Construire un cahier des charges par zone",
+          "text": "Séparez accueil, bureaux, sanitaires, espaces de restauration et circulations. Pour chaque zone, précisez les revêtements, les surfaces connues, les horaires d’occupation et le résultat attendu. Signalez les accès contrôlés et les équipements qui demandent des précautions. Distinguez l’entretien courant du nettoyage ponctuel des vitrages ou d’une remise en état. Une demande adressée au réseau reste une préparation de projet tant que les modalités de réception et d’intervention ne sont pas confirmées."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Peut-on réserver une prestation auprès de Nettoyage Perpignan depuis cette page ?",
+          "answer": "Aucune réservation n’est annoncée. Le formulaire prépare un dossier ; la transmission reste désactivée tant que son canal opérationnel n’est pas configuré et vérifié."
+        }
+      ],
+      "guides": ["cahier-charges-nettoyage", "nettoyage-bureaux-frequences"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66136",
+      "departmentCode": "66",
+      "expertise": "nettoyage",
+      "service": "nettoyage-residentiel",
+      "title": "Nettoyage résidentiel à Perpignan : préciser les espaces à entretenir",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "La prestation résidentielle de Nettoyage Perpignan est documentée dans la commune. Pour préparer une demande, distinguez les pièces, les revêtements et les opérations souhaitées. Le réseau ne dispose pas encore d’un contact direct vérifié pour cette enseigne ; il ne présente donc ni créneau réservable ni devis transmis automatiquement à son nom."
+        },
+        {
+          "heading": "Un état des lieux utile au lieu d’une liste trop générale",
+          "text": "Décrivez les sols, les sanitaires, les vitrages accessibles et les surfaces fragiles. Précisez si le logement est occupé, meublé ou vide et qui peut ouvrir sur place. Demandez ce qui relève d’un entretien courant et ce qui exige un examen ou une opération spécifique. Un nettoyage résidentiel ne valide pas automatiquement une remise en état après travaux, un traitement de matériau ou un accès en hauteur. Les périmètres et les canaux opérationnels restent à confirmer avant toute intervention."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Un dossier de nettoyage résidentiel vaut-il demande de nettoyage après travaux ?",
+          "answer": "Non. Décrivez les résidus et la nature du besoin. Le JSON ne permet pas de déduire une prestation après travaux du seul référencement résidentiel de l’enseigne."
+        }
+      ],
+      "guides": ["nettoyage-residentiel-perimetre", "nettoyage-surfaces-delicates"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66141",
+      "departmentCode": "66",
+      "expertise": "toiture",
+      "service": "reparation-infiltrations",
+      "title": "Infiltration de toiture à Pia : distinguer les constats dans les combles",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "La demande de réparation ou de recherche d’infiltration à Pia peut être orientée vers les couvreurs dont les prestations et la desserte sont confirmées. Lorsque des indices de nuisibles sont également évoqués, il faut préparer deux observations distinctes plutôt que choisir une cause unique. Le dossier doit préciser les traces d’eau, leur évolution et l’accès possible au bâtiment."
+        },
+        {
+          "heading": "Des bruits et une trace humide ne constituent pas un seul diagnostic",
+          "text": "Datez les observations et séparez ce qui concerne l’eau, les matériaux et les éventuels indices animaux. Le couvreur doit examiner les raccords et les éléments utiles à la recherche de fuite ; une entreprise de nuisibles peut être consultée pour une identification différente. Demandez ce qui doit être vérifié avant de refermer les combles ou de reprendre une finition. Cette orientation n’implique ni chantier coordonné par le réseau ni partage automatique des données entre entreprises."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Faut-il demander un seul devis pour tous les désordres des combles à Pia ?",
+          "answer": "Commencez par distinguer les causes à examiner et les métiers nécessaires. Chaque entreprise doit préciser son constat, ses accès et le périmètre de la prestation qu’elle propose."
+        }
+      ],
+      "guides": ["preparer-diagnostic-toiture", "toiture-fenetre-raccords"],
+      "sources": [
+        {
+          "url": "https://geo.api.gouv.fr/departements/66/communes",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "11262",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "service": "zinguerie",
+      "title": "Zinguerie à Narbonne : préciser les raccords et les évacuations",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Narbonne Toiture est référencée pour la zinguerie dans l’Aude. À Narbonne, la demande doit préciser le secteur, l’adresse et les accès aux évacuations concernées, notamment lorsque le logement et la toiture dépendent d’interlocuteurs différents. Un débordement ne suffit pas à déterminer la nature ou l’étendue de la reprise."
+        },
+        {
+          "heading": "Faire préciser les zones partagées et les moyens d’observation",
+          "text": "Dans un immeuble, repérez les raccords visibles, les descentes et les points dont l’accès dépend des parties communes. Indiquez si le phénomène est ponctuel ou récurrent et ce qui a déjà été nettoyé ou réparé. Pour un bien situé à Narbonne-Plage, donnez cette précision sans en déduire une cause de corrosion. Demandez au professionnel comment il distinguera entretien, défaut d’assemblage et éventuelle reprise du cheminement des eaux, puis faites décrire les parties conservées dans sa proposition."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Une fuite près d’un mur relève-t-elle nécessairement de la gouttière ?",
+          "answer": "L’emplacement visible ne suffit pas à l’affirmer. Le couvreur doit examiner les raccords et les cheminements possibles avant de définir une réparation."
+        }
+      ],
+      "guides": ["raccords-zinguerie", "gouttieres-debordement"],
+      "sources": [
+        {
+          "url": "https://www.narbonne.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "11069",
+      "departmentCode": "11",
+      "expertise": "toiture",
+      "service": "renovation-couverture",
+      "title": "Rénover une toiture à Carcassonne : préparer le diagnostic et les contraintes",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "Pour une rénovation de couverture à Carcassonne, Narbonne Toiture constitue la correspondance du réseau documentée dans l’Aude. La présence de la Cité et de la Bastide dans la ville n’autorise pas à attribuer à cette enseigne des travaux patrimoniaux : le projet doit être défini à partir de votre adresse et des compétences réellement nécessaires."
+        },
+        {
+          "heading": "Le remplacement doit être justifié avant le choix des matériaux",
+          "text": "Rassemblez les informations sur le bâtiment, les précédentes réparations et les zones qui posent question. Demandez un examen des parties qui pourraient être conservées et une description du périmètre de réfection envisagé. Présentez les modifications souhaitées aux interlocuteurs locaux compétents pour connaître les documents applicables. Les vérifications techniques, l’organisation des accès et les démarches ne doivent pas être remplacées par une proposition standard valable pour toute la commune."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Le réseau peut-il confirmer qu’un matériau est autorisé à mon adresse ?",
+          "answer": "Non. La prescription technique relève du professionnel et le contexte administratif doit être vérifié pour le bâtiment. La fiche communale ne remplace aucun document d’urbanisme applicable."
+        }
+      ],
+      "guides": ["toiture-reparer-ou-renover", "comparer-devis-couverture"],
+      "sources": [
+        {
+          "url": "https://www.tourisme-carcassonne.fr/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    },
+    {
+      "communeCode": "66037",
+      "departmentCode": "66",
+      "expertise": "nuisibles",
+      "service": "punaises-de-lit",
+      "title": "Punaises de lit à Canet-en-Roussillon : préparer un logement loué",
+      "sections": [
+        {
+          "heading": "Le besoin dans votre commune",
+          "text": "À Canet-en-Roussillon, Express Nuisibles et Protection Nuisibles correspondent à la prestation punaises de lit selon leurs périmètres documentés. Pour un logement loué ou utilisé ponctuellement, le premier échange doit préciser les observations et les périodes d’occupation. La localisation littorale n’établit ni infestation ni délai de traitement."
+        },
+        {
+          "heading": "Un changement d’occupant ne détermine pas la durée du protocole",
+          "text": "Rassemblez les indices, les pièces concernées et les actions déjà entreprises. Indiquez les dates d’occupation envisagées et la personne qui peut ouvrir le bien, puis demandez au professionnel les étapes nécessaires et les consignes de préparation. Évitez de déplacer les affaires vers une autre résidence avant d’avoir obtenu ces instructions. L’identification et le suivi doivent guider le calendrier : un créneau entre deux locations ne constitue pas à lui seul une garantie de remise à disposition."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Peut-on garantir la remise en location dès la première intervention ?",
+          "answer": "Aucune garantie de délai n’est annoncée. Les conditions de réoccupation et de suivi dépendent du constat et du protocole retenu par l’entreprise."
+        }
+      ],
+      "guides": ["punaises-lit-preparer-logement", "punaises-lit-indices"],
+      "sources": [
+        {
+          "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+          "verifiedAt": "2026-10-20"
+        }
+      ],
+      "reviewedAt": "2026-10-20",
+      "indexable": true
+    }
+  ]
+}

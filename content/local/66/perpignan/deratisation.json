@@ -1,0 +1,70 @@
+{
+  "communeCode": "66136",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Perpignan : distinguer logement et parties communes",
+  "h1": "Dératisation à Perpignan : distinguer logement et parties communes",
+  "description": "À Perpignan, préparez les observations dans le logement et les espaces partagés pour une dératisation avec un périmètre et un suivi explicites.",
+  "intro": "Une présence suspectée dans un appartement de Perpignan peut soulever une question de périmètre : faut-il regarder seulement le logement, une circulation commune ou un local technique ? Pour une dératisation, le réseau aide à trouver les intervenants déclarés pour la commune. Le dossier doit surtout distinguer les observations certaines des hypothèses sur les espaces voisins et sur l’origine du problème.",
+  "intent": "Une intention centrée sur la coordination d’un signalement en bâtiment partagé, les limites de responsabilité et la traçabilité des indices entre pièces et circulations.",
+  "specificValue": "Une intention centrée sur la coordination d’un signalement en bâtiment partagé, les limites de responsabilité et la traçabilité des indices entre pièces et circulations.",
+  "sections": [
+    {
+      "heading": "Établir des observations par espace",
+      "paragraphs": [
+        "Notez séparément les indices dans la cuisine, un placard, le palier ou une cave, sans fusionner les témoignages de plusieurs occupants. Les bruits, les dommages d’emballages et les traces photographiées à distance ne prouvent pas tous la même chose. Indiquez leur date et les circonstances de découverte. La liste des endroits où rien n’est observé peut aussi aider le professionnel à organiser sa visite et à expliquer ses limites."
+      ]
+    },
+    {
+      "heading": "Préparer l’accès aux espaces partagés",
+      "paragraphs": [
+        "Si une vérification concerne une partie commune, identifiez la personne qui peut autoriser l’accès et accompagner la visite. Un occupant ne doit pas ouvrir ou traiter de son initiative un espace technique qui ne lui est pas accessible. Demandez au gestionnaire comment centraliser les signalements. Cette coordination évite des demandes séparées qui décriraient le même indice sans que les intervenants puissent comprendre les actions déjà entreprises dans l’immeuble."
+      ]
+    },
+    {
+      "heading": "Vérifier la stratégie plutôt que choisir un produit",
+      "paragraphs": [
+        "Une proposition de dératisation doit expliquer le diagnostic, les zones prises en charge, les mesures de prévention et les précautions pour les occupants. Signalez les animaux, les enfants et les produits déjà utilisés. La question utile est de comprendre pourquoi une méthode est retenue pour les lieux examinés, pas de demander un produit particulier sur la base d’un conseil lu ailleurs. Aucun taux d’infestation propre à Perpignan n’est présumé ici."
+      ]
+    },
+    {
+      "heading": "Conserver une trace du suivi",
+      "paragraphs": [
+        "Au premier échange, demandez comment seront consignés les points observés, les consignes et les éventuels passages de contrôle. Précisez qui reçoit ces informations et qui assure les actions relevant de l’entretien des locaux. Le dossier contextualisé garde Perpignan, la dératisation et l’enseigne choisie ; il ne confirme aucune disponibilité. Les entreprises affichées interviennent sur leur périmètre déclaré, sans que le site leur attribue une agence dans chaque quartier."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il que tout l’immeuble fasse une demande ?",
+      "answer": "Un premier signalement peut partir d’un seul logement. Expliquez les espaces concernés et contactez le gestionnaire lorsque des parties communes doivent être examinées ; le diagnostic précisera si une coordination plus large est utile."
+    },
+    {
+      "question": "Peut-on traiter seulement la pièce où un indice a été vu ?",
+      "answer": "Le point visible est un départ d’enquête, pas forcément la limite technique de l’intervention. Demandez comment les pièces adjacentes et les accès éventuels seront pris en compte, avec l’accord des personnes habilitées."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66136",
+      "label": "API Géo — identité officielle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+      "label": "Présentation institutionnelle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

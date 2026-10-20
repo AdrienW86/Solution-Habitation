@@ -1,0 +1,64 @@
+{
+  "communeCode": "66141",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Pia : distinguer toiture principale et extension",
+  "h1": "Couverture à Pia : distinguer toiture principale et extension",
+  "description": "À Pia, préparez l’examen du raccord entre maison et extension pour comprendre le périmètre d’une réparation et comparer les couvreurs du réseau.",
+  "intro": "Si votre maison de Pia comprend une extension, un désordre près de la jonction avec le bâtiment principal mérite une description précise. La partie où l’eau devient visible n’est pas nécessairement celle où elle entre. Les couvreurs du réseau desservant la commune peuvent être consultés pour examiner les ouvrages ; cette page organise les informations utiles à la reconnaissance sans attribuer automatiquement la cause à la construction la plus récente.",
+  "intent": "Une jonction entre volumes nécessite un relevé de chronologie, de niveaux et de raccords ; le texte ne présume pas que les extensions caractérisent la commune.",
+  "specificValue": "Une jonction entre volumes nécessite un relevé de chronologie, de niveaux et de raccords ; le texte ne présume pas que les extensions caractérisent la commune.",
+  "sections": [
+    {
+      "heading": "Représenter les deux volumes et leurs usages",
+      "paragraphs": [
+        "Sur un croquis simple, distinguez la maison, l’extension et la pièce concernée par le désordre. Indiquez les différences de niveau visibles et les accès existants. Si vous connaissez la date des travaux, notez-la avec les documents disponibles ; si elle est incertaine, ne la transformez pas en fait établi. Une vue d’ensemble prise du sol permet de relier les photographies de détail aux ouvrages à examiner et d’éviter les confusions entre deux zones de couverture."
+      ]
+    },
+    {
+      "heading": "Décrire la chronologie de la trace",
+      "paragraphs": [
+        "Précisez si le signe est apparu avant ou après une intervention, dans quelles circonstances et avec quelle évolution. Une succession de travaux et de traces ne prouve pas à elle seule leur lien. Signalez les reprises déjà effectuées et le résultat observé, sans accuser un intervenant sur la base d’une coïncidence. Le diagnostic doit vérifier les relations entre les ouvrages et les chemins possibles de l’eau avant de définir un geste de réparation ou une reprise plus étendue."
+      ]
+    },
+    {
+      "heading": "Faire préciser les interfaces examinées",
+      "paragraphs": [
+        "Demandez quels raccords et évacuations seront regardés, quelles parties restent accessibles et ce qui relève d’une autre mission. Un devis portant seulement sur la couverture de l’extension doit expliquer les limites avec le bâtiment principal. La commune de Pia identifie le secteur desservi, mais ne renseigne ni le matériau ni la conception de votre toit. Les moyens d’accès et les protections se définissent d’après les lieux réels, sans recette déduite du seul type d’habitation."
+      ]
+    },
+    {
+      "heading": "Préparer une demande centrée sur le problème",
+      "paragraphs": [
+        "Présentez les constats et le croquis plutôt qu’une solution imposée avant visite. Faites distinguer dans la proposition la reconnaissance, les ouvrages repris et les raccordements aux parties conservées. Le formulaire garde Pia et la famille toiture ; ajoutez la présence de l’extension et les informations encore inconnues. La visite, les délais et les conditions du devis se confirment directement avec l’entreprise. Une copie locale du dossier peut servir de support commun pour comparer plusieurs réponses sur le même périmètre."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une trace près de l’extension provient-elle forcément de celle-ci ?",
+      "answer": "Non, sa position est une observation et non une preuve d’origine. Le professionnel doit examiner les relations entre les volumes, les raccords et les évacuations avant de conclure au périmètre de réparation pertinent."
+    },
+    {
+      "question": "Faut-il connaître la date exacte de construction pour demander une visite ?",
+      "answer": "Communiquez les informations disponibles et dites ce qui reste inconnu. Des documents ou photographies peuvent aider ; l’absence d’une date précise ne justifie pas d’en inventer une pour compléter le premier dossier."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66141",
+      "label": "API Géo — identité officielle de Pia",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

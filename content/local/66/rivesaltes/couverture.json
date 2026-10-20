@@ -1,0 +1,70 @@
+{
+  "communeCode": "66164",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Rivesaltes : examiner le toit avant d’aménager les combles",
+  "h1": "Couverture à Rivesaltes : examiner le toit avant d’aménager les combles",
+  "description": "Avant un projet sous toiture à Rivesaltes, faites distinguer l’état de la couverture, les points singuliers et les travaux relevant d’autres métiers.",
+  "intro": "Vous envisagez d’utiliser un volume sous toiture à Rivesaltes et souhaitez savoir si la couverture doit être examinée auparavant ? La bonne démarche consiste à séparer l’état du toit du programme d’aménagement intérieur. Les couvreurs du réseau peuvent être consultés pour leur périmètre déclaré ; cette préparation évite de cacher un désordre existant derrière de nouvelles finitions ou d’attendre d’un seul devis plusieurs métiers différents.",
+  "intent": "Un projet de pièce sous toiture nécessite une reconnaissance de l’enveloppe avant finitions ; le dossier distingue couverture, aménagement et informations encore à vérifier.",
+  "specificValue": "Un projet de pièce sous toiture nécessite une reconnaissance de l’enveloppe avant finitions ; le dossier distingue couverture, aménagement et informations encore à vérifier.",
+  "sections": [
+    {
+      "heading": "Décrire le projet sans préjuger de sa faisabilité",
+      "paragraphs": [
+        "Indiquez l’usage envisagé, les volumes actuellement accessibles et ce que vous connaissez du bâtiment. Il ne s’agit pas de faire valider un aménagement par une page internet : structure, autorisations et conditions d’usage doivent être examinées par les interlocuteurs compétents. Pour le couvreur, l’information essentielle est de comprendre quelles parties du toit pourront être observées et quelles modifications pourraient affecter ses raccords ou ses points singuliers."
+      ]
+    },
+    {
+      "heading": "Relever les signes avant de fermer les volumes",
+      "paragraphs": [
+        "Photographiez les marques anciennes depuis les espaces accessibles et notez si elles ont évolué. Une trace sèche ne prouve ni l’absence ni la persistance d’une entrée d’eau. Si le volume est encombré, précisez quelles zones restent invisibles. La reconnaissance doit distinguer les éléments effectivement vus et ceux dont l’état ne peut pas encore être établi ; cette limite doit rester lisible dans les échanges et dans toute proposition qui en résulte."
+      ]
+    },
+    {
+      "heading": "Coordonner les interventions sur les raccords",
+      "paragraphs": [
+        "Une ouverture de toit, une sortie technique ou un autre percement peut concerner plusieurs intervenants. Demandez qui traite les raccordements à la couverture et à quel moment leur vérification est prévue. Ne considérez pas l’étanchéité des interfaces comme automatiquement incluse dans une prestation d’aménagement. L’adresse exacte à Rivesaltes et la description des accès permettront de préparer une visite adaptée, sans supposer que les caractéristiques d’un bâtiment voisin s’appliquent au vôtre."
+      ]
+    },
+    {
+      "heading": "Comparer les missions écrites",
+      "paragraphs": [
+        "Séparez dans votre demande la vérification de l’existant, les réparations éventuellement nécessaires et les adaptations liées au projet. Demandez un périmètre clair avant de comparer des montants qui pourraient couvrir des opérations différentes. Le formulaire garde Rivesaltes et la famille couverture ; ajoutez le stade du projet et les travaux déjà engagés. Aucun choix de prestataire ne vaut validation globale du programme, réservation ou autorisation de travaux ; ces éléments restent à traiter dans leur cadre propre."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il attendre la fin de l’aménagement pour faire contrôler une trace ?",
+      "answer": "Il vaut mieux signaler le désordre avant qu’une finition ou un habillage en masque l’accès. Le professionnel pourra proposer les vérifications de son périmètre ; cela ne dispense pas des autres études nécessaires au projet."
+    },
+    {
+      "question": "Le devis de couverture comprend-il forcément l’isolation ?",
+      "answer": "Non, les ouvrages inclus doivent être énumérés. Demandez quels raccords et interfaces sont traités et quels travaux restent à coordonner avec d’autres intervenants avant de considérer l’ensemble du projet comme couvert."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66164",
+      "label": "API Géo — identité officielle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/rivesaltes/",
+      "label": "Présentation institutionnelle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

@@ -1,0 +1,64 @@
+{
+  "communeCode": "66141",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Pia : répartir les tâches dans une maison habitée",
+  "h1": "Nettoyage à Pia : répartir les tâches dans une maison habitée",
+  "description": "À Pia, préparez un entretien résidentiel avec des priorités par pièce et une répartition claire entre rangement, surfaces et déplacements d’objets.",
+  "intro": "Pour un entretien régulier d’une maison à Pia, le besoin ne se limite pas à décider d’un nombre de passages. Il faut définir les pièces, les tâches et ce que les occupants préparent avant la prestation. Le réseau permet de consulter l’entreprise de nettoyage desservant la commune ; ce dossier aide à organiser un service compréhensible et à faire évoluer les priorités sans ajouter des opérations qui n’auraient pas été discutées.",
+  "intent": "Une prestation récurrente en maison occupée exige un accord sur les préparatifs et les variations de besoin, sans déléguer implicitement rangement ou manutention au prestataire.",
+  "specificValue": "Une prestation récurrente en maison occupée exige un accord sur les préparatifs et les variations de besoin, sans déléguer implicitement rangement ou manutention au prestataire.",
+  "sections": [
+    {
+      "heading": "Définir un socle de tâches par pièce",
+      "paragraphs": [
+        "Listez les sols, les surfaces accessibles et les sanitaires concernés, puis les opérations ponctuelles que vous souhaitez faire examiner séparément. Une pièce peu utilisée n’a pas nécessairement les mêmes besoins qu’un espace de vie quotidien. Le devis doit rendre cette distinction visible. Il est plus utile de préciser les surfaces que de demander un « entretien de toute la maison » sans savoir si chacun y inclut les mêmes éléments et les mêmes zones d’accès."
+      ]
+    },
+    {
+      "heading": "Organiser les préparatifs des occupants",
+      "paragraphs": [
+        "Convenez du rangement des objets personnels, de la gestion des documents et des éléments fragiles qui ne doivent pas être manipulés. Les vêtements ou objets posés au sol peuvent empêcher une opération prévue, mais leur rangement n’est pas automatiquement inclus. Indiquez les déplacements que vous prenez en charge et demandez ceux qui peuvent être proposés par l’entreprise. Cette répartition aide à vérifier le service sur des surfaces effectivement accessibles dans les conditions convenues, plutôt que sur un résultat supposé."
+      ]
+    },
+    {
+      "heading": "Signaler les contraintes d’usage du logement",
+      "paragraphs": [
+        "Précisez les horaires de présence, la circulation des occupants et la présence d’animaux qui pourraient gêner l’accès à une pièce. À votre adresse de Pia, expliquez aussi les étages et les points d’eau disponibles. Les matériaux fragiles ou récemment rénovés doivent être identifiés ; en cas d’incertitude sur un support, demandez une reconnaissance adaptée. Le choix d’une méthode ne doit pas reposer uniquement sur une habitude appliquée dans un autre logement dont les surfaces seraient différentes."
+      ]
+    },
+    {
+      "heading": "Prévoir comment le besoin sera révisé",
+      "paragraphs": [
+        "Un changement d’occupation, un meuble ajouté ou une pièce temporairement inutilisable peuvent modifier le périmètre. Demandez comment signaler ces évolutions et faire confirmer une opération supplémentaire avant le passage. Le formulaire conserve Pia et le nettoyage ; il peut préciser qu’un entretien récurrent est envisagé, sans créer de contrat ni réserver une fréquence. Une réception simple, avec des tâches et des exclusions connues, facilite l’échange si une surface ne peut pas être traitée ou si une trace relève de l’usure."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une demande récurrente engage-t-elle automatiquement une fréquence ?",
+      "answer": "Non, la fréquence et les conditions doivent être convenues directement avec l’entreprise. La demande permet d’exposer votre rythme souhaité et vos priorités ; elle ne vaut pas confirmation de planning ni contrat de prestation."
+    },
+    {
+      "question": "Peut-on changer les pièces prioritaires d’un passage à l’autre ?",
+      "answer": "Il faut prévoir ce fonctionnement dans l’échange avec le prestataire. Précisez comment les modifications seront signalées et validées afin qu’une nouvelle priorité ne soit pas considérée comme une tâche supplémentaire comprise sans accord."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66141",
+      "label": "API Géo — identité officielle de Pia",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

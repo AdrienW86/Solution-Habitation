@@ -1,0 +1,70 @@
+{
+  "communeCode": "66144",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Pollestres : préparer une prévention après des indices anciens",
+  "h1": "Dératisation à Pollestres : préparer une prévention après des indices anciens",
+  "description": "À Pollestres, faites distinguer indices anciens, activité actuelle et mesures de prévention pour préparer un diagnostic de rongeurs sans traitement supposé.",
+  "intro": "Après un ancien épisode de rongeurs dans un bien à Pollestres, on peut souhaiter vérifier la situation avant qu’un nouveau problème soit confirmé. Cette démarche ne signifie pas qu’un traitement soit nécessaire partout. Les entreprises du réseau desservant la commune peuvent être consultées pour examiner les indices et les accès ; ce dossier aide à distinguer la mémoire d’un événement passé, les observations actuelles et les mesures préventives à discuter.",
+  "intent": "Une demande de prévention après un épisode connu doit conserver l’incertitude sur l’activité actuelle, vérifier les accès et expliquer la différence entre contrôle et traitement systématique.",
+  "specificValue": "Une demande de prévention après un épisode connu doit conserver l’incertitude sur l’activité actuelle, vérifier les accès et expliquer la différence entre contrôle et traitement systématique.",
+  "sections": [
+    {
+      "heading": "Reconstituer ce qui s’est passé sans prolonger le diagnostic",
+      "paragraphs": [
+        "Indiquez la date approximative de l’épisode, les zones concernées et les actions effectivement réalisées. Si vous possédez un compte rendu, conservez-le pour l’échange direct avec le professionnel. Distinguez les résultats observés ensuite et les informations manquantes. Un problème ancien ne démontre pas une activité présente ; le dossier doit éviter de décrire les mêmes pièces comme infestées aujourd’hui simplement parce qu’elles l’avaient été ou avaient été suspectées lors d’un précédent signalement."
+      ]
+    },
+    {
+      "heading": "Décrire les changements intervenus depuis",
+      "paragraphs": [
+        "Travaux, rangement, nouvelle porte ou changement d’usage peuvent modifier les points à vérifier. Signalez les accès visibles et les zones redevenues accessibles, sans entreprendre de travaux d’obturation à l’aveugle. Le contexte de Pollestres entre plaine et premiers reliefs ne permet pas de déduire un trajet de rongeurs vers votre logement. Les observations et les caractéristiques de la parcelle doivent guider l’examen, plutôt qu’une explication générale tirée de sa localisation ou de son environnement paysager."
+      ]
+    },
+    {
+      "heading": "Faire préciser le but de la visite",
+      "paragraphs": [
+        "Une reconnaissance préventive, une recherche d’activité et un traitement ne sont pas des missions identiques. Demandez ce que comprend la proposition, quels constats peuvent être établis et quelles limites subsistent. Les mesures d’entretien et les adaptations d’accès doivent être expliquées en lien avec les lieux. Ne demandez pas un produit « pour être tranquille » sans diagnostic ; l’entreprise doit justifier la réponse retenue et préciser les précautions selon les occupants et les usages réels du bien."
+      ]
+    },
+    {
+      "heading": "Convenir d’un suivi proportionné au besoin",
+      "paragraphs": [
+        "Demandez quels signes surveiller, comment transmettre un nouveau constat et si un contrôle est compris dans la prestation. Le formulaire conserve Pollestres et la dératisation ; précisez que vous demandez d’abord une vérification après un épisode ancien. Une proposition utile permet de distinguer prévention et action sur une présence confirmée. Les disponibilités se vérifient directement et aucun dispositif du réseau ne garantit une absence définitive de rongeurs dans le bâtiment ou dans l’ensemble de la commune."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un ancien traitement doit-il être renouvelé automatiquement ?",
+      "answer": "Il faut réexaminer le besoin actuel et les conditions prévues dans la proposition antérieure. Présentez l’historique et les observations récentes afin de distinguer un contrôle, une action préventive et une intervention sur une présence confirmée."
+    },
+    {
+      "question": "Que transmettre si aucun nouvel indice n’est visible ?",
+      "answer": "Expliquez que la demande porte sur une vérification, avec les zones de l’épisode ancien et les changements depuis. L’absence de constat récent doit rester une information explicite, sans inventer un signe pour obtenir un rendez-vous."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66144",
+      "label": "API Géo — identité officielle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/pollestres/",
+      "label": "Présentation institutionnelle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

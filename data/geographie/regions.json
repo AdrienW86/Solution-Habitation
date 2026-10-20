@@ -1,0 +1,92 @@
+[
+  {
+    "nom": "Île-de-France",
+    "code": "11",
+    "slug": "ile-de-france"
+  },
+  {
+    "nom": "Centre-Val de Loire",
+    "code": "24",
+    "slug": "centre-val-de-loire"
+  },
+  {
+    "nom": "Bourgogne-Franche-Comté",
+    "code": "27",
+    "slug": "bourgogne-franche-comte"
+  },
+  {
+    "nom": "Normandie",
+    "code": "28",
+    "slug": "normandie"
+  },
+  {
+    "nom": "Hauts-de-France",
+    "code": "32",
+    "slug": "hauts-de-france"
+  },
+  {
+    "nom": "Grand Est",
+    "code": "44",
+    "slug": "grand-est"
+  },
+  {
+    "nom": "Pays de la Loire",
+    "code": "52",
+    "slug": "pays-de-la-loire"
+  },
+  {
+    "nom": "Bretagne",
+    "code": "53",
+    "slug": "bretagne"
+  },
+  {
+    "nom": "Nouvelle-Aquitaine",
+    "code": "75",
+    "slug": "nouvelle-aquitaine"
+  },
+  {
+    "nom": "Occitanie",
+    "code": "76",
+    "slug": "occitanie"
+  },
+  {
+    "nom": "Auvergne-Rhône-Alpes",
+    "code": "84",
+    "slug": "auvergne-rhone-alpes"
+  },
+  {
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "code": "93",
+    "slug": "provence-alpes-cote-d-azur"
+  },
+  {
+    "nom": "Corse",
+    "code": "94",
+    "slug": "corse"
+  },
+  {
+    "nom": "Guadeloupe",
+    "code": "01",
+    "slug": "guadeloupe"
+  },
+  {
+    "nom": "Martinique",
+    "code": "02",
+    "slug": "martinique"
+  },
+  {
+    "nom": "Guyane",
+    "code": "03",
+    "slug": "guyane"
+  },
+  {
+    "nom": "La Réunion",
+    "code": "04",
+    "slug": "la-reunion"
+  },
+  {
+    "nom": "Mayotte",
+    "code": "06",
+    "slug": "mayotte"
+  }
+]

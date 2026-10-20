@@ -1,0 +1,70 @@
+{
+  "communeCode": "66189",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Saleilles : distinguer indices et petits animaux aperçus",
+  "h1": "Dératisation à Saleilles : distinguer indices et petits animaux aperçus",
+  "description": "À Saleilles, préparez une demande de dératisation fondée sur des observations localisées, sans identifier une espèce ni une infestation sur une silhouette.",
+  "intro": "Avoir aperçu un petit animal dans une cour à Saleilles peut susciter une demande de dératisation, mais une silhouette rapide ne suffit pas à identifier une espèce ni à établir une infestation du logement. Les entreprises du réseau peuvent examiner les éléments disponibles. La préparation consiste à raconter précisément l’observation et à distinguer les indices matériels, les lieux concernés et les hypothèses encore ouvertes, plutôt que demander immédiatement une méthode de traitement particulière.",
+  "intent": "Une observation brève dans une cour ne permet ni identification certaine ni traitement ; hiérarchiser indices, usages du lieu et nécessité d’une inspection sans stigmatiser la commune.",
+  "specificValue": "Une observation brève dans une cour ne permet ni identification certaine ni traitement ; hiérarchiser indices, usages du lieu et nécessité d’une inspection sans stigmatiser la commune.",
+  "sections": [
+    {
+      "heading": "Décrire ce qui a été réellement vu",
+      "paragraphs": [
+        "Notez l’endroit, le moment et la durée de l’observation, en séparant ce qui est certain de ce que vous avez déduit. Ne cherchez pas à capturer ou à manipuler un animal pour compléter la demande. Si une photographie a pu être prise à distance, elle peut préparer l’échange sans remplacer une identification professionnelle. Indiquez si d’autres constats existent, comme des dommages ou des traces, et localisez-les séparément au lieu de les réunir automatiquement en une même explication."
+      ]
+    },
+    {
+      "heading": "Vérifier le périmètre intérieur sans créer de risque",
+      "paragraphs": [
+        "Décrivez les pièces contrôlées normalement et les indices qui y sont réellement présents ou absents. Une observation extérieure ne prouve pas une entrée dans la maison. N’ouvrez pas un volume dangereux et ne manipulez pas de déjections pour obtenir une preuve. Le professionnel doit connaître les accès disponibles et les espaces qui restent non examinés, afin de déterminer les conditions d’une reconnaissance et d’expliquer les limites de ce qu’il peut conclure avant une intervention éventuelle."
+      ]
+    },
+    {
+      "heading": "Présenter l’environnement sans lui attribuer la cause",
+      "paragraphs": [
+        "Un stockage, une porte souvent ouverte ou un passage visible sont des éléments à décrire, pas des causes établies. Saleilles est présentée comme une commune périurbaine, mais ce contexte ne renseigne aucune fréquence de présence de rongeurs dans les propriétés. Demandez comment les observations du bien orientent le diagnostic. Les mesures proposées doivent tenir compte des usages, des occupants et des animaux, avec des précautions et une justification plutôt qu’un traitement systématique fondé sur la localisation."
+      ]
+    },
+    {
+      "heading": "Faire définir la réponse au bon niveau",
+      "paragraphs": [
+        "Expliquez si votre demande porte sur une identification, un contrôle des accès ou une intervention après des indices répétés. La proposition doit distinguer ces objectifs et préciser les contrôles éventuellement prévus. Le formulaire conserve Saleilles et la dératisation ; indiquez la chronologie avec ses incertitudes. Les entreprises affichées desservent la commune mais ne garantissent pas un créneau ni un résultat avant examen. Une demande factuelle leur permet de qualifier le besoin sans inventer de signe supplémentaire pour rendre le dossier plus convaincant."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Dois-je appeler cela une infestation dès le premier animal aperçu ?",
+      "answer": "Non, décrivez l’observation avec ses limites. L’identification et l’étendue éventuelle d’une présence doivent être établies à partir d’éléments examinés, et non déduites d’une silhouette ou du simple nom de la commune."
+    },
+    {
+      "question": "Faut-il envoyer une photo pour pouvoir faire une demande ?",
+      "answer": "Une description précise peut préparer le premier contact. Une image prise sans risque peut aider, mais il ne faut ni manipuler un animal ni accéder à un endroit dangereux pour obtenir une photographie avant l’échange professionnel."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66189",
+      "label": "API Géo — identité officielle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saleilles/",
+      "label": "Présentation institutionnelle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

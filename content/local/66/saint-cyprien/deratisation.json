@@ -1,0 +1,70 @@
+{
+  "communeCode": "66171",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Saint-Cyprien : qualifier des indices dans une dépendance",
+  "h1": "Dératisation à Saint-Cyprien : qualifier des indices dans une dépendance",
+  "description": "À Saint-Cyprien, distinguez remise, garage et logement dans votre demande de dératisation, puis faites vérifier les accès et le périmètre du suivi.",
+  "intro": "Une observation dans une remise ou un garage à Saint-Cyprien ne décrit pas automatiquement la situation du logement principal. Pour une dératisation, le dossier doit distinguer ces espaces et les relations d’accès entre eux. Les entreprises du réseau desservant la commune peuvent examiner les indices ; ce guide aide à préparer une inspection utile sans présumer l’espèce ni l’étendue d’une présence à partir d’un seul lieu de découverte.",
+  "intent": "Examiner une dépendance comme zone distincte, avec stockage et porte extérieure, sans étendre automatiquement une observation à l’ensemble du logement ou de la résidence.",
+  "specificValue": "Examiner une dépendance comme zone distincte, avec stockage et porte extérieure, sans étendre automatiquement une observation à l’ensemble du logement ou de la résidence.",
+  "sections": [
+    {
+      "heading": "Délimiter la dépendance et ses usages",
+      "paragraphs": [
+        "Indiquez ce qui est stocké, les périodes d’ouverture et les liens avec les pièces de vie. Dessinez les portes, les communications intérieures et les passages visibles sans démonter les équipements. Une dépendance utilisée seulement certains jours laisse une chronologie différente d’une pièce contrôlée quotidiennement. Précisez quand les indices ont été vus pour la dernière fois et ce qui a changé depuis, en séparant les informations certaines de celles qui restent à vérifier."
+      ]
+    },
+    {
+      "heading": "Préparer les zones à regarder sans tout remuer",
+      "paragraphs": [
+        "Repérez les emplacements où les traces sont visibles et les endroits masqués par des objets. Ne déplacez pas de matériaux suspects à travers le logement pour rendre la visite plus facile. Demandez au professionnel quels préparatifs sont nécessaires et quelles précautions appliquer. Une inspection peut nécessiter une organisation des accès ; elle ne justifie pas de manipuler des déjections ou de multiplier des essais de produits avant que le périmètre soit compris."
+      ]
+    },
+    {
+      "heading": "Éviter les déductions liées au quartier",
+      "paragraphs": [
+        "Le village, le port ou une résidence de Saint-Cyprien situent l’adresse, mais ne démontrent pas une infestation ou une origine particulière. Les informations décisives restent les indices du bien, la nature du stockage et les accès. Si vous avez observé quelque chose dans un espace voisin, décrivez-le sans conclure qu’il est responsable. Le diagnostic pourra distinguer une activité extérieure, une intrusion dans la dépendance et une éventuelle communication avec le logement."
+      ]
+    },
+    {
+      "heading": "Convenir des actions et des limites du suivi",
+      "paragraphs": [
+        "Demandez quelles zones seront inspectées, ce qui est prévu dans la proposition et ce qui dépend de préparatifs ou de travaux complémentaires. Indiquez la présence d’enfants ou d’animaux susceptibles d’accéder à la dépendance. Le parcours de demande conserve la commune et la dératisation ; il ne réserve pas de passage. Les consignes et les contrôles éventuels doivent être clarifiés avec l’entreprise, afin de savoir quoi observer après l’intervention et à qui signaler un nouvel indice."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un indice dans le garage impose-t-il de traiter toutes les pièces ?",
+      "answer": "Ce n’est pas une conclusion automatique. Décrivez les communications entre espaces et les observations dans chaque zone ; le professionnel devra justifier le périmètre proposé au regard de son examen."
+    },
+    {
+      "question": "Dois-je vider entièrement la remise avant le premier contact ?",
+      "answer": "Demandez d’abord comment préparer l’accès. La localisation des indices doit être conservée autant que possible, et les déplacements d’objets doivent être organisés sans répandre des traces ni créer un risque pour les occupants."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66171",
+      "label": "API Géo — identité officielle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://saint-cyprien.com/",
+      "label": "Présentation institutionnelle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

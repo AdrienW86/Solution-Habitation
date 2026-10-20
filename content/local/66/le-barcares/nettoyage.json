@@ -1,0 +1,70 @@
+{
+  "communeCode": "66017",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage au Barcarès : préparer une intervention avec accès de résidence",
+  "h1": "Nettoyage au Barcarès : préparer une intervention avec accès de résidence",
+  "description": "Au Barcarès, définissez pièces, accès au bâtiment et réception du nettoyage pour éviter les malentendus autour des clés, des communs et des annexes.",
+  "intro": "Pour un nettoyage dans une résidence du Barcarès, l’entrée du bâtiment et la délimitation de la prestation doivent être préparées avant le passage. Un appartement, une annexe et les espaces communs ne constituent pas un seul périmètre par défaut. Le réseau permet de consulter l’entreprise de nettoyage desservant la commune ; cette page aide à préciser les tâches et leur accès sans assimiler entretien résidentiel, gestion de résidence et remise de clés aux occupants.",
+  "intent": "Le nettoyage d’un appartement ne comprend pas les parties communes ni les services d’accueil ; organiser entrée, ascenseur éventuel et réception sans généraliser la configuration des résidences.",
+  "specificValue": "Le nettoyage d’un appartement ne comprend pas les parties communes ni les services d’accueil ; organiser entrée, ascenseur éventuel et réception sans généraliser la configuration des résidences.",
+  "sections": [
+    {
+      "heading": "Délimiter le logement et les surfaces retenues",
+      "paragraphs": [
+        "Listez les pièces, les sols, les surfaces accessibles et les équipements dont vous demandez l’entretien. Mentionnez séparément un balcon, une cave ou un espace de rangement, qui nécessitent une confirmation de prise en charge. La présentation du Barcarès entre mer et étang ne renseigne pas l’état du bien. La proposition doit partir de vos observations, des matériaux et des accès réels, sans supposer un niveau de salissure commun aux logements d’un même secteur ou d’une même résidence."
+      ]
+    },
+    {
+      "heading": "Décrire l’entrée sans diffuser de données sensibles",
+      "paragraphs": [
+        "Précisez bâtiment, étage et personne pouvant ouvrir. Les conditions d’utilisation d’un ascenseur éventuel, les passages ou les horaires autorisés doivent être discutés directement. N’inscrivez pas de code d’accès dans le formulaire public et ne présumez pas que le prestataire puisse entrer sans présence prévue. L’entrée du matériel et l’accès à l’eau sont des informations de préparation ; elles ne doivent pas être confondues avec une autorisation générale d’utiliser les parties communes pour toute opération envisagée."
+      ]
+    },
+    {
+      "heading": "Vérifier les annexes et les tâches particulières",
+      "paragraphs": [
+        "Un vitrage en hauteur, une surface extérieure ou un équipement fragile exigent une description et une réponse spécifique. Demandez quelles opérations sont réellement proposées et quels préparatifs restent à votre charge. Le linge, l’accueil d’occupants et les inventaires ne sont pas inclus implicitement. Si certains meubles restent en place, définissez les limites d’accès aux surfaces et les déplacements autorisés, afin qu’une zone inaccessible ne soit pas considérée après coup comme une tâche prévue mais omise dans la prestation."
+      ]
+    },
+    {
+      "heading": "Organiser un contrôle avec une personne identifiée",
+      "paragraphs": [
+        "Convenez des pièces à vérifier, de la remise des clés et du retour d’information en fin de passage. Une réception utile compare les opérations convenues aux surfaces traitées, en distinguant usure et salissures. Le formulaire conserve Le Barcarès et le nettoyage ; la date souhaitée doit être confirmée par l’entreprise. Une demande de devis ne vaut ni disponibilité automatique ni engagement de gestion du logement. Vous pouvez garder une copie du dossier pour organiser l’échange avec la personne qui donnera accès aux lieux."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Les parties communes sont-elles comprises avec l’appartement ?",
+      "answer": "Non, elles doivent faire l’objet d’un périmètre et d’autorisations distincts. Précisez les zones concernées et l’interlocuteur habilité ; une demande pour un logement privé ne constitue pas une commande d’entretien de toute la résidence."
+    },
+    {
+      "question": "Peut-on remettre les clés à l’entreprise sans autre formalité ?",
+      "answer": "Les modalités doivent être convenues directement avant le passage. Identifiez qui ouvre, qui réceptionne et comment les clés sont restituées ; ne transmettez pas les accès sensibles dans le dossier de demande public."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66017",
+      "label": "API Géo — identité officielle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/le-barcares/",
+      "label": "Présentation institutionnelle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

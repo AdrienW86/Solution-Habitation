@@ -1,0 +1,70 @@
+{
+  "communeCode": "66210",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Thuir : préparer un signalement dans un commerce",
+  "h1": "Dératisation à Thuir : préparer un signalement dans un commerce",
+  "description": "À Thuir, localisez les indices entre vente, arrière-boutique et stockage pour demander une dératisation avec des accès et des précautions explicites.",
+  "intro": "Dans un commerce à Thuir, un signalement de rongeurs doit distinguer les espaces accessibles au public, l’arrière-boutique et le stockage. Une observation ne suffit pas à qualifier l’ensemble des locaux. Les entreprises du réseau couvrant la commune peuvent être consultées pour examiner la situation ; le premier dossier gagne à préciser le lieu, les horaires et les contraintes de l’activité sans exposer d’informations commerciales inutiles.",
+  "intent": "Un commerce comportant espaces publics et privés : données utiles, organisation hors ou pendant ouverture et séparation des obligations sectorielles à vérifier avec l’exploitant.",
+  "specificValue": "Un commerce comportant espaces publics et privés : données utiles, organisation hors ou pendant ouverture et séparation des obligations sectorielles à vérifier avec l’exploitant.",
+  "sections": [
+    {
+      "heading": "Définir le lieu du constat",
+      "paragraphs": [
+        "Indiquez la pièce et le point précis de découverte, avec les objets éventuellement endommagés et les dates connues. Ne déplacez pas un indice vers une autre zone pour le montrer. Un croquis simple peut représenter les communications entre la vente, une réserve et l’extérieur. Les observations d’un collègue doivent conserver leur contexte, sans devenir une affirmation générale sur le bâtiment. Photographiez seulement ce qui est visible sans manipulation et sans données de clients."
+      ]
+    },
+    {
+      "heading": "Décrire le fonctionnement du local",
+      "paragraphs": [
+        "Précisez les plages d’ouverture, les réceptions de marchandises et les moments où les zones peuvent être rendues accessibles. Ces informations servent à préparer la reconnaissance ; elles ne garantissent pas qu’une intervention puisse être réalisée sans restriction d’activité. N’annoncez pas de consignes techniques aux équipes avant de les avoir convenues avec l’entreprise. Si votre métier comporte des exigences particulières, transmettez-les pour qu’elles soient vérifiées, sans attendre du site une qualification réglementaire de votre établissement."
+      ]
+    },
+    {
+      "heading": "Demander une explication des accès possibles",
+      "paragraphs": [
+        "Portes, passages techniques et stockage doivent être examinés selon les constats, pas traités sur simple soupçon. Une intervention utile peut associer plusieurs mesures, mais leur justification doit être expliquée par le professionnel. Évitez de multiplier les produits ou de fermer une ouverture dont la fonction n’est pas connue. La localisation à Thuir sélectionne la couverture commerciale ; elle ne démontre pas une fréquence d’infestation dans les commerces de la commune ni une origine liée au voisinage."
+      ]
+    },
+    {
+      "heading": "Rendre le suivi exploitable pour l’équipe",
+      "paragraphs": [
+        "Choisissez un interlocuteur qui pourra recevoir les observations, transmettre les consignes et centraliser les nouveaux constats. Demandez ce que comprennent les contrôles et comment sont consignées les actions qui restent à votre charge. Le formulaire conserve Thuir et la dératisation ; il ne vaut ni commande de traitement ni engagement de délai. Les disponibilités, les précautions et l’organisation du passage doivent être confirmées après examen du besoin avec l’entreprise que vous choisissez."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Dois-je indiquer la nature de mon commerce ?",
+      "answer": "Oui, dans les limites utiles à la qualification du besoin : usages des zones, produits stockés et contraintes d’exploitation. Les informations sensibles et les exigences détaillées se discutent directement avec l’interlocuteur retenu, sans présumer une qualification spécialisée."
+    },
+    {
+      "question": "Une intervention peut-elle se dérouler pendant l’ouverture ?",
+      "answer": "Cette possibilité dépend du diagnostic et des méthodes retenues. Expliquez vos contraintes et demandez une réponse précise sur les accès, les précautions et les restrictions éventuelles avant d’organiser le passage avec votre équipe."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66210",
+      "label": "API Géo — identité officielle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://thuir.fr/",
+      "label": "Présentation institutionnelle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

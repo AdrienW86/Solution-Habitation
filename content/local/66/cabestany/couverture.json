@@ -1,0 +1,70 @@
+{
+  "communeCode": "66028",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Cabestany : préparer des travaux au-dessus de locaux occupés",
+  "h1": "Couverture à Cabestany : préparer des travaux au-dessus de locaux occupés",
+  "description": "À Cabestany, organisez une demande de couverture en tenant compte des accès, de l’occupation des locaux et des protections à convenir.",
+  "intro": "Une intervention de couverture à Cabestany peut devoir se préparer alors que le bâtiment reste utilisé. Qu’il s’agisse d’un logement ou d’un local professionnel, il faut expliquer cette contrainte avant de choisir les travaux. Le réseau présente les entreprises déclarées pour la commune ; ce dossier aide à mettre en relation l’état observé du toit, l’occupation intérieure et les conditions d’accès à examiner.",
+  "intent": "Rénovation ou réparation au-dessus d’un local utilisé pendant la journée : séparer continuité d’usage, reconnaissance technique et réception du chantier sans promettre de maintien d’activité.",
+  "specificValue": "Rénovation ou réparation au-dessus d’un local utilisé pendant la journée : séparer continuité d’usage, reconnaissance technique et réception du chantier sans promettre de maintien d’activité.",
+  "sections": [
+    {
+      "heading": "Commencer par les contraintes d’occupation",
+      "paragraphs": [
+        "Présentez les espaces situés sous la zone concernée et les plages pendant lesquelles ils sont utilisés. Indiquez si du matériel doit être protégé ou si une pièce peut être libérée temporairement. Ces informations ne permettent pas de garantir la poursuite de l’activité : elles servent à demander au couvreur quelles dispositions sont nécessaires. Distinguez les souhaits d’organisation des conditions qui ne pourront être définies qu’après reconnaissance des lieux."
+      ]
+    },
+    {
+      "heading": "Donner une adresse et un accès exploitables",
+      "paragraphs": [
+        "Cabestany possède des secteurs économiques recensés par la métropole, mais cette donnée ne décrit pas votre bâtiment ni son toit. Précisez l’entrée à utiliser, les passages disponibles et la personne qui peut ouvrir les espaces techniques. Une photo du bâtiment depuis le sol peut aider à préparer la visite. Ne réservez pas d’emplacement et ne commandez pas de matériel d’accès avant d’avoir discuté des besoins avec l’entreprise."
+      ]
+    },
+    {
+      "heading": "Mettre en regard réparation et rénovation",
+      "paragraphs": [
+        "Un défaut localisé ne conduit pas nécessairement à reprendre toute la couverture ; inversement, une intervention ponctuelle ne répond pas toujours à un état plus général. Demandez quels éléments justifient le périmètre proposé et comment les raccords avec les parties conservées seront traités. Les photographies et l’historique des travaux éclairent l’échange, sans remplacer l’examen. Faites distinguer les ouvrages effectivement inspectés de ceux dont l’état n’a pas encore été établi."
+      ]
+    },
+    {
+      "heading": "Convenez des protections et de la réception",
+      "paragraphs": [
+        "Dans la proposition, recherchez les étapes, les protections prévues et les limites concernant l’intérieur du bâtiment. Qui doit déplacer les équipements ? Comment seront signalées les zones momentanément inaccessibles ? Ces questions réduisent les malentendus entre un devis technique et les attentes d’usage. La demande conserve Cabestany et la famille toiture ; ajoutez les contraintes essentielles sans joindre de codes d’alarme ni de données confidentielles sur l’activité exercée dans les locaux."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Peut-on imposer de rester dans le bâtiment pendant tous les travaux ?",
+      "answer": "Cette possibilité dépend du chantier et des conditions de sécurité. Décrivez l’occupation souhaitée et demandez une réponse explicite après visite, avec les restrictions éventuelles ; ne déduisez pas cette possibilité du seul type de bâtiment."
+    },
+    {
+      "question": "Une rénovation inclut-elle la protection du matériel intérieur ?",
+      "answer": "Il faut vérifier le partage des tâches. Une protection, un déplacement et un stockage sont des opérations différentes : faites préciser les mesures prévues et les préparatifs qui restent à votre charge."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66028",
+      "label": "API Géo — identité officielle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/cabestany/",
+      "label": "Présentation institutionnelle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

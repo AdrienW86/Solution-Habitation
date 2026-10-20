@@ -1,0 +1,70 @@
+{
+  "communeCode": "66171",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Saint-Cyprien : distinguer entretien intérieur et extérieurs",
+  "h1": "Nettoyage à Saint-Cyprien : distinguer entretien intérieur et extérieurs",
+  "description": "À Saint-Cyprien, préparez une demande de nettoyage en séparant pièces de vie, vitrages accessibles et espaces extérieurs à confirmer avec l’entreprise.",
+  "intro": "Un besoin de nettoyage à Saint-Cyprien peut être décrit comme « l’ensemble du logement » alors qu’il rassemble des tâches très différentes. Pièces de vie, vitrages, balcon et terrasse ne se traitent pas comme un seul périmètre. Le réseau permet de consulter l’entreprise référencée ; cette page aide à préciser les surfaces à examiner et à faire confirmer les opérations réellement proposées, sans déduire des compétences absentes de sa fiche.",
+  "intent": "Définir la frontière entre surfaces intérieures et espaces attenants ; éviter d’inclure implicitement terrasse, façade ou interventions en hauteur dans un besoin résidentiel courant.",
+  "specificValue": "Définir la frontière entre surfaces intérieures et espaces attenants ; éviter d’inclure implicitement terrasse, façade ou interventions en hauteur dans un besoin résidentiel courant.",
+  "sections": [
+    {
+      "heading": "Écrire une liste intérieure avant d’ajouter les annexes",
+      "paragraphs": [
+        "Commencez par cuisine, salle d’eau, sanitaires, pièces et circulations. Pour chaque espace, distinguez sol, mobilier accessible et autres surfaces à traiter. Indiquez si des objets doivent être déplacés et qui en aura la charge. Cette liste permet d’éviter qu’une expression comme « nettoyage complet » soit comprise de deux façons différentes. Les tâches ponctuelles doivent être nommées, tout comme les zones qui doivent rester hors intervention ou être accessibles aux occupants."
+      ]
+    },
+    {
+      "heading": "Décrire séparément les vitrages et leurs accès",
+      "paragraphs": [
+        "Précisez le nombre d’ouvertures concernées, leur hauteur approximative et l’accès possible depuis l’intérieur ou l’extérieur. Un vitrage visible n’est pas nécessairement accessible dans des conditions adaptées à la prestation envisagée. Ne prévoyez pas vous-même une intervention en hauteur et ne supposez pas qu’elle est comprise. L’entreprise doit confirmer le périmètre et les limites après examen ; les moyens d’accès particuliers ne peuvent être déduits d’une simple photographie de façade."
+      ]
+    },
+    {
+      "heading": "Faire confirmer les espaces extérieurs",
+      "paragraphs": [
+        "Balcon, terrasse, garde-corps et façade doivent faire l’objet de questions distinctes. Les matériaux, l’évacuation de l’eau et les règles du lieu peuvent modifier les opérations possibles. La situation à Saint-Cyprien, au village ou près du port, ne détermine pas à elle seule la méthode adaptée. Décrivez les surfaces réellement concernées et demandez ce qui entre dans les prestations disponibles ; une tâche non confirmée ne doit pas être ajoutée tacitement à la commande."
+      ]
+    },
+    {
+      "heading": "Prévoir une réception par périmètre",
+      "paragraphs": [
+        "Demandez un devis qui sépare clairement l’intérieur, les éléments éventuellement retenus à l’extérieur et les exclusions. Convenez de la manière de contrôler les surfaces prévues et de signaler une difficulté. Une date souhaitée doit être discutée avec le prestataire, sans promesse issue du formulaire. Celui-ci conserve Saint-Cyprien et la famille nettoyage ; ajoutez vos priorités et les incertitudes sur les matériaux plutôt que d’imposer une méthode risquant de ne pas convenir aux lieux."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un nettoyage résidentiel comprend-il forcément la terrasse ?",
+      "answer": "Non, cette zone doit être décrite et confirmée séparément. Les matériaux, l’accès et les conditions d’évacuation peuvent imposer des limites ; vérifiez le périmètre exact au lieu de vous fier à une formule générale."
+    },
+    {
+      "question": "Peut-on demander le lavage de vitrages difficiles d’accès ?",
+      "answer": "Vous pouvez exposer le besoin, mais sa faisabilité et les moyens requis doivent être vérifiés par l’entreprise. N’organisez pas une intervention en hauteur sur la base d’un devis qui ne précise pas ces conditions."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66171",
+      "label": "API Géo — identité officielle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://saint-cyprien.com/",
+      "label": "Présentation institutionnelle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

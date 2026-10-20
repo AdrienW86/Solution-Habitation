@@ -1,0 +1,70 @@
+{
+  "communeCode": "66008",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Argelès-sur-Mer : comparer une remise en état entre occupations",
+  "h1": "Nettoyage à Argelès-sur-Mer : comparer une remise en état entre occupations",
+  "description": "À Argelès-sur-Mer, cadrez le nettoyage d’un logement entre occupations : tâches, état initial, accès et contrôle, sans promettre une formule universelle.",
+  "intro": "Entre deux occupations d’un logement à Argelès-sur-Mer, l’expression « remise en état » peut recouvrir nettoyage, linge, rangement et vérification des équipements. Il est utile de séparer ces attentes avant de consulter une entreprise. Le réseau permet une demande pour le nettoyage dans la commune ; cette préparation évite de faire passer une prestation d’entretien pour un ensemble de services locatifs qui n’auraient pas été confirmés.",
+  "intent": "Distinguer remise en propreté, inventaire, linge et contraintes de rotation d’un hébergement ; les prestations du réseau doivent être confirmées sans faire passer le nettoyage pour une conciergerie.",
+  "specificValue": "Distinguer remise en propreté, inventaire, linge et contraintes de rotation d’un hébergement ; les prestations du réseau doivent être confirmées sans faire passer le nettoyage pour une conciergerie.",
+  "sections": [
+    {
+      "heading": "Partir de l’état réel plutôt que du calendrier",
+      "paragraphs": [
+        "Un créneau entre deux séjours ne renseigne pas la quantité de travail nécessaire. Indiquez la dernière visite, les pièces concernées et les opérations attendues sur les surfaces accessibles. Précisez si des objets doivent être déplacés ou si un état initial doit être constaté avec vous. Les salissures exceptionnelles et les traces d’usure doivent être décrites ; elles ne se traitent pas nécessairement comme un entretien courant, même dans un logement de petite surface."
+      ]
+    },
+    {
+      "heading": "Énumérer ce qui relève d’un autre service",
+      "paragraphs": [
+        "Inventaire, remise des clés aux occupants, préparation du linge et gestion des consommables doivent être nommés séparément. Demandez ce que l’entreprise accepte réellement et ce qui reste à votre charge. Ne supposez pas qu’une opération est incluse parce qu’elle est fréquente dans votre organisation. L’accès à certains logements d’Argelès, notamment dans des secteurs aux cheminements particuliers, doit aussi être expliqué pour que l’entrée du matériel ne soit pas découverte au dernier moment."
+      ]
+    },
+    {
+      "heading": "Prévoir la qualité sans promettre un résultat instantané",
+      "paragraphs": [
+        "Une liste par pièce rend le contrôle plus clair : surfaces de cuisine, sanitaires, sols et vitrages retenus au devis. Pour les matériaux sensibles, demandez une méthode compatible et indiquez les consignes connues. Le calendrier souhaité doit être soumis à l’entreprise après description des lieux. Aucun délai de rotation n’est garanti par le formulaire et aucune disparition complète des marques ne peut être déduite du seul intitulé de nettoyage résidentiel."
+      ]
+    },
+    {
+      "heading": "Mettre une personne en charge de la réception",
+      "paragraphs": [
+        "Convenez de qui ouvre, de qui vérifie les tâches et de la procédure de signalement d’une difficulté. Si vous êtes absent, organisez le retour d’information directement, sans transmettre de codes ou données d’occupants dans le dossier public. Le parcours conserve Argelès-sur-Mer et la famille nettoyage. La confirmation des disponibilités et du contenu de la prestation doit précéder toute annonce à un nouvel occupant ; un téléchargement de dossier constitue seulement une préparation locale de la demande."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le nettoyage peut-il être réservé automatiquement entre deux séjours ?",
+      "answer": "Non, le formulaire prépare ou transmet une demande selon sa configuration. L’entreprise doit confirmer le périmètre, le créneau et les conditions ; ne considérez pas une date saisie comme une réservation acquise."
+    },
+    {
+      "question": "Une remise en propreté comprend-elle un inventaire du logement ?",
+      "answer": "Il s’agit d’une opération différente. Si vous souhaitez un inventaire ou un contrôle d’équipements, exposez-le explicitement et faites confirmer ce qui est proposé, sans l’ajouter implicitement à l’entretien des surfaces."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66008",
+      "label": "API Géo — identité officielle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.argeles-sur-mer.com/cap-mediteranee/les-plages/plage-du-racou/",
+      "label": "Présentation institutionnelle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

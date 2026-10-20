@@ -1,0 +1,70 @@
+{
+  "communeCode": "66189",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Saleilles : préparer un entretien après des travaux de peinture",
+  "h1": "Nettoyage à Saleilles : préparer un entretien après des travaux de peinture",
+  "description": "À Saleilles, décrivez les surfaces récemment peintes, les protections et les poussières pour préparer un nettoyage sans promettre une remise en état spécialisée.",
+  "intro": "Après des travaux de peinture dans un logement à Saleilles, un besoin de nettoyage doit tenir compte des surfaces récentes et de ce qui reste protégé ou occupé. L’entretien courant du réseau n’est pas présenté automatiquement comme une prestation spécialisée de fin de chantier. Cette page aide à préparer une demande précise, pour que l’entreprise confirme les opérations qu’elle peut réellement prendre en charge et les précautions à respecter avant la remise en usage des pièces.",
+  "intent": "Un besoin après rénovation légère demande de vérifier la compatibilité avec les finitions récentes et les limites du service disponible, sans annoncer automatiquement une prestation spécialisée après chantier.",
+  "specificValue": "Un besoin après rénovation légère demande de vérifier la compatibilité avec les finitions récentes et les limites du service disponible, sans annoncer automatiquement une prestation spécialisée après chantier.",
+  "sections": [
+    {
+      "heading": "Faire un état des lieux des travaux terminés",
+      "paragraphs": [
+        "Précisez les pièces où les interventions sont achevées et celles encore concernées par d’autres passages. Indiquez les poussières visibles, les sols exposés et les éléments de protection restants, sans considérer tout résidu comme une tâche courante. Une description des matériaux et des opérations réalisées aide à qualifier le besoin. Les traces de peinture, les déchets de chantier et la remise en propreté des surfaces doivent être distingués plutôt que rassemblés dans une commande générale dont le périmètre serait incertain."
+      ]
+    },
+    {
+      "heading": "Transmettre les consignes sur les finitions récentes",
+      "paragraphs": [
+        "Les informations données par l’intervenant de peinture ou le fabricant du produit doivent être communiquées lorsqu’elles sont disponibles. Ne fixez pas un délai générique de nettoyage ou une méthode à partir d’un autre chantier. Demandez quelles surfaces peuvent être approchées et quelles zones doivent rester sans manipulation. Une méthode qui convient à un sol peut être inadaptée à une finition récente ; le résultat attendu doit rester compatible avec les consignes réelles et les caractéristiques du support concerné."
+      ]
+    },
+    {
+      "heading": "Faire confirmer ce qui entre dans les prestations",
+      "paragraphs": [
+        "Exposez le besoin à l’entreprise avant de considérer qu’un nettoyage après travaux est accepté dans son ensemble. Le catalogue documente des prestations résidentielles et professionnelles, mais ne suffit pas à confirmer toutes les opérations de chantier. Demandez les tâches disponibles, les exclusions et les préparatifs à votre charge. À votre adresse de Saleilles, précisez les accès, l’eau et les pièces rendues libres, ainsi que les éventuels objets fragiles qui ne doivent pas être déplacés ou découverts sans accord."
+      ]
+    },
+    {
+      "heading": "Recevoir les surfaces sans masquer les réserves",
+      "paragraphs": [
+        "Une liste par pièce doit permettre de vérifier ce qui a été convenu et de distinguer les traces relevant d’une retouche ou d’un autre métier. Organisez le passage lorsque les conditions préparées sont réellement réunies, avec un créneau confirmé directement. Le formulaire conserve Saleilles et le nettoyage ; mentionnez les travaux récents et les consignes disponibles. Le dossier ne vaut ni acceptation d’un protocole spécialisé ni promesse de disparition de tous les résidus, dont le traitement dépend des supports et du périmètre validé."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le réseau propose-t-il automatiquement tout nettoyage de fin de chantier ?",
+      "answer": "Non, décrivez les opérations nécessaires et faites confirmer les prestations disponibles. Une remise en propreté courante, l’évacuation de déchets et le traitement de résidus sur des supports récents ne doivent pas être confondus sans examen."
+    },
+    {
+      "question": "Quand peut-on nettoyer une surface qui vient d’être peinte ?",
+      "answer": "Il faut suivre les consignes applicables à la finition utilisée et les faire connaître au prestataire. Cette page ne donne pas de délai universel ; les conditions réelles du support doivent être vérifiées avant de choisir une opération."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66189",
+      "label": "API Géo — identité officielle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saleilles/",
+      "label": "Présentation institutionnelle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

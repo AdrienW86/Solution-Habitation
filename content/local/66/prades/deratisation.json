@@ -1,0 +1,70 @@
+{
+  "communeCode": "66149",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Prades : préciser des indices dans des combles accessibles",
+  "h1": "Dératisation à Prades : préciser des indices dans des combles accessibles",
+  "description": "À Prades, préparez une inspection de combles sans manipulation risquée : localisation des bruits, accès existants et précautions à expliquer au professionnel.",
+  "intro": "Un bruit sous la toiture ou des traces près d’une trappe peuvent motiver une demande de dératisation à Prades. Il faut alors décrire les combles et leur accessibilité sans prendre de risque pour obtenir des photographies supplémentaires. Les entreprises du réseau couvrant la commune peuvent examiner les constats ; ce dossier aide à distinguer les faits, les limites de visibilité et les précautions nécessaires avant toute décision sur une méthode.",
+  "intent": "Qualifier des observations sous toiture en évitant de monter dans un volume dangereux ; relier accès, isolant et bruit sans identifier d’espèce ni prescrire un traitement avant diagnostic.",
+  "specificValue": "Qualifier des observations sous toiture en évitant de monter dans un volume dangereux ; relier accès, isolant et bruit sans identifier d’espèce ni prescrire un traitement avant diagnostic.",
+  "sections": [
+    {
+      "heading": "Localiser le signe depuis les espaces sûrs",
+      "paragraphs": [
+        "Notez la pièce depuis laquelle le phénomène est perçu et les moments où il se produit. Si une trappe est accessible normalement, décrivez sa position sans vous engager dans un volume non circulable. Les photographies doivent rester possibles sans déplacement sur un support incertain. Un bruit ne permet pas à lui seul d’identifier des rongeurs : il doit être rapproché d’autres indices et des vérifications que l’entreprise pourra mener dans des conditions adaptées aux lieux."
+      ]
+    },
+    {
+      "heading": "Décrire l’aménagement sans toucher aux matériaux",
+      "paragraphs": [
+        "Indiquez si les combles sont rangés, encombrés ou partiellement visibles et si vous connaissez des travaux récents dans ce volume. N’écartez pas un isolant et ne manipulez pas de traces pour préparer le rendez-vous. Le professionnel doit savoir ce qu’il pourra observer et quels points nécessitent une organisation particulière. Un dommage apparent sur un matériau mérite d’être signalé, mais sa cause et son étendue ne doivent pas être affirmées avant une reconnaissance."
+      ]
+    },
+    {
+      "heading": "Relier la demande au bon périmètre technique",
+      "paragraphs": [
+        "Une suspicion de rongeurs et un défaut de couverture sont des besoins à distinguer. Si vous constatez aussi une entrée d’eau ou un élément de toiture déplacé, signalez-le séparément. La situation de Prades dans le Conflent ne permet pas de présumer une espèce ou une fréquence de présence dans les bâtiments. L’entreprise devra expliquer les indices retenus, les zones examinées et les éventuelles limites de sa mission, sans transformer toute anomalie sous toiture en problème de nuisibles."
+      ]
+    },
+    {
+      "heading": "Demander des consignes pour la suite",
+      "paragraphs": [
+        "Précisez la présence des occupants et des animaux, ainsi que les produits déjà utilisés. Demandez ce que comprend la proposition en matière d’inspection, d’actions et de contrôle. Le formulaire conserve Prades et la dératisation ; vous pouvez y décrire les accès sans communiquer de détail sensible. Après la visite, convenez de ce qui doit être surveillé depuis les pièces accessibles. Aucun traitement, délai ou résultat définitif n’est promis par le seul choix d’une entreprise dans le réseau."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Dois-je déplacer l’isolant pour montrer les traces ?",
+      "answer": "Non, ne manipulez pas les matériaux pour constituer le dossier. Décrivez les indices visibles et les conditions d’accès ; l’entreprise indiquera les vérifications envisageables et les précautions nécessaires avant toute intervention dans le volume."
+    },
+    {
+      "question": "Une anomalie dans les combles relève-t-elle toujours d’une dératisation ?",
+      "answer": "Non, les causes doivent être distinguées. Décrivez séparément les bruits, traces, dommages et éventuelles entrées d’eau afin de consulter le bon métier et de ne pas choisir un traitement avant le diagnostic."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66149",
+      "label": "API Géo — identité officielle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.prades.com/articles-3/25-22-entre-mer-et-montagne/",
+      "label": "Présentation institutionnelle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

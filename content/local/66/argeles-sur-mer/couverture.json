@@ -1,0 +1,70 @@
+{
+  "communeCode": "66008",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Argelès-sur-Mer : préparer un accès contraint au bâtiment",
+  "h1": "Couverture à Argelès-sur-Mer : préparer un accès contraint au bâtiment",
+  "description": "Pour une toiture à Argelès-sur-Mer, documentez les accès réels et les ouvrages à examiner avant de convenir d’une visite et d’une proposition.",
+  "intro": "À Argelès-sur-Mer, préparer des travaux de couverture peut commencer par une question d’accès au bâtiment. L’office de tourisme décrit notamment les cheminements du Racou, mais cette particularité ne concerne pas toutes les adresses de la commune. Pour votre bien, les entreprises du réseau doivent disposer d’une description concrète des passages et des ouvrages à examiner avant de définir la visite et les moyens nécessaires.",
+  "intent": "Une entrée par cheminement étroit ou non carrossable modifie la préparation logistique, sans permettre d’affirmer une impossibilité de travaux ni une méthode d’accès prédéfinie.",
+  "specificValue": "Une entrée par cheminement étroit ou non carrossable modifie la préparation logistique, sans permettre d’affirmer une impossibilité de travaux ni une méthode d’accès prédéfinie.",
+  "sections": [
+    {
+      "heading": "Montrer le trajet jusqu’au bâtiment",
+      "paragraphs": [
+        "Décrivez l’accès depuis la rue, les portes ou portillons et les passages étroits, sans estimer vous-même les moyens techniques de l’intervention. Une vue d’ensemble prise depuis le sol est utile pour situer le bâtiment. Si l’accès passe par un espace partagé, identifiez la personne qui pourra l’autoriser. Les dimensions connues peuvent être transmises à titre indicatif ; le professionnel devra vérifier celles qui conditionnent réellement son organisation et sa sécurité."
+      ]
+    },
+    {
+      "heading": "Décrire le désordre indépendamment de la logistique",
+      "paragraphs": [
+        "Un accès contraint et une trace d’humidité sont deux informations distinctes. Notez les lieux où le désordre apparaît, les circonstances et les travaux précédents connus. La difficulté d’accès ne prouve pas qu’une réparation sera lourde, pas plus qu’un dommage apparemment limité ne permet de garantir une intervention simple. Demandez que le diagnostic et les contraintes d’installation soient expliqués séparément, afin de comprendre ce qui relève de l’état de la couverture."
+      ]
+    },
+    {
+      "heading": "Coordonner les autorisations avant les travaux",
+      "paragraphs": [
+        "Un passage sur une partie partagée ou l’utilisation d’un espace voisin ne doit pas être considéré comme acquis. Signalez les interlocuteurs et les contraintes connues dès la demande. L’entreprise précisera les conditions nécessaires à la reconnaissance et aux travaux envisagés. Cette page ne détermine pas les autorisations applicables à une occupation de voie ou à votre propriété : elles doivent être vérifiées avec les personnes et services compétents selon l’organisation réellement retenue."
+      ]
+    },
+    {
+      "heading": "Comparer des propositions qui couvrent le même besoin",
+      "paragraphs": [
+        "Demandez une description des ouvrages repris, des moyens d’accès prévus et des limites concernant les protections ou l’évacuation des déchets de chantier. Ces postes permettent de comprendre des propositions qui ne se limitent pas au remplacement d’un matériau. Le formulaire conserve Argelès-sur-Mer et la couverture ; précisez le secteur et la situation du passage. Une entreprise couvrant la commune ne garantit pas d’emblée la faisabilité d’une méthode précise ni la date de réalisation souhaitée."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un accès sans voiture empêche-t-il une visite de couvreur ?",
+      "answer": "Il doit être signalé, mais ne permet pas à lui seul de conclure à une impossibilité. L’entreprise pourra examiner les lieux et préciser les conditions nécessaires à la reconnaissance et aux travaux éventuels."
+    },
+    {
+      "question": "Faut-il choisir soi-même un échafaudage avant le devis ?",
+      "answer": "Non, décrivez les accès et laissez le professionnel définir les moyens adaptés. Leur choix dépend du bâtiment, de la mission et des conditions de sécurité, avec les autorisations à vérifier avant de les considérer comme disponibles."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66008",
+      "label": "API Géo — identité officielle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.argeles-sur-mer.com/cap-mediteranee/les-plages/plage-du-racou/",
+      "label": "Présentation institutionnelle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

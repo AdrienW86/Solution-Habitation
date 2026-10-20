@@ -1,0 +1,70 @@
+{
+  "communeCode": "66037",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Canet-en-Roussillon : vérifier un logement rouvert",
+  "h1": "Dératisation à Canet-en-Roussillon : vérifier un logement rouvert",
+  "description": "À Canet-en-Roussillon, relevez les indices lors de la réouverture d’un logement et préparez les accès, les précautions et le suivi de la dératisation.",
+  "intro": "À la réouverture d’un logement de Canet-en-Roussillon, des emballages abîmés ou des traces peuvent être découverts sans que leur ancienneté soit connue. Une demande de dératisation doit conserver cette incertitude plutôt que supposer une présence actuelle dans toutes les pièces. Les professionnels du réseau couvrant la commune peuvent examiner les indices et préparer une réponse tenant compte de vos accès et de votre présence sur place.",
+  "intent": "Une inspection initiale à la réouverture d’un bien : chronologie incertaine, état des réserves et relais local, sans prétendre que la saisonnalité entraîne des infestations.",
+  "specificValue": "Une inspection initiale à la réouverture d’un bien : chronologie incertaine, état des réserves et relais local, sans prétendre que la saisonnalité entraîne des infestations.",
+  "sections": [
+    {
+      "heading": "Distinguer découverte récente et apparition récente",
+      "paragraphs": [
+        "Notez la date de votre découverte et, séparément, celle de la dernière visite pendant laquelle le lieu avait été contrôlé. Cette différence évite de présenter un indice ancien comme un événement du jour. Localisez les traces sur un plan simple et photographiez-les sans manipulation. Si le logement est fermé entre deux passages, expliquez qui pourra observer d’éventuelles évolutions et communiquer des informations comparables après le rendez-vous professionnel."
+      ]
+    },
+    {
+      "heading": "Décrire les pièces et les réserves accessibles",
+      "paragraphs": [
+        "Cuisine, placards, remise et locaux partagés doivent être distingués. Précisez la présence éventuelle de denrées ou d’objets stockés, sans vous engager dans un tri risqué pour chercher des indices supplémentaires. Les accès propres au logement et ceux dépendant de la résidence ne se gèrent pas de la même façon. Indiquez à l’entreprise quels espaces pourront être ouverts et lesquels nécessitent l’accord ou l’accompagnement d’une autre personne."
+      ]
+    },
+    {
+      "heading": "Préparer les précautions avant le retour des occupants",
+      "paragraphs": [
+        "Signalez la date de retour souhaitée ainsi que la présence d’enfants ou d’animaux. Ce calendrier sert à organiser l’échange, sans promettre un délai d’intervention ou de réutilisation des lieux. Demandez les consignes précises correspondant à la méthode éventuellement retenue et aux surfaces examinées. La distinction entre village et secteurs littoraux à Canet situe la demande ; elle ne permet pas de déduire une fréquence particulière de rongeurs dans votre résidence."
+      ]
+    },
+    {
+      "heading": "Prévoir un relais pour le suivi",
+      "paragraphs": [
+        "Si vous repartez après la visite, demandez comment les observations seront suivies et qui pourra donner accès aux contrôles convenus. Une proposition doit distinguer le diagnostic, les actions prévues et les mesures de prévention restant à réaliser. Le formulaire garde la commune et la dératisation ; ajoutez les contraintes de présence sans envoyer de clés ou codes. Les entreprises présentées desservent Canet-en-Roussillon, ce qui ne constitue pas une agence locale ni une disponibilité confirmée."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Des traces découvertes aujourd’hui signifient-elles une présence active ?",
+      "answer": "Pas nécessairement, surtout si le logement n’a pas été visité récemment. Expliquez cette chronologie et demandez quelles vérifications permettront de distinguer un indice ancien d’une activité actuelle avant de définir la réponse."
+    },
+    {
+      "question": "Peut-on organiser le suivi si je ne reste pas sur place ?",
+      "answer": "Il faut en discuter avant l’intervention. Prévoyez un interlocuteur autorisé, les conditions d’accès et la manière de transmettre les observations ; aucun contrôle ultérieur ne doit être supposé inclus sans confirmation écrite."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66037",
+      "label": "API Géo — identité officielle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+      "label": "Présentation institutionnelle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

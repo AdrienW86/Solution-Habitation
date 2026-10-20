@@ -1,0 +1,70 @@
+{
+  "communeCode": "66164",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Rivesaltes : définir les limites entre stockage et bureaux",
+  "h1": "Nettoyage à Rivesaltes : définir les limites entre stockage et bureaux",
+  "description": "Pour vos locaux à Rivesaltes, distinguez les tâches d’entretien, les marchandises et les zones de circulation avant une demande de nettoyage.",
+  "intro": "Un même site à Rivesaltes peut associer une zone de bureaux et des espaces de stockage. Une demande de nettoyage doit préciser où commence et où s’arrête chaque opération. Le réseau permet de consulter l’entreprise dont les prestations sont déclarées ; cette page propose une grille de préparation pour éviter que la manutention des biens ou une opération spécialisée soit implicitement attendue d’un entretien courant.",
+  "intent": "Rendre comparable un entretien de locaux mixtes bureau-stockage sans assimiler nettoyage courant, manutention, déchets spécifiques ou maintenance des équipements.",
+  "specificValue": "Rendre comparable un entretien de locaux mixtes bureau-stockage sans assimiler nettoyage courant, manutention, déchets spécifiques ou maintenance des équipements.",
+  "sections": [
+    {
+      "heading": "Séparer les zones par fonction",
+      "paragraphs": [
+        "Listez les bureaux, les circulations, les sanitaires et les espaces accessibles autour du stockage. Décrivez la nature connue des sols et les obstacles permanents. Les mètres carrés occupés par des rayonnages ne sont pas équivalents à une surface libre à entretenir. Indiquez quelles parties sont réellement accessibles et lesquelles exigent une préparation de votre côté ; le devis pourra ainsi correspondre à des tâches vérifiables plutôt qu’à une surface totale sans contexte."
+      ]
+    },
+    {
+      "heading": "Distinguer déplacement et nettoyage",
+      "paragraphs": [
+        "Précisez si des marchandises, cartons ou palettes doivent être déplacés et qui assurera cette préparation. N’attendez pas une manutention non discutée, ni l’évacuation de déchets particuliers sous l’intitulé général « nettoyage ». Si un équipement ou une zone présente une contrainte technique, signalez-le avant la visite. Les tâches dépassant les prestations documentées doivent faire l’objet d’une confirmation spécifique, avec les compétences et les limites adaptées au besoin réel."
+      ]
+    },
+    {
+      "heading": "Prévoir la cohabitation avec les circulations",
+      "paragraphs": [
+        "Expliquez les plages de livraison, les déplacements du personnel et les moments où certaines zones peuvent être rendues disponibles. Un passage organisé au mauvais moment peut empêcher l’accès aux surfaces prévues. Convenez avec l’entreprise du balisage ou des restrictions nécessaires, sans décider une méthode technique à sa place. À votre adresse de Rivesaltes, les accès à l’eau, les étages et l’entrée du matériel constituent des informations utiles dès la préparation du rendez-vous."
+      ]
+    },
+    {
+      "heading": "Définir les contrôles et les évolutions",
+      "paragraphs": [
+        "Pour chaque zone, demandez que les opérations incluses soient liées à une fréquence ou à un besoin ponctuel clairement décrit. Prévoyez une personne pour signaler un changement d’implantation ou de rythme d’activité. Une réception utile vérifie les surfaces convenues sans confondre usure, taches incrustées et défaut d’entretien. Le formulaire garde la localisation et permet d’indiquer le type de locaux ; les conditions et disponibilités sont ensuite à confirmer auprès de l’entreprise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Peut-on demander seulement les circulations autour du stock ?",
+      "answer": "Oui, ce périmètre peut être proposé à l’entreprise, à condition de préciser les limites d’accès et les préparatifs. Le devis doit permettre d’identifier les zones incluses et les surfaces qui ne sont pas prises en charge."
+    },
+    {
+      "question": "Les déchets de l’activité sont-ils compris dans l’entretien ?",
+      "answer": "Il faut distinguer les déchets courants des flux propres à votre activité. Décrivez la demande et faites confirmer ce qui est accepté, sans supposer qu’une évacuation spécialisée fait partie d’un nettoyage de locaux."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66164",
+      "label": "API Géo — identité officielle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/rivesaltes/",
+      "label": "Présentation institutionnelle de Rivesaltes",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

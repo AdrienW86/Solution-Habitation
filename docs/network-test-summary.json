@@ -1,0 +1,51 @@
+{
+  "validatedOn": "2026-10-19",
+  "scope": "Correction des suggestions et activation des départements 66, 11 et 34, sans push ni déploiement",
+  "typecheck": "passed",
+  "eslint": "passed",
+  "productionBuild": "passed",
+  "unitAndIntegration": { "passed": 25, "failed": 0 },
+  "browser": {
+    "validatedScenarios": 39,
+    "remainingFailures": 0,
+    "skipped": 1,
+    "skipReason": "Menu mobile testé uniquement dans le projet mobile",
+    "execution": "37 scénarios réussis dans la suite complète, puis les 2 scénarios corrigés du test de noms proches ont réussi au contrôle ciblé."
+  },
+  "crawl": {
+    "pages": 47,
+    "internalLinks": 342,
+    "brokenLinks": 0,
+    "duplicateTitles": 0,
+    "axeViolations": 0
+  },
+  "responsive": {
+    "widths": [390, 768, 1440],
+    "routes": [
+      "/territoires/66",
+      "/territoires/11",
+      "/territoires/34",
+      "/recherche?departement=66"
+    ],
+    "horizontalOverflow": false,
+    "pageErrors": 0,
+    "openAutocompleteAxeViolations": 0,
+    "indicativeBrowserSearchActionMs": [12, 12, 13]
+  },
+  "network": {
+    "companies": 8,
+    "activeDepartments": ["66", "11", "34"],
+    "inactiveUnassignedDepartmentSlots": 0,
+    "officialCommunes": 1000,
+    "communesByDepartment": { "66": 226, "11": 433, "34": 341 },
+    "directoryPages": 18,
+    "allDirectoryLinksVerified": true,
+    "servicePages": 14,
+    "localLandingPages": 0
+  },
+  "logoSH": {
+    "unchanged": true,
+    "sha256": "E07DA0B87059C70C08CD68DE502CF6CF3BA3A237714F0369E91DECF4D6FD3698"
+  },
+  "liveMessageDeliveryVerified": false
+}

@@ -1,0 +1,18 @@
+{
+  "guides": 38,
+  "guidesByExpertise": {
+    "toiture": 11,
+    "nuisibles": 9,
+    "peinture-facades": 6,
+    "nettoyage": 5,
+    "climatisation-mobile": 4,
+    "ramonage": 3
+  },
+  "guideWords": 10293,
+  "addedGuideWords": 8895,
+  "towns": 32,
+  "localServices": 16,
+  "localWords": 7042,
+  "originalDiagrams": 61,
+  "servicePages": 21
+}

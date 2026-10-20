@@ -1,0 +1,70 @@
+{
+  "communeCode": "66065",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Elne : protéger les matériaux avant une remise en propreté",
+  "h1": "Nettoyage à Elne : protéger les matériaux avant une remise en propreté",
+  "description": "À Elne, décrivez les sols, les finitions et les traces à examiner pour préparer un nettoyage compatible avec les matériaux de votre logement.",
+  "intro": "Pour nettoyer un logement à Elne, le résultat attendu doit être rapproché des matériaux réellement présents : revêtement de sol, finitions du mobilier et surfaces rénovées ou plus anciennes. La réputation patrimoniale de la commune ne permet pas d’identifier ces supports à distance. Le réseau vous aide à consulter une entreprise ; ce dossier prépare un échange sur la compatibilité des opérations avant de demander une remise en propreté générale.",
+  "intent": "Une décision guidée par le support et son état plutôt que par une recette de nettoyage : reconnaissance, essai convenu, meubles et distinction entre salissure et patine ou usure.",
+  "specificValue": "Une décision guidée par le support et son état plutôt que par une recette de nettoyage : reconnaissance, essai convenu, meubles et distinction entre salissure et patine ou usure.",
+  "sections": [
+    {
+      "heading": "Nommer les surfaces et les incertitudes",
+      "paragraphs": [
+        "Listez les pièces, puis les sols et surfaces à traiter. Si vous connaissez une référence de matériau ou une consigne d’entretien, signalez-la. Si vous ignorez la nature d’un revêtement, dites-le plutôt que de le qualifier à partir de son aspect. Une photographie peut aider à préparer la visite mais ne suffit pas toujours à déterminer la méthode. Le professionnel doit pouvoir distinguer les supports identifiés de ceux nécessitant une reconnaissance complémentaire."
+      ]
+    },
+    {
+      "heading": "Distinguer ce qui se nettoie de ce qui s’use",
+      "paragraphs": [
+        "Une marque peut correspondre à une salissure, une décoloration ou une usure. Décrivez son ancienneté et les traitements déjà appliqués sans exiger sa disparition avant examen. Demandez si un essai localisé est pertinent et comment il serait convenu avec vous. Évitez de prescrire une méthode agressive uniquement parce qu’elle paraît efficace sur un autre matériau. La remise en propreté ne doit pas être présentée comme une rénovation des finitions du bâtiment."
+      ]
+    },
+    {
+      "heading": "Préparer les objets et les accès aux pièces",
+      "paragraphs": [
+        "Les tapis, petits meubles et objets fragiles peuvent modifier l’accès aux surfaces. Convenez de ce que vous déplacerez et de ce qui restera en place. Pour une adresse dans la ville haute d’Elne ou ailleurs dans la commune, précisez les étages et les passages utiles à l’entrée du matériel. Une particularité d’accès doit être décrite à l’adresse réelle, sans supposer qu’un quartier entier impose le même mode d’organisation à toutes les interventions."
+      ]
+    },
+    {
+      "heading": "Évaluer la proposition avec des critères concrets",
+      "paragraphs": [
+        "Demandez la liste des surfaces incluses, les exclusions et les préparatifs attendus. Prévoyez une réception qui distingue les opérations exécutées des traces dont l’origine ou la permanence a été discutée. Le dossier garde Elne et la famille nettoyage ; ajoutez les consignes connues et les zones prioritaires. L’entreprise doit confirmer ce qu’elle prend en charge avant que vous considériez une méthode ou un résultat comme acquis. Le réseau n’annonce pas une restauration spécialisée de matériaux patrimoniaux."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Puis-je demander une méthode précise trouvée sur internet ?",
+      "answer": "Il est préférable de communiquer la nature du support et les résultats attendus. La méthode doit être vérifiée pour le matériau, son état et les opérations prévues ; une recette adaptée ailleurs peut être inappropriée dans votre logement."
+    },
+    {
+      "question": "Une trace persistante signifie-t-elle que la prestation a échoué ?",
+      "answer": "Il faut distinguer les salissures des altérations du support et les comparer au périmètre convenu. Faites examiner les marques qui motivent votre demande avant l’intervention afin de clarifier les résultats raisonnablement attendus et les limites."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66065",
+      "label": "API Géo — identité officielle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/les-villages-incontournables-en-pyrenees-mediterranee/elne/",
+      "label": "Présentation institutionnelle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

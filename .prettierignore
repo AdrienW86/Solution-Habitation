@@ -1,0 +1,9 @@
+node_modules
+.next
+docs/legacy-source
+docs/legacy-live-home.html
+docs/legacy-routes.json
+public
+artifacts
+package-lock.json
+test-results

@@ -1,0 +1,70 @@
+{
+  "communeCode": "66144",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Pollestres : comprendre une fuite près d’un ouvrage traversant",
+  "h1": "Couverture à Pollestres : comprendre une fuite près d’un ouvrage traversant",
+  "description": "À Pollestres, préparez l’examen d’une infiltration près d’une sortie ou d’un raccord de toiture, avec des observations datées et un devis précis.",
+  "intro": "À Pollestres, une trace apparaissant sous une sortie technique ou près d’un conduit mérite une vérification des ouvrages concernés. Sa position ne prouve pas que l’élément traversant est en cause. Les couvreurs du réseau peuvent être consultés pour examiner la couverture et ses raccords ; cette page prépare les informations permettant de distinguer les constats, les hypothèses et les autres métiers éventuellement nécessaires au diagnostic.",
+  "intent": "Une trace au voisinage d’un conduit ou d’une sortie technique ne suffit pas à désigner l’origine ; distinguer ouvrage traversant, raccord de couverture et métier associé.",
+  "specificValue": "Une trace au voisinage d’un conduit ou d’une sortie technique ne suffit pas à désigner l’origine ; distinguer ouvrage traversant, raccord de couverture et métier associé.",
+  "sections": [
+    {
+      "heading": "Situer l’ouvrage depuis les espaces accessibles",
+      "paragraphs": [
+        "Décrivez la pièce, le point de la trace et l’élément visible à proximité, en indiquant si sa fonction est connue ou seulement supposée. Une sortie de ventilation et un autre conduit ne doivent pas être confondus par leur apparence seule. Joignez une vue d’ensemble du bâtiment prise depuis le sol et une photo intérieure, si cela peut être fait sans risque. Ne démontez pas l’ouvrage pour montrer la jonction avant le rendez-vous professionnel."
+      ]
+    },
+    {
+      "heading": "Noter les circonstances et les interventions antérieures",
+      "paragraphs": [
+        "Indiquez les moments d’apparition et les travaux connus sur l’élément ou sur la toiture. Un changement récent constitue une information, pas une preuve de causalité. Les dates aident à préparer l’examen des raccords, des recouvrements et des évacuations. Si un essai de réparation a été réalisé, signalez-le avec les informations disponibles. Évitez de multiplier les reprises avant de comprendre la cause, car elles peuvent masquer les indices utiles au professionnel qui doit examiner les ouvrages."
+      ]
+    },
+    {
+      "heading": "Distinguer les missions autour de l’élément traversant",
+      "paragraphs": [
+        "Le couvreur doit préciser les parties relevant de son intervention et celles qui nécessitent un interlocuteur compétent pour l’équipement lui-même. Ne supposez pas qu’un devis de couverture comprend le contrôle complet d’un appareil ou d’un conduit. Pollestres est présentée entre plaine du Roussillon et Aspres ; ce cadre géographique ne permet pas d’expliquer votre infiltration. L’état constaté du bâtiment et les fonctions des ouvrages sont les données pertinentes pour définir les vérifications et les actions adaptées."
+      ]
+    },
+    {
+      "heading": "Exiger un périmètre de raccordement compréhensible",
+      "paragraphs": [
+        "Demandez que la proposition distingue la reconnaissance, les raccords repris et les parties laissées en place. Elle doit indiquer les limites lorsque certains points restent non examinés. Le formulaire garde Pollestres et la couverture ; décrivez l’ouvrage sans imposer une solution ni communiquer d’informations inutiles sur les occupants. Les moyens d’accès, les délais et les conditions du devis se confirment avec l’entreprise. Vous pourrez comparer les réponses plus facilement si elles portent sur le même besoin et le même niveau de vérification."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une trace sous un conduit prouve-t-elle un défaut de son raccord ?",
+      "answer": "Non, sa position oriente une vérification mais ne suffit pas à identifier la cause. Demandez quels ouvrages seront examinés et comment les observations permettent de relier le désordre à la solution proposée."
+    },
+    {
+      "question": "Le couvreur contrôle-t-il automatiquement l’appareil raccordé ?",
+      "answer": "Ce contrôle ne doit pas être supposé inclus. Faites préciser ce qui relève de la couverture et ce qui doit être examiné par un autre intervenant afin de coordonner les missions sans laisser un point important implicite."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66144",
+      "label": "API Géo — identité officielle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/pollestres/",
+      "label": "Présentation institutionnelle de Pollestres",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

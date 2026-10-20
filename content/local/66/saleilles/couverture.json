@@ -1,0 +1,70 @@
+{
+  "communeCode": "66189",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Saleilles : préparer un contrôle de toiture avant une peinture",
+  "h1": "Couverture à Saleilles : préparer un contrôle de toiture avant une peinture",
+  "description": "À Saleilles, distinguez traitement de la cause d’une trace et remise en peinture pour préparer une demande toiture cohérente avant les finitions.",
+  "intro": "Avant de repeindre une zone marquée dans un bien à Saleilles, il est utile de comprendre si une vérification de la toiture est nécessaire. Une trace ne prouve pas son origine, mais la masquer peut rendre son évolution plus difficile à suivre. Les couvreurs du réseau desservant la commune peuvent être consultés pour examiner les ouvrages de leur métier ; le dossier doit distinguer la recherche de cause du projet de finition lui-même.",
+  "intent": "Un projet de finition intérieure ou extérieure ne doit pas masquer une origine d’humidité non comprise ; distinguer constats, vérifications de couverture et travaux d’un autre métier.",
+  "specificValue": "Un projet de finition intérieure ou extérieure ne doit pas masquer une origine d’humidité non comprise ; distinguer constats, vérifications de couverture et travaux d’un autre métier.",
+  "sections": [
+    {
+      "heading": "Décrire la trace avant de la recouvrir",
+      "paragraphs": [
+        "Notez l’emplacement, l’ancienneté connue et les changements observés selon les périodes. Une photographie datée prise dans des conditions comparables peut aider à suivre l’évolution. Signalez les peintures ou reprises déjà faites, ainsi que les résultats constatés. Ne présentez pas une zone sèche lors d’une visite comme preuve définitive de résolution. La reconnaissance doit rapprocher les symptômes des ouvrages examinés et préciser ce qui est établi, ce qui reste supposé et les éventuelles limites de visibilité."
+      ]
+    },
+    {
+      "heading": "Distinguer les causes possibles et les métiers",
+      "paragraphs": [
+        "Une anomalie liée à la couverture, une autre source d’humidité et une finition altérée ne relèvent pas automatiquement de la même intervention. Demandez quel périmètre le couvreur propose d’examiner et quels points nécessitent un autre interlocuteur. La localisation de Saleilles entre Perpignan et la Côte Vermeille ne fournit pas de diagnostic sur votre bâtiment. Les décisions doivent reposer sur les constats et les caractéristiques à l’adresse réelle, sans attribuer à tous les biens de la commune une même exposition ou un même défaut."
+      ]
+    },
+    {
+      "heading": "Organiser les travaux dans un ordre expliqué",
+      "paragraphs": [
+        "Si une réparation est retenue, demandez quelles vérifications accompagnent son achèvement avant d’envisager les finitions. Ne fixez pas un calendrier de peinture sur une simple hypothèse de cause résolue. Les interventions de métiers différents doivent être coordonnées selon les observations et les conditions du chantier, sans délai générique annoncé par cette page. L’entreprise doit expliquer les ouvrages repris, les raccords avec les parties conservées et les points qui ne sont pas compris dans sa mission."
+      ]
+    },
+    {
+      "heading": "Construire un dossier de demande partagé",
+      "paragraphs": [
+        "Regroupez les photographies, la chronologie et le projet de finition dans une description claire, sans imposer le remplacement complet de la toiture avant examen. Le formulaire conserve Saleilles et la couverture ; précisez que vous souhaitez comprendre une trace avant peinture. Si vous consultez plusieurs interlocuteurs, faites comparer les missions sur le même périmètre. Les prestations et zones restent celles déclarées par le réseau ; l’entreprise de toiture n’est pas présentée comme prenant automatiquement en charge la remise en peinture ou les autres travaux du logement."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Peut-on repeindre une trace dès qu’elle semble sèche ?",
+      "answer": "L’aspect du moment ne suffit pas à expliquer son origine ni à confirmer sa résolution. Conservez la chronologie et demandez quelles vérifications sont nécessaires avant de recouvrir la zone, en lien avec les métiers concernés."
+    },
+    {
+      "question": "Le devis de couverture comprend-il la finition intérieure ?",
+      "answer": "Il faut lire le périmètre exact. Demandez de distinguer réparation de la cause, contrôles annoncés et travaux de finition ; aucune opération d’un autre métier ne doit être considérée comme incluse sans confirmation explicite."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66189",
+      "label": "API Géo — identité officielle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saleilles/",
+      "label": "Présentation institutionnelle de Saleilles",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

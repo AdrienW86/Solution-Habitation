@@ -1,0 +1,70 @@
+{
+  "communeCode": "66028",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Cabestany : définir l’entretien d’un accueil professionnel",
+  "h1": "Nettoyage à Cabestany : définir l’entretien d’un accueil professionnel",
+  "description": "À Cabestany, préparez le nettoyage d’un accueil, d’une salle d’attente ou de bureaux en distinguant entretien courant et exigences spécialisées.",
+  "intro": "Un espace d’accueil à Cabestany peut comporter des vitrages, des assises, des sols et des sanitaires soumis à des usages différents. Avant de demander un nettoyage, précisez ce qui relève de l’entretien courant et les éventuelles contraintes propres à votre activité. La présence d’un pôle de santé documentée dans la commune ne permet pas d’attribuer au prestataire du réseau une qualification ou un protocole sanitaire particulier.",
+  "intent": "Éviter de confondre nettoyage tertiaire, contraintes d’accueil du public et prestations sanitaires spécialisées ; rendre les tâches et exclusions comparables sans inventer de qualification.",
+  "specificValue": "Éviter de confondre nettoyage tertiaire, contraintes d’accueil du public et prestations sanitaires spécialisées ; rendre les tâches et exclusions comparables sans inventer de qualification.",
+  "sections": [
+    {
+      "heading": "Décrire le parcours des visiteurs",
+      "paragraphs": [
+        "Identifiez l’entrée, les circulations et les lieux où les personnes attendent ou s’installent. Pour chaque zone, notez le mobilier présent et les opérations attendues sur les surfaces accessibles. Le nettoyage des assises, des poignées ou des vitrages ne se confond pas avec celui du sol. Une liste de tâches localisée aide l’entreprise à comprendre le besoin et à proposer une organisation, plutôt qu’un intitulé global difficile à vérifier."
+      ]
+    },
+    {
+      "heading": "Énoncer les exigences sans les présumer satisfaites",
+      "paragraphs": [
+        "Si votre activité impose des contraintes précises, transmettez leur nature et demandez au prestataire de confirmer ce qu’il peut réellement prendre en charge. Cette page n’annonce ni intervention spécialisée ni désinfection. Les opérations, les produits et les modes de contrôle doivent correspondre aux surfaces et aux usages convenus. Lorsque le besoin dépasse l’entretien courant documenté, il faut le signaler avant le devis et vérifier la compétence adaptée."
+      ]
+    },
+    {
+      "heading": "Organiser les passages sans exposer les informations",
+      "paragraphs": [
+        "Précisez les plages d’ouverture, la présence des équipes et les zones à fermer momentanément pendant le passage. Indiquez si les documents doivent être rangés par vos soins et quels équipements ne doivent pas être touchés. Ne transmettez pas de données sur les visiteurs ou les patients dans la demande. Le premier dossier peut décrire des contraintes générales ; les modalités d’accès sensibles se discutent ensuite avec l’interlocuteur habilité."
+      ]
+    },
+    {
+      "heading": "Vérifier le contenu du devis et son suivi",
+      "paragraphs": [
+        "Demandez que les fréquences soient reliées aux tâches et aux zones, avec une distinction entre opérations régulières et besoins ponctuels. Prévoyez qui signale les difficultés et comment un changement d’usage sera pris en compte. À la réception, vérifiez ce qui a été convenu, sans assimiler un aspect visuel propre à une validation sanitaire. Le parcours conserve Cabestany et la prestation ; les disponibilités et conditions se confirment directement auprès de l’entreprise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le réseau annonce-t-il un nettoyage médical à Cabestany ?",
+      "answer": "Non, la fiche permet de consulter une entreprise de nettoyage selon ses prestations déclarées. Si vous avez un besoin spécialisé, décrivez-le et demandez une confirmation explicite des compétences et du protocole avant toute commande."
+    },
+    {
+      "question": "Les sanitaires et les bureaux doivent-ils avoir la même fréquence ?",
+      "answer": "Leurs usages et les tâches attendues peuvent être différents. Présentez les contraintes de chaque zone afin que la proposition précise un rythme et un contenu adaptés, sans choisir une fréquence uniforme par défaut."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66028",
+      "label": "API Géo — identité officielle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/cabestany/",
+      "label": "Présentation institutionnelle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

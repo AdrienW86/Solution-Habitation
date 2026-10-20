@@ -1,0 +1,70 @@
+{
+  "communeCode": "66049",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Céret : organiser un passage dans un logement avec escaliers",
+  "h1": "Nettoyage à Céret : organiser un passage dans un logement avec escaliers",
+  "description": "À Céret, préparez le nettoyage des pièces et circulations d’un logement à étages en précisant les matériaux, les accès et les tâches prioritaires.",
+  "intro": "Pour nettoyer un logement à plusieurs niveaux à Céret, l’organisation par pièce et par étage facilite la définition du besoin. Escaliers, paliers et surfaces de vie ne doivent pas être fondus dans une surface totale sans précision. Le réseau permet de consulter l’entreprise de nettoyage desservant la commune ; cette page prépare les informations utiles pour un passage adapté, sans présumer la configuration de toutes les maisons du centre historique.",
+  "intent": "Une organisation par niveaux rend les déplacements et la réception lisibles ; ne pas généraliser la présence d’escaliers à Céret ni assimiler nettoyage courant et traitement de supports patrimoniaux.",
+  "specificValue": "Une organisation par niveaux rend les déplacements et la réception lisibles ; ne pas généraliser la présence d’escaliers à Céret ni assimiler nettoyage courant et traitement de supports patrimoniaux.",
+  "sections": [
+    {
+      "heading": "Distinguer pièces et circulations",
+      "paragraphs": [
+        "Listez les espaces à chaque niveau et les passages nécessaires pour les rejoindre. Les marches, rampes et paliers peuvent demander des opérations différentes de celles prévues dans les pièces. Précisez les priorités et les zones devant rester utilisables pendant la prestation. Si une partie du logement est exclue, indiquez-la sur la liste : cela évite qu’un accès nécessaire soit interprété comme une pièce à nettoyer ou qu’une circulation importante soit oubliée au devis."
+      ]
+    },
+    {
+      "heading": "Décrire les matériaux et les objets fragiles",
+      "paragraphs": [
+        "Un escalier peint, un revêtement textile ou une surface dont la finition est inconnue ne doivent pas recevoir une méthode choisie par défaut. Transmettez les consignes d’entretien disponibles et signalez les réparations ou rénovations récentes. Les éléments décoratifs et objets sur les marches doivent être discutés avant manipulation. Le patrimoine local documenté à Céret n’est pas une identification des matériaux de votre logement ; la reconnaissance du support demeure nécessaire lorsque ses caractéristiques sont incertaines."
+      ]
+    },
+    {
+      "heading": "Prévoir le trajet du matériel et l’usage des lieux",
+      "paragraphs": [
+        "Indiquez l’emplacement de l’eau, les prises accessibles et les passages étroits, sans décrire des installations dont vous ne connaissez pas le fonctionnement. Convenez de la manière de maintenir un accès sûr pour les occupants pendant le travail. Les déplacements de mobilier lourd ou d’objets encombrants ne doivent pas être supposés inclus. Si vous préparez les pièces vous-même, demandez ce qui doit être libéré avant le passage et ce qui peut rester en place sans empêcher les opérations convenues."
+      ]
+    },
+    {
+      "heading": "Vérifier la prestation niveau par niveau",
+      "paragraphs": [
+        "Le devis doit relier chaque zone aux tâches retenues et aux exclusions. Prévoyez une réception qui permette de contrôler les pièces sans confondre une marque d’usure et une salissure non traitée. Le formulaire conserve Céret et le nettoyage ; précisez les niveaux concernés et les horaires compatibles avec votre présence. La prestation et la disponibilité doivent être confirmées par l’entreprise, tandis que le téléchargement du dossier reste une préparation locale et ne déclenche ni commande ni intervention automatique."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Les escaliers sont-ils automatiquement compris dans une demande de logement complet ?",
+      "answer": "Il est préférable de les nommer séparément avec les paliers et les rampes. Le devis doit préciser les zones et les opérations pour éviter que le même intitulé recouvre des attentes différentes à la réception."
+    },
+    {
+      "question": "Dois-je déplacer les meubles d’un étage à l’autre ?",
+      "answer": "Ne le prévoyez pas sans discussion. Décrivez les obstacles et demandez les préparatifs utiles ; la manutention d’objets lourds ou fragiles doit être convenue explicitement et ne découle pas d’une prestation de nettoyage courant."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66049",
+      "label": "API Géo — identité officielle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.vallespir-tourisme.fr/decouvrez/5-idees-de-visites/",
+      "label": "Présentation institutionnelle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

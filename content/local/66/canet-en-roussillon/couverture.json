@@ -1,0 +1,70 @@
+{
+  "communeCode": "66037",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Canet-en-Roussillon : préparer une visite avant le retour au logement",
+  "h1": "Couverture à Canet-en-Roussillon : préparer une visite avant le retour au logement",
+  "description": "À Canet-en-Roussillon, organisez le diagnostic d’une toiture avec accès au logement, historique des traces et interlocuteur disponible pour la visite.",
+  "intro": "Pour faire examiner une toiture à Canet-en-Roussillon lorsque vous n’êtes pas toujours sur place, l’organisation des accès compte autant que les premiers symptômes. La commune comprend un village et des secteurs littoraux ; précisez le secteur du bien sans en déduire l’état du toit. Les couvreurs du réseau peuvent être consultés pour une reconnaissance, avec un interlocuteur capable de présenter les lieux et les observations disponibles.",
+  "intent": "Cas d’un bien dont le propriétaire n’est pas toujours sur place : observations avant retour, délégation d’accès et périmètre de contrôle, sans généraliser un usage saisonnier à la commune.",
+  "specificValue": "Cas d’un bien dont le propriétaire n’est pas toujours sur place : observations avant retour, délégation d’accès et périmètre de contrôle, sans généraliser un usage saisonnier à la commune.",
+  "sections": [
+    {
+      "heading": "Recueillir des constats datés avant le déplacement",
+      "paragraphs": [
+        "Si une personne présente sur place découvre une trace, demandez des vues d’ensemble et la date de constatation, prises depuis les pièces accessibles. Distinguez ce qui existait lors de votre dernier passage de ce qui vient d’être observé. Une photographie ne permet pas d’identifier à distance la réparation nécessaire. Elle peut cependant préparer une visite plus utile lorsque le propriétaire et la personne qui ouvre les lieux ne disposent pas des mêmes informations."
+      ]
+    },
+    {
+      "heading": "Donner un accès fiable au bâtiment concerné",
+      "paragraphs": [
+        "Précisez résidence, entrée, étage et personne à joindre pour ouvrir. N’inscrivez pas de code d’accès dans une demande publique. Si les combles ou le toit relèvent d’espaces partagés, vérifiez en amont qui peut en organiser l’accès. La mention « Canet plage » ou « village » ne remplace pas l’adresse. Le professionnel doit pouvoir reconnaître les lieux avant de confirmer les moyens nécessaires à l’examen ou à d’éventuels travaux."
+      ]
+    },
+    {
+      "heading": "Examiner les éléments réellement exposés",
+      "paragraphs": [
+        "Le contexte littoral documenté de Canet ne suffit pas à conclure à une corrosion ou à une dégradation du bien. Demandez quels éléments de couverture, raccords ou évacuations méritent un contrôle selon leur état observé. Signalez les travaux antérieurs connus et les pièces qui peuvent être montrées. La démarche consiste à relier des constats à des ouvrages précis, sans transformer une caractéristique géographique en diagnostic systématique applicable à toutes les adresses de la commune."
+      ]
+    },
+    {
+      "heading": "Organiser le retour d’information après visite",
+      "paragraphs": [
+        "Convenez de la personne qui recevra les observations, les photographies éventuelles et la proposition de travaux. Demandez que les limites de ce qui a pu être inspecté soient indiquées. Le dossier conserve Canet-en-Roussillon et le métier couverture ; précisez votre disponibilité pour échanger sans considérer cette plage comme un rendez-vous acquis. Une réparation, une surveillance et une rénovation constituent des réponses différentes dont le choix doit être expliqué après reconnaissance du bâtiment."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une visite peut-elle être organisée avec une personne qui ouvre à ma place ?",
+      "answer": "Cette possibilité se vérifie directement avec l’entreprise. Identifiez l’interlocuteur, son rôle et les accès qu’il peut autoriser ; les décisions de travaux et les informations à transmettre doivent rester clairement attribuées."
+    },
+    {
+      "question": "La proximité de la mer impose-t-elle un remplacement complet ?",
+      "answer": "Non, un contexte littoral ne détermine pas à lui seul l’état d’une toiture. Le périmètre proposé doit reposer sur l’examen des matériaux et des ouvrages, pas sur une conclusion générale tirée de la localisation."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66037",
+      "label": "API Géo — identité officielle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+      "label": "Présentation institutionnelle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

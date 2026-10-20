@@ -1,0 +1,70 @@
+{
+  "communeCode": "66037",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Canet-en-Roussillon : préparer une remise en usage du logement",
+  "h1": "Nettoyage à Canet-en-Roussillon : préparer une remise en usage du logement",
+  "description": "À Canet-en-Roussillon, définissez un nettoyage avant retour dans le logement : pièces prioritaires, clés, surfaces et réception de la prestation.",
+  "intro": "Pour préparer votre retour dans un logement à Canet-en-Roussillon, commencez par identifier les pièces et les opérations réellement nécessaires. Le fait qu’un bien soit utilisé ponctuellement ne permet pas de connaître son état. Le réseau permet de consulter une entreprise de nettoyage pour la commune ; cette page aide à construire une demande précise, distincte d’un service de conciergerie ou d’une remise en état technique.",
+  "intent": "Préparer un logement avant retour sans confondre nettoyage, gestion locative, inventaire des biens et remise de clés ; usage saisonnier présenté comme une situation possible seulement.",
+  "specificValue": "Préparer un logement avant retour sans confondre nettoyage, gestion locative, inventaire des biens et remise de clés ; usage saisonnier présenté comme une situation possible seulement.",
+  "sections": [
+    {
+      "heading": "Faire décrire les lieux avant de fixer les tâches",
+      "paragraphs": [
+        "Si vous ne pouvez pas effectuer une reconnaissance vous-même, demandez à la personne disposant de l’accès une description des surfaces et des pièces. Distinguez poussière, traces d’usage et zones dont l’état reste inconnu. Une cuisine équipée, une salle d’eau et une pièce de vie n’impliquent pas les mêmes opérations. La proposition doit partir de cette description, et non d’une supposition générale sur les logements de la station ou sur la durée de fermeture."
+      ]
+    },
+    {
+      "heading": "Préciser l’organisation des accès",
+      "paragraphs": [
+        "Donnez l’adresse complète, le bâtiment et l’étage, que le bien soit au village ou dans un secteur littoral. Convenez directement des modalités de remise des clés et des conditions de fermeture en fin de passage. Le formulaire public ne doit contenir ni code ni détail sensible. Vérifiez également l’accès à l’eau et les possibilités d’entrée du matériel ; une impossibilité pratique signalée tardivement peut empêcher de réaliser les opérations prévues au devis."
+      ]
+    },
+    {
+      "heading": "Séparer les prestations souvent confondues",
+      "paragraphs": [
+        "Le linge, l’inventaire des objets, l’accueil d’occupants et le nettoyage sont des tâches différentes. Ne les considérez pas comme comprises parce que vous souhaitez un logement prêt à utiliser. Indiquez les éléments inclus dans votre besoin et demandez une confirmation du périmètre effectivement proposé. Pour les surfaces fragiles ou les appareils, précisez les matériaux et les limites de manipulation afin d’éviter qu’un geste non prévu soit attendu à la réception de la prestation."
+      ]
+    },
+    {
+      "heading": "Prévoir une réception à distance ou sur place",
+      "paragraphs": [
+        "Convenez de la façon de vérifier les zones incluses et de signaler une difficulté. Des photographies peuvent documenter les opérations convenues si cette modalité est acceptée, sans remplacer toutes les vérifications d’usage du logement. Le dossier conserve Canet-en-Roussillon et le nettoyage ; la date de retour souhaitée sert de contrainte à discuter, pas d’engagement de disponibilité. Un téléchargement permet seulement de préparer l’échange tant que la transmission n’est pas activée et confirmée."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le nettoyage comprend-il le linge et l’accueil des occupants ?",
+      "answer": "Ces services ne sont pas présumés inclus. Décrivez-les si vous en avez besoin et demandez ce que l’entreprise peut effectivement prendre en charge ; une prestation de nettoyage ne vaut pas gestion du séjour."
+    },
+    {
+      "question": "Comment vérifier le résultat si je suis absent ?",
+      "answer": "Convenez avant le passage d’un interlocuteur, des zones à contrôler et du mode de retour d’information. Une réception organisée évite de découvrir après votre arrivée qu’une tâche attendue n’était pas comprise dans la proposition."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66037",
+      "label": "API Géo — identité officielle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/canet-en-roussillon/",
+      "label": "Présentation institutionnelle de Canet-en-Roussillon",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

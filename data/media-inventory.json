@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "license": "Créations SVG originales du projet ; illustrations conceptuelles, jamais présentées comme réalisations.",
+  "assets": [
+    {
+      "path": "/images/editorial/article-preparer-diagnostic-toiture.svg",
+      "owner": "article:preparer-diagnostic-toiture",
+      "title": "Infiltration de toiture : préparer un diagnostic utile",
+      "kind": "original-svg-diagram",
+      "sha256": "481a7d67187dd4cf028ff5c0302d55ca39d261d95d86d42a30b780bff3bd5c12"
+    },
+    {
+      "path": "/images/editorial/article-preparer-intervention-nuisibles.svg",
+      "owner": "article:preparer-intervention-nuisibles",
+      "title": "Nuisibles : les bonnes informations pour le premier échange",
+      "kind": "original-svg-diagram",
+      "sha256": "6b8f826ad60d1c6fce1eb83194ac037f4a489e4bdaa8bf3f1144c657d1068a0b"
+    },
+    {
+      "path": "/images/editorial/article-comparer-devis-peinture.svg",
+      "owner": "article:comparer-devis-peinture",
+      "title": "Peinture : comparer des devis au-delà du prix au mètre carré",
+      "kind": "original-svg-diagram",
+      "sha256": "1af52d2d63e18d7c2189445fc066257bbadfecd8e087286e36fd59ebf96e36d3"
+    },
+    {
+      "path": "/images/editorial/article-cahier-charges-nettoyage.svg",
+      "owner": "article:cahier-charges-nettoyage",
+      "title": "Organiser l’entretien de locaux : un cahier des charges clair",
+      "kind": "original-svg-diagram",
+      "sha256": "fbd15ebbb7fb9b61344632ab8891655c15e12584c4b3e8314dc228d3b1b10155"
+    },
+    {
+      "path": "/images/editorial/article-preparer-location-climatiseur-mobile.svg",
+      "owner": "article:preparer-location-climatiseur-mobile",
+      "title": "Location de climatiseur mobile : préparer son besoin",
+      "kind": "original-svg-diagram",
+      "sha256": "1308c162754c1650396d1c13a9ff64c10f9de6b28c8e2400987c784914cce6a2"
+    },
+    {
+      "path": "/images/editorial/article-ramonage-frequence-justificatifs.svg",
+      "owner": "article:ramonage-frequence-justificatifs",
+      "title": "Ramonage : fréquence, règles locales et justificatifs",
+      "kind": "original-svg-diagram",
+      "sha256": "798f2ad0e9cb69daeda8354a300f20d0080ee8faf4050af56422a505602fb1a2"
+    },
+    {
+      "path": "/images/editorial/article-toiture-reparer-ou-renover.svg",
+      "owner": "article:toiture-reparer-ou-renover",
+      "title": "Toiture : quand réparer et quand envisager une rénovation ?",
+      "kind": "original-svg-diagram",
+      "sha256": "6d430e7f0add0d5b67026fd3c179a9843864ec969c33bca8d2b1066ce3d4b7d1"
+    },
+    {
+      "path": "/images/editorial/article-preparer-ravalement-facade.svg",
+      "owner": "article:preparer-ravalement-facade",
+      "title": "Avant un ravalement : préparer les supports, les accès et le projet",
+      "kind": "original-svg-diagram",
+      "sha256": "7377e4ccb2d6fe41a2a66c5cfe6dd5af0c0cd4c40aa98c642e218bf68e3ceefb"
+    },
+    {
+      "path": "/images/editorial/article-traces-humidite-plafond.svg",
+      "owner": "article:traces-humidite-plafond",
+      "title": "Une trace au plafond : quelles informations transmettre au couvreur ?",
+      "kind": "original-svg-diagram",
+      "sha256": "977bee34a5123c77365f9c4ddcb0eeead2a055def9a526e5b410fbcfa73a46e7"
+    },
+    {
+      "path": "/images/editorial/article-comparer-devis-couverture.svg",
+      "owner": "article:comparer-devis-couverture",
+      "title": "Comparer des devis de couverture : les postes à faire préciser",
+      "kind": "original-svg-diagram",
+      "sha256": "b65d0b893c18218a2f754af4baff5a73e0b88078dc641d07e5f422e0a8125ba8"
+    },
+    {
+      "path": "/images/editorial/article-gouttieres-debordement.svg",
+      "owner": "article:gouttieres-debordement",
+      "title": "Gouttière qui déborde : observer avant de demander une réparation",
+      "kind": "original-svg-diagram",
+      "sha256": "f8c33d82ad7c5b02aec1db9fa8f583b9da0b433a4d596fbcc7470dcda0eea13e"
+    },
+    {
+      "path": "/images/editorial/article-raccords-zinguerie.svg",
+      "owner": "article:raccords-zinguerie",
+      "title": "Solins, noues et raccords : les questions à poser lors d’une fuite",
+      "kind": "original-svg-diagram",
+      "sha256": "1f5fcfaa791fa869919b4f25cbcfb0ad3917d331cfb28f71915b6cb37438786e"
+    },
+    {
+      "path": "/images/editorial/article-nettoyage-toiture-methodes.svg",
+      "owner": "article:nettoyage-toiture-methodes",
+      "title": "Nettoyage de toiture : choisir la méthode après examen du support",
+      "kind": "original-svg-diagram",
+      "sha256": "2bff02059c7f611eee50714148de1bebcbe92b8583e566a23928f2d1fe5a2979"
+    },
+    {
+      "path": "/images/editorial/article-entretien-toiture-saisons.svg",
+      "owner": "article:entretien-toiture-saisons",
+      "title": "Toiture : organiser un relevé d’entretien au fil des saisons",
+      "kind": "original-svg-diagram",
+      "sha256": "8d944fb16d37acb18584ac8884f97aee0e824e16d08ac81005927d4e0c73256b"
+    },
+    {
+      "path": "/images/editorial/article-toiture-fenetre-raccords.svg",
+      "owner": "article:toiture-fenetre-raccords",
+      "title": "Fuite près d’une fenêtre de toit : préparer les bonnes vérifications",
+      "kind": "original-svg-diagram",
+      "sha256": "bbaac64bb5b31daba505c179e10879343939c8a86d6918867f5bb8a37191c57f"
+    },
+    {
+      "path": "/images/editorial/article-tuiles-cassees-observation.svg",
+      "owner": "article:tuiles-cassees-observation",
+      "title": "Tuile cassée ou déplacée : quoi décrire sans monter sur le toit ?",
+      "kind": "original-svg-diagram",
+      "sha256": "cd5d537babd0a3adf982f4609a55853e40f75a10c5d54f18f3c0d0a86234da84"
+    },
+    {
+      "path": "/images/editorial/article-toiture-apres-intemperies.svg",
+      "owner": "article:toiture-apres-intemperies",
+      "title": "Après des intempéries : préparer un constat de toiture exploitable",
+      "kind": "original-svg-diagram",
+      "sha256": "8a4061fc1791258a24c67663d584cd2f0a8667189234029e32c20babcd21da2c"
+    },
+    {
+      "path": "/images/editorial/article-rongeurs-indices.svg",
+      "owner": "article:rongeurs-indices",
+      "title": "Rats ou souris : constituer un relevé des indices avant l’intervention",
+      "kind": "original-svg-diagram",
+      "sha256": "a35193724c289e8e32e9d80d0fcb1153ea07c92a4821758b26a7fdca3e99de3d"
+    },
+    {
+      "path": "/images/editorial/article-rongeurs-acces-prevention.svg",
+      "owner": "article:rongeurs-acces-prevention",
+      "title": "Rongeurs : préparer l’examen des accès au bâtiment",
+      "kind": "original-svg-diagram",
+      "sha256": "60822490b6f31cd0100320f240cc2feba06da0a217a52cf84d4dd9c5a193be2c"
+    },
+    {
+      "path": "/images/editorial/article-punaises-lit-indices.svg",
+      "owner": "article:punaises-lit-indices",
+      "title": "Punaises de lit : quels indices relever dans le logement ?",
+      "kind": "original-svg-diagram",
+      "sha256": "51bc50f9ad7b9c97434938c4a715bf3bf060890edec2f11208176927183869ed"
+    },
+    {
+      "path": "/images/editorial/article-punaises-lit-preparer-logement.svg",
+      "owner": "article:punaises-lit-preparer-logement",
+      "title": "Avant une intervention sur les punaises de lit : organiser les lieux et les consignes",
+      "kind": "original-svg-diagram",
+      "sha256": "1e37a8bf43fc21b5a9a5d7ebac6e241fd5f1c92e099abfeb1baca0ab63bda594"
+    },
+    {
+      "path": "/images/editorial/article-blattes-preparer-diagnostic.svg",
+      "owner": "article:blattes-preparer-diagnostic",
+      "title": "Cafards et blattes : préparer un diagnostic des pièces et locaux techniques",
+      "kind": "original-svg-diagram",
+      "sha256": "749839d088e299218840037c060a206c5778b96b21a34f04d7fd108fff0a94b2"
+    },
+    {
+      "path": "/images/editorial/article-nuisibles-local-professionnel.svg",
+      "owner": "article:nuisibles-local-professionnel",
+      "title": "Nuisibles dans un local professionnel : préparer l’intervention sans ambiguïté",
+      "kind": "original-svg-diagram",
+      "sha256": "99c899cdd84eeeaa92a6e2bd78cde41002c92e1d1ef802682fbec3c85c978f4e"
+    },
+    {
+      "path": "/images/editorial/article-nid-guepes-frelons.svg",
+      "owner": "article:nid-guepes-frelons",
+      "title": "Nid de guêpes ou de frelons : préparer un signalement à distance",
+      "kind": "original-svg-diagram",
+      "sha256": "372b50fcd64bfd5324ec7e8cdc59441c24209ba4244462d0daafc1eaab94b894"
+    },
+    {
+      "path": "/images/editorial/article-preparer-suivi-nuisibles.svg",
+      "owner": "article:preparer-suivi-nuisibles",
+      "title": "Après une intervention de nuisibles : organiser les observations et le suivi",
+      "kind": "original-svg-diagram",
+      "sha256": "b0f8c74d1cb821df3dc519cbda29721b776fc49c13ffe05d30eba058fb0b0ad0"
+    },
+    {
+      "path": "/images/editorial/article-fissures-facade-observer.svg",
+      "owner": "article:fissures-facade-observer",
+      "title": "Fissures de façade : documenter avant de choisir une finition",
+      "kind": "original-svg-diagram",
+      "sha256": "40151ebad67f8b69bba23175b7a642e26f55954efca58ba4224fcb1b9147db56"
+    },
+    {
+      "path": "/images/editorial/article-peinture-piece-occupee.svg",
+      "owner": "article:peinture-piece-occupee",
+      "title": "Repeindre une pièce occupée : préparer les étapes et les protections",
+      "kind": "original-svg-diagram",
+      "sha256": "a483e2c6b4aebb5056ae2dacde5178212a09890e1aea50d095e74083867978bc"
+    },
+    {
+      "path": "/images/editorial/article-humidite-avant-peinture.svg",
+      "owner": "article:humidite-avant-peinture",
+      "title": "Humidité avant peinture : séparer la cause et la remise en état",
+      "kind": "original-svg-diagram",
+      "sha256": "f7bf2ccb89ce1ee4f8fd665b42d32348fb3158ece22a4b344662288b8e3be070"
+    },
+    {
+      "path": "/images/editorial/article-finitions-lumiere-peinture.svg",
+      "owner": "article:finitions-lumiere-peinture",
+      "title": "Peinture : choisir une finition en tenant compte de la lumière et des usages",
+      "kind": "original-svg-diagram",
+      "sha256": "0263cbc916c074e7763a7a712a6d282d4e33e8548dbb09aa74fdf0a12cbaefe4"
+    },
+    {
+      "path": "/images/editorial/article-nettoyage-bureaux-frequences.svg",
+      "owner": "article:nettoyage-bureaux-frequences",
+      "title": "Nettoyage des bureaux : définir des fréquences par usage",
+      "kind": "original-svg-diagram",
+      "sha256": "22f69c6da380828ebde751f9312eef233e65d6e31242036bb93f7c67ad74be9a"
+    },
+    {
+      "path": "/images/editorial/article-nettoyage-residentiel-perimetre.svg",
+      "owner": "article:nettoyage-residentiel-perimetre",
+      "title": "Nettoyage résidentiel : écrire un périmètre clair pour le logement",
+      "kind": "original-svg-diagram",
+      "sha256": "80064218a5edfa94ffcdc92abd1524ce5cc35dd7deed47c2d93bb37702346330"
+    },
+    {
+      "path": "/images/editorial/article-nettoyage-surfaces-delicates.svg",
+      "owner": "article:nettoyage-surfaces-delicates",
+      "title": "Surfaces délicates : préparer les informations avant un nettoyage",
+      "kind": "original-svg-diagram",
+      "sha256": "0d8d1cd0de82eaa3f26942532ca92584e939b04723f9ef1fd2f663f2d1ae39a6"
+    },
+    {
+      "path": "/images/editorial/article-nettoyage-apres-travaux-preparation.svg",
+      "owner": "article:nettoyage-apres-travaux-preparation",
+      "title": "Nettoyage après travaux : préparer la remise en usage des locaux",
+      "kind": "original-svg-diagram",
+      "sha256": "7d19c467228e7141f3d5c10ab62e8a825b5689dc6108680bab93d3575efc02ac"
+    },
+    {
+      "path": "/images/editorial/article-climatiseur-mobile-puissance.svg",
+      "owner": "article:climatiseur-mobile-puissance",
+      "title": "Climatiseur mobile : quelles informations réunir pour discuter de la puissance ?",
+      "kind": "original-svg-diagram",
+      "sha256": "46f95354648153d0a163cf233770848705016fb6a3c7c5ffb3b0127c18d10908"
+    },
+    {
+      "path": "/images/editorial/article-climatiseur-mobile-location-achat.svg",
+      "owner": "article:climatiseur-mobile-location-achat",
+      "title": "Climatiseur mobile : comparer location et achat sur un besoin défini",
+      "kind": "original-svg-diagram",
+      "sha256": "c765e970c0b99f3234a9f016bab9a21cd04774706afb9265fc2ab5516b165cba"
+    },
+    {
+      "path": "/images/editorial/article-climatiseur-mobile-bureau-commerce.svg",
+      "owner": "article:climatiseur-mobile-bureau-commerce",
+      "title": "Climatisation mobile en bureau ou commerce : préparer l’espace et les accès",
+      "kind": "original-svg-diagram",
+      "sha256": "51bd08451224dc82d050f18da8be6ddf72e741db762c4b2cff6b81516acdcf9f"
+    },
+    {
+      "path": "/images/editorial/article-ramonage-preparer-acces.svg",
+      "owner": "article:ramonage-preparer-acces",
+      "title": "Avant un ramonage : préparer l’installation, les accès et les documents",
+      "kind": "original-svg-diagram",
+      "sha256": "8ea961c1bee6a5b32c5b9a5952d2ac54a8eb92a552479166a85459d5460dee8e"
+    },
+    {
+      "path": "/images/editorial/article-attestation-ramonage-verifier.svg",
+      "owner": "article:attestation-ramonage-verifier",
+      "title": "Attestation de ramonage : quelles informations conserver ?",
+      "kind": "original-svg-diagram",
+      "sha256": "94581f94ef5b84603306c5eb1e2eea897caae8181c9bd7727fa283e17ba415d4"
+    },
+    {
+      "path": "/images/editorial/service-toiture-reparation-infiltrations.svg",
+      "owner": "service:toiture/reparation-infiltrations",
+      "title": "Réparation & infiltrations",
+      "kind": "original-svg-diagram",
+      "sha256": "d63b27c9a4f22db0b2f4055264d6ed177ff8db157da689c0241973e408f07716"
+    },
+    {
+      "path": "/images/editorial/service-toiture-renovation-couverture.svg",
+      "owner": "service:toiture/renovation-couverture",
+      "title": "Rénovation de couverture",
+      "kind": "original-svg-diagram",
+      "sha256": "b2badec13cd888e9811fbd88e829110325ad94a383815a5bb4123ea90163a860"
+    },
+    {
+      "path": "/images/editorial/service-toiture-zinguerie.svg",
+      "owner": "service:toiture/zinguerie",
+      "title": "Zinguerie & eaux pluviales",
+      "kind": "original-svg-diagram",
+      "sha256": "9c399928800f38c61136e230c736bb787f46a6b16c238aff8b4580070f15cefe"
+    },
+    {
+      "path": "/images/editorial/service-toiture-entretien-toiture.svg",
+      "owner": "service:toiture/entretien-toiture",
+      "title": "Nettoyage & entretien",
+      "kind": "original-svg-diagram",
+      "sha256": "691a42a5782a1c7fdc9c5c7d51720752dd78f3da3aae7e637fd5d55d8e336395"
+    },
+    {
+      "path": "/images/editorial/service-nuisibles-deratisation.svg",
+      "owner": "service:nuisibles/deratisation",
+      "title": "Rats & souris",
+      "kind": "original-svg-diagram",
+      "sha256": "3257c1b9fe8a921f54249610c59b4d68d0cd63e0f110036624a704f0acd9c7ca"
+    },
+    {
+      "path": "/images/editorial/service-nuisibles-punaises-de-lit.svg",
+      "owner": "service:nuisibles/punaises-de-lit",
+      "title": "Punaises de lit",
+      "kind": "original-svg-diagram",
+      "sha256": "ceaf4e5ccc1e2690a5e45ab42ef6b992cf5aefe74fd02e05a33a907cfe7f2933"
+    },
+    {
+      "path": "/images/editorial/service-nuisibles-cafards-blattes.svg",
+      "owner": "service:nuisibles/cafards-blattes",
+      "title": "Cafards & blattes",
+      "kind": "original-svg-diagram",
+      "sha256": "2905bffae888f7ac7bc5256dde2be889eb3bca51c47167fa0ef70ea0361b1be8"
+    },
+    {
+      "path": "/images/editorial/service-nuisibles-guepes-frelons.svg",
+      "owner": "service:nuisibles/guepes-frelons",
+      "title": "Guêpes & frelons",
+      "kind": "original-svg-diagram",
+      "sha256": "57d730ccc0c58965525c54f298f1c5cd0b7f31859b95fcb331a1a5b5560c0791"
+    },
+    {
+      "path": "/images/editorial/service-peinture-facades-peinture-interieure.svg",
+      "owner": "service:peinture-facades/peinture-interieure",
+      "title": "Peinture intérieure",
+      "kind": "original-svg-diagram",
+      "sha256": "c0b26d635a77490d2bc9f4b35d33095653fc3542e050d8fc7a8c87f8028efa17"
+    },
+    {
+      "path": "/images/editorial/service-peinture-facades-peinture-exterieure.svg",
+      "owner": "service:peinture-facades/peinture-exterieure",
+      "title": "Peinture extérieure",
+      "kind": "original-svg-diagram",
+      "sha256": "e46b703b333c680835d5b8a131064da6f2868d9ab83daf9b78b154ea9a5faf35"
+    },
+    {
+      "path": "/images/editorial/service-peinture-facades-ravalement-facade.svg",
+      "owner": "service:peinture-facades/ravalement-facade",
+      "title": "Ravalement de façade",
+      "kind": "original-svg-diagram",
+      "sha256": "91d9b4331889b7ef776424e7a2a0f8198b1d0b437e0dff929fdd0a98703c3c0e"
+    },
+    {
+      "path": "/images/editorial/service-peinture-facades-preparation-supports.svg",
+      "owner": "service:peinture-facades/preparation-supports",
+      "title": "Préparation & rénovation",
+      "kind": "original-svg-diagram",
+      "sha256": "58183cb04090eb6a71368076d124aaf7eb1915671f0dac6f3087eb7a941909b0"
+    },
+    {
+      "path": "/images/editorial/service-nettoyage-locaux-professionnels.svg",
+      "owner": "service:nettoyage/locaux-professionnels",
+      "title": "Locaux professionnels",
+      "kind": "original-svg-diagram",
+      "sha256": "83cbc732cdb85b567a677760e03f7843a4d2885b61158290e5d2619a5da3c067"
+    },
+    {
+      "path": "/images/editorial/service-nettoyage-nettoyage-residentiel.svg",
+      "owner": "service:nettoyage/nettoyage-residentiel",
+      "title": "Habitat résidentiel",
+      "kind": "original-svg-diagram",
+      "sha256": "a23b7cf3490dbda5d747bfba129739a92f52f7dc6ad9e1e1092295270ee67388"
+    },
+    {
+      "path": "/images/editorial/service-nettoyage-apres-travaux.svg",
+      "owner": "service:nettoyage/apres-travaux",
+      "title": "Après travaux",
+      "kind": "original-svg-diagram",
+      "sha256": "f93d01b8bced8ef8a8d1bfc4ec2deb19389b3a7d69183cdd8eb29d460e2253cb"
+    },
+    {
+      "path": "/images/editorial/service-climatisation-mobile-besoin-temporaire.svg",
+      "owner": "service:climatisation-mobile/besoin-temporaire",
+      "title": "Besoin temporaire",
+      "kind": "original-svg-diagram",
+      "sha256": "ab21a92008400386d2113d4c61b926a018edd66be8ea56823d1daff71e5af6ff"
+    },
+    {
+      "path": "/images/editorial/service-climatisation-mobile-bureaux-commerces.svg",
+      "owner": "service:climatisation-mobile/bureaux-commerces",
+      "title": "Bureaux & commerces",
+      "kind": "original-svg-diagram",
+      "sha256": "6545cbe54921ba8168ee665b5a5399773b7483944351f068deda66e77510838e"
+    },
+    {
+      "path": "/images/editorial/service-climatisation-mobile-evenements.svg",
+      "owner": "service:climatisation-mobile/evenements",
+      "title": "Événements",
+      "kind": "original-svg-diagram",
+      "sha256": "f8edff004bb3d34876af7873f83c72a37037b6a6b3b43ab2a0f892baa084983d"
+    },
+    {
+      "path": "/images/editorial/service-ramonage-conduits-fumee.svg",
+      "owner": "service:ramonage/conduits-fumee",
+      "title": "Conduits de fumée",
+      "kind": "original-svg-diagram",
+      "sha256": "49a7f725df93b21fc3ec37cdbfda61868b0b1b6890226d12f58233461c3f56fc"
+    },
+    {
+      "path": "/images/editorial/service-ramonage-preparer-intervention.svg",
+      "owner": "service:ramonage/preparer-intervention",
+      "title": "Préparation de l’intervention",
+      "kind": "original-svg-diagram",
+      "sha256": "86414abbe519de6976bfbe8ffb56a99f6262ce7f218e86782a801c26023ca549"
+    },
+    {
+      "path": "/images/editorial/service-ramonage-reglementation.svg",
+      "owner": "service:ramonage/reglementation",
+      "title": "Règles & justificatifs",
+      "kind": "original-svg-diagram",
+      "sha256": "56bb9cf0f3b1f49e7493a188a5cc08ee5e817f958337a7cc38ab00c259674b1a"
+    },
+    {
+      "path": "/images/editorial/reseau-territorial.svg",
+      "owner": "network:overview",
+      "title": "Des territoires et des savoir-faire",
+      "kind": "original-svg-diagram",
+      "sha256": "5e397f824ca7fb899a3bdd9cff017c2cac2ed6124904134ea1aa87d9e6d2bebd"
+    },
+    {
+      "path": "/images/editorial/expertise-climatisation-mobile.svg",
+      "owner": "expertise:climatisation-mobile",
+      "title": "Un confort adapté au lieu",
+      "kind": "original-svg-diagram",
+      "sha256": "ee26be0b5f422ec7513d7949d27d4c817e59ee3015f2ba76b6b59d1d26ea3b91"
+    }
+  ]
+}

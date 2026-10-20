@@ -1,0 +1,70 @@
+{
+  "communeCode": "66171",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Saint-Cyprien : organiser un contrôle après des travaux voisins",
+  "h1": "Couverture à Saint-Cyprien : organiser un contrôle après des travaux voisins",
+  "description": "À Saint-Cyprien, préparez l’examen d’une toiture lorsque des travaux proches soulèvent une question sur les raccords, l’évacuation ou une trace nouvelle.",
+  "intro": "Une trace nouvelle après des travaux réalisés à proximité d’un toit de Saint-Cyprien soulève des questions, mais la succession des événements ne prouve pas leur lien. Pour préparer une demande de couverture, rassemblez les constats et les informations disponibles sans attribuer d’emblée une responsabilité. Les entreprises du réseau peuvent être consultées pour examiner les ouvrages de leur métier et expliquer ce qui doit être vérifié sur votre bien.",
+  "intent": "Documenter une succession de travaux et de constats sans présumer de responsabilité ; traiter limites de propriété, accès et comparaison avant-après avec prudence.",
+  "specificValue": "Documenter une succession de travaux et de constats sans présumer de responsabilité ; traiter limites de propriété, accès et comparaison avant-après avec prudence.",
+  "sections": [
+    {
+      "heading": "Séparer chronologie et cause supposée",
+      "paragraphs": [
+        "Notez la date des travaux que vous connaissez, la première observation du désordre et son évolution. Si vous disposez de vues antérieures, conservez-les avec leur contexte plutôt qu’un montage qui masquerait les différences de prise de vue. Précisez les faits dont vous avez connaissance directe et les informations rapportées. Une reconnaissance technique doit établir les relations entre les ouvrages ; elle ne peut pas être remplacée par une conclusion tirée uniquement de l’ordre des dates."
+      ]
+    },
+    {
+      "heading": "Décrire les limites d’accès et les raccords concernés",
+      "paragraphs": [
+        "Une jonction entre deux parties de bâtiment, une évacuation ou un ouvrage voisin peut nécessiter des accès différents. Indiquez ce qui relève de votre accès habituel et ce qui demande l’accord d’un autre occupant ou propriétaire. Ne déplacez pas un élément sur une toiture voisine pour montrer le problème. La visite devra être organisée avec les personnes habilitées, et ses limites doivent être précisées si certains points ne peuvent pas être examinés."
+      ]
+    },
+    {
+      "heading": "Situer exactement le bien dans la commune",
+      "paragraphs": [
+        "Saint-Cyprien distingue notamment village et port dans sa présentation municipale. Ce repère aide à organiser le rendez-vous, sans définir les matériaux ni l’état de la couverture. Transmettez l’adresse et les accès réels, avec les pièces où les traces apparaissent. Si plusieurs métiers sont intervenus récemment, demandez que le périmètre du couvreur reste explicite : recherche sur la couverture, raccords, évacuations ou observations nécessitant un autre interlocuteur ne sont pas des missions identiques."
+      ]
+    },
+    {
+      "heading": "Demander un constat et une solution séparément",
+      "paragraphs": [
+        "Un premier échange peut porter sur la reconnaissance, puis sur des travaux à définir. Faites distinguer les observations, les hypothèses restant ouvertes et les interventions proposées. Le formulaire conserve Saint-Cyprien et la famille toiture ; exposez les faits avec neutralité et évitez les accusations non étayées. Ni le dossier ni l’affichage d’un couvreur ne constituent une expertise de responsabilité. Les démarches éventuelles auprès d’un gestionnaire ou d’un assureur se traitent dans leur cadre propre, selon votre situation."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Des travaux voisins récents prouvent-ils l’origine de la trace ?",
+      "answer": "Non, leur chronologie constitue un élément à examiner. Présentez les informations disponibles et demandez une reconnaissance des ouvrages concernés avant de conclure à une cause technique ou à une responsabilité."
+    },
+    {
+      "question": "Le couvreur peut-il examiner une partie appartenant à un voisin ?",
+      "answer": "L’accès et le périmètre doivent être autorisés par les personnes concernées. Signalez ce besoin dès la prise de contact ; ne supposez pas que le rendez-vous donne automatiquement accès à tous les ouvrages proches."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66171",
+      "label": "API Géo — identité officielle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://saint-cyprien.com/",
+      "label": "Présentation institutionnelle de Saint-Cyprien",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

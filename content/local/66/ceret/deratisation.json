@@ -1,0 +1,70 @@
+{
+  "communeCode": "66049",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Céret : préparer une recherche dans un logement à plusieurs niveaux",
+  "h1": "Dératisation à Céret : préparer une recherche dans un logement à plusieurs niveaux",
+  "description": "À Céret, relevez les indices par étage et par pièce pour une dératisation fondée sur l’inspection, avec des accès et des précautions clairement définis.",
+  "intro": "Dans un logement de Céret organisé sur plusieurs niveaux, le même bruit peut être perçu dans des pièces différentes et des indices peuvent être découverts à des moments éloignés. La demande de dératisation doit préserver cette précision. Les entreprises du réseau couvrant la commune peuvent examiner les lieux ; le dossier doit distinguer les étages et les observations, plutôt que présenter tous les volumes comme touchés sans vérification.",
+  "intent": "Un logement vertical nécessite une localisation précise et une lecture des communications techniques, sans assimiler le patrimoine ancien à une infestation ni recommander de démontage domestique.",
+  "specificValue": "Un logement vertical nécessite une localisation précise et une lecture des communications techniques, sans assimiler le patrimoine ancien à une infestation ni recommander de démontage domestique.",
+  "sections": [
+    {
+      "heading": "Construire un repérage par étage",
+      "paragraphs": [
+        "Sur chaque niveau, indiquez les pièces où un signe a été vu ou entendu et la date du constat. Mentionnez aussi les volumes contrôlés où rien n’a été observé. Des noms simples comme « placard du palier » ou « réserve du rez-de-chaussée » sont plus utiles qu’un récit global. Une photographie prise sans manipulation peut compléter le relevé, mais ne prouve pas à elle seule un trajet entre étages ni l’identité d’un animal."
+      ]
+    },
+    {
+      "heading": "Expliquer les accès existants et leurs limites",
+      "paragraphs": [
+        "Signalez les trappes, dépendances et passages techniques normalement accessibles, sans entreprendre de démontage pour rechercher un indice. Précisez les escaliers et les espaces où l’inspection demande l’ouverture par une autre personne. La présentation patrimoniale de Céret n’autorise aucune déduction sur les circulations dans votre bâtiment. Le professionnel doit examiner les accès possibles à l’adresse réelle et dire clairement quelles parties n’ont pas pu être regardées avant de proposer une stratégie adaptée."
+      ]
+    },
+    {
+      "heading": "Déclarer les essais et les précautions nécessaires",
+      "paragraphs": [
+        "Indiquez les produits ou dispositifs déjà utilisés, ainsi que la présence d’animaux et d’enfants sur les différents niveaux. Ne déplacez pas les indices ou les dispositifs d’une pièce à l’autre pour les présenter. Demandez des consignes adaptées aux lieux et aux occupants avant d’engager une action. La réponse attendue doit expliquer le rôle du diagnostic, des mesures éventuellement retenues et de la prévention des accès, sans promesse de solution identique pour tous les logements anciens."
+      ]
+    },
+    {
+      "heading": "Prévoir des observations comparables après la visite",
+      "paragraphs": [
+        "Un suivi par niveau facilite la lecture de nouveaux constats. Demandez quels signes surveiller, à qui les transmettre et quels contrôles sont compris dans la proposition. Le formulaire conserve Céret et la dératisation ; joignez une description structurée plutôt que des données sur les voisins. Le choix d’une enseigne ne réserve pas de rendez-vous et ne confirme pas de traitement avant examen. Les modalités, les restrictions éventuelles et les conditions du devis se discutent directement avec le professionnel."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Des bruits sur deux étages prouvent-ils deux zones infestées ?",
+      "answer": "Non, leur perception peut être trompeuse. Décrivez les lieux et les horaires séparément afin que le professionnel les rapproche d’autres indices et de l’inspection avant de conclure à un périmètre technique."
+    },
+    {
+      "question": "Faut-il condamner une trappe pour empêcher les passages ?",
+      "answer": "Ne modifiez pas un accès ou une ventilation sans connaître sa fonction. Signalez-le dans le dossier et demandez quelles vérifications et mesures sont adaptées, en tenant compte du fonctionnement du bâtiment et des occupants."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66049",
+      "label": "API Géo — identité officielle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.vallespir-tourisme.fr/decouvrez/5-idees-de-visites/",
+      "label": "Présentation institutionnelle de Céret",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

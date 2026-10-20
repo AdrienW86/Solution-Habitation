@@ -1,0 +1,70 @@
+{
+  "communeCode": "66136",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Perpignan : coordonner une demande en immeuble",
+  "h1": "Couverture à Perpignan : coordonner une demande en immeuble",
+  "description": "Pour une toiture à Perpignan, préparez les accès, les observations et le rôle des interlocuteurs avant de comparer les couvreurs du réseau.",
+  "intro": "Lorsque des traces apparaissent au dernier étage d’un immeuble à Perpignan, la première difficulté peut être de rassembler les bonnes informations et les bons interlocuteurs. Un occupant observe le désordre ; le propriétaire ou le gestionnaire organise éventuellement la décision. Le réseau permet d’identifier les couvreurs desservant Perpignan, tandis que cette page aide à préparer un dossier compréhensible par chacun.",
+  "intent": "Aider un occupant à constituer un dossier de toiture partagé avec un gestionnaire, sans confondre signalement du désordre, autorisation de travaux et diagnostic technique.",
+  "specificValue": "Aider un occupant à constituer un dossier de toiture partagé avec un gestionnaire, sans confondre signalement du désordre, autorisation de travaux et diagnostic technique.",
+  "sections": [
+    {
+      "heading": "Reconstituer le désordre sans conclure trop vite",
+      "paragraphs": [
+        "Décrivez la pièce, la position de la trace par rapport aux fenêtres et son évolution entre deux épisodes. Une marque au plafond ne localise pas automatiquement l’entrée d’eau dans la couverture. Conservez les dates des premières constatations et, si elles existent, les photographies antérieures. Si plusieurs logements sont concernés, recueillez des observations séparées plutôt qu’un récit unique qui ferait perdre la chronologie et les différences d’emplacement."
+      ]
+    },
+    {
+      "heading": "Identifier qui peut ouvrir et décider",
+      "paragraphs": [
+        "Précisez qui détient l’accès aux parties communes, aux combles ou à une trappe technique. Le visiteur doit savoir si ces espaces pourront être ouverts au rendez-vous et par qui. Pour un immeuble géré collectivement, demandez au gestionnaire quel cadre appliquer à la consultation des entreprises ; cette page ne détermine pas les autorisations requises pour votre situation et ne remplace pas l’examen des documents du bien."
+      ]
+    },
+    {
+      "heading": "Distinguer diagnostic et programme de travaux",
+      "paragraphs": [
+        "Demandez si la proposition porte sur une recherche de cause, une réparation identifiée ou une rénovation plus large. Ces missions n’ont pas le même périmètre. Les raccords, les éléments d’évacuation et les parties de couverture peuvent nécessiter des vérifications distinctes. Pour une adresse du centre comme pour un autre quartier, décrivez les accès réels ; aucune méthode de levage ni occupation de voie ne doit être supposée possible avant reconnaissance."
+      ]
+    },
+    {
+      "heading": "Faire circuler un dossier précis",
+      "paragraphs": [
+        "Regroupez les observations, les coordonnées de l’interlocuteur pour les accès et les travaux connus dans une demande unique. Sollicitez un devis détaillant ce qui a été observé, ce qui reste à vérifier et les limites de la solution. La sélection d’une enseigne n’implique pas un rendez-vous confirmé. Vous pouvez conserver une copie du dossier avant tout échange avec le gestionnaire ou l’entreprise, en évitant les données personnelles inutiles sur les autres occupants."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un locataire peut-il préparer le signalement ?",
+      "answer": "Il peut documenter ce qu’il observe et transmettre les informations aux interlocuteurs du logement. La décision de travaux et les autorisations se vérifient avec les personnes concernées ; le formulaire ne vaut pas mandat de commande."
+    },
+    {
+      "question": "Plusieurs traces signifient-elles plusieurs fuites ?",
+      "answer": "Pas nécessairement. Leur répartition et leur chronologie aident au diagnostic, mais seul un examen permet de relier les désordres à une ou plusieurs causes techniques et de définir les réparations utiles."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66136",
+      "label": "API Géo — identité officielle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+      "label": "Présentation institutionnelle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

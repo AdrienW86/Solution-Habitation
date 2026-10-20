@@ -1,0 +1,76 @@
+{
+  "communeCode": "66149",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Prades : préparer un logement avant un état des lieux",
+  "h1": "Nettoyage à Prades : préparer un logement avant un état des lieux",
+  "description": "À Prades, définissez les surfaces et pièces à nettoyer avant un état des lieux, en distinguant entretien, réparations et résultats à faire confirmer.",
+  "intro": "Avant un état des lieux à Prades, une demande de nettoyage doit décrire les surfaces à remettre en propreté sans confondre entretien et réparations. Le réseau permet de consulter l’entreprise desservant la commune ; il ne détermine pas les responsabilités locatives et ne garantit pas la conclusion d’un état des lieux. Cette page vous aide à préparer une liste de tâches concrètes et un contrôle avant la remise des clés.",
+  "intent": "Un départ de logement nécessite une réception claire sans promettre de résultat juridique sur l’état des lieux ou le dépôt de garantie ; tâches à lister et travaux à distinguer.",
+  "specificValue": "Un départ de logement nécessite une réception claire sans promettre de résultat juridique sur l’état des lieux ou le dépôt de garantie ; tâches à lister et travaux à distinguer.",
+  "sections": [
+    {
+      "heading": "Partir d’une liste de pièces et d’équipements",
+      "paragraphs": [
+        "Pour chaque pièce, précisez sols, surfaces accessibles, placards vidés ou équipements concernés. Indiquez ce qui restera meublé et ce qui sera retiré avant le passage. Une formule générale comme « prêt pour l’état des lieux » peut créer des attentes différentes si les opérations ne sont pas détaillées. Les vitrages, l’intérieur d’un appareil et les parties difficiles d’accès doivent être discutés séparément, avec une confirmation de ce que l’entreprise accepte de prendre en charge."
+      ]
+    },
+    {
+      "heading": "Distinguer salissures et dégradations",
+      "paragraphs": [
+        "Une trace peut relever d’un nettoyage, d’une usure ou d’une réparation. Signalez les marques qui motivent la demande et les produits déjà essayés, sans exiger une disparition avant examen du support. Un trou, un joint dégradé ou une finition abîmée ne devient pas une tâche d’entretien par le seul fait qu’une remise des clés approche. Si vous souhaitez plusieurs métiers, séparez les demandes et les périmètres pour pouvoir vérifier chaque proposition clairement."
+      ]
+    },
+    {
+      "heading": "Organiser le bon ordre des opérations",
+      "paragraphs": [
+        "Précisez les dates envisagées de déménagement, le moment où les pièces seront accessibles et la disponibilité de l’eau. Un nettoyage réalisé avant l’évacuation des meubles peut laisser des zones non accessibles ; un passage après d’autres travaux demande un état initial connu. À votre adresse de Prades, indiquez les étages et les conditions d’entrée du matériel. La date souhaitée doit être confirmée directement par le prestataire, et ne doit pas être considérée comme réservée par la saisie du formulaire."
+      ]
+    },
+    {
+      "heading": "Prévoir un contrôle avant la remise des clés",
+      "paragraphs": [
+        "Convenez de qui vérifiera les tâches et de la façon de signaler un point à reprendre dans le cadre convenu. La réception d’une prestation n’est pas la validation de l’état des lieux par un tiers. Le dossier conserve Prades et le nettoyage ; ajoutez les pièces prioritaires et ce qui sera déjà vidé. Gardez une copie de la liste et de la proposition afin de comparer les opérations prévues aux surfaces effectivement traitées, sans attente implicite sur des réparations non commandées."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un nettoyage garantit-il la restitution du dépôt de garantie ?",
+      "answer": "Non, cette prestation ne détermine pas l’issue de l’état des lieux ni les droits des parties. Définissez les tâches d’entretien et consultez les interlocuteurs compétents pour les questions propres à votre situation locative."
+    },
+    {
+      "question": "Faut-il attendre que tous les meubles soient sortis ?",
+      "answer": "Cela dépend des zones à traiter. Précisez le calendrier et les objets restant sur place afin de convenir d’un accès réel aux surfaces ; le devis doit indiquer les limites si certaines zones restent occupées ou inaccessibles."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66149",
+      "label": "API Géo — identité officielle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.prades.com/articles-3/25-22-entre-mer-et-montagne/",
+      "label": "Présentation institutionnelle de Prades",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    },
+    {
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31269",
+      "label": "Service Public — dépôt de garantie dans un bail d’habitation",
+      "checkedAt": "2026-10-20",
+      "supports": "Cadre du dépôt de garantie ; le nettoyage ne détermine pas à lui seul l’issue de l’état des lieux."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

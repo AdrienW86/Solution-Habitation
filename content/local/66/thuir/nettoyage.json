@@ -1,0 +1,70 @@
+{
+  "communeCode": "66210",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Thuir : préparer l’entretien d’une petite boutique",
+  "h1": "Nettoyage à Thuir : préparer l’entretien d’une petite boutique",
+  "description": "À Thuir, définissez les tâches de nettoyage d’une boutique : entrée, espace de vente, mobilier accessible et horaires compatibles avec l’accueil.",
+  "intro": "Pour une boutique à Thuir, la petite surface ne signifie pas forcément une prestation simple à décrire. Présentoirs, objets exposés, entrée et zones de passage peuvent limiter l’accès aux surfaces. Le réseau permet de consulter l’entreprise de nettoyage desservant la commune ; cette page aide à distinguer entretien des lieux, manipulation des marchandises et opérations ponctuelles, avant de comparer une proposition adaptée au fonctionnement du commerce.",
+  "intent": "Une petite surface commerciale nécessite une liste d’opérations et d’objets exclus, pas un devis fondé uniquement sur la surface ; coordination avant ouverture et contrôle des zones convenues.",
+  "specificValue": "Une petite surface commerciale nécessite une liste d’opérations et d’objets exclus, pas un devis fondé uniquement sur la surface ; coordination avant ouverture et contrôle des zones convenues.",
+  "sections": [
+    {
+      "heading": "Cartographier les surfaces accessibles",
+      "paragraphs": [
+        "Décrivez entrée, allées, comptoir, arrière-boutique et sanitaires s’ils sont concernés. Pour chaque zone, précisez ce qui doit être nettoyé et ce qui doit rester en place. Le dessous d’un présentoir fixe ne peut pas être assimilé à un sol libre. Une demande utile indique les obstacles et les zones fragiles plutôt qu’une surface globale seule ; l’entreprise pourra ainsi expliquer ce qui entre dans son périmètre et les préparatifs nécessaires pour y accéder."
+      ]
+    },
+    {
+      "heading": "Fixer les limites autour des objets vendus",
+      "paragraphs": [
+        "Les produits exposés, les éléments décoratifs et les documents de caisse ne doivent pas être déplacés sans consigne. Dites ce que vous rangerez avant le passage et demandez ce que le prestataire peut manipuler. Un nettoyage du mobilier accessible n’est pas un inventaire des marchandises. Cette séparation protège les attentes de chacun et permet de prévoir une réception claire, sans que le résultat soit jugé sur une zone qui n’était pas accessible dans les conditions convenues."
+      ]
+    },
+    {
+      "heading": "Organiser l’entretien autour de l’accueil",
+      "paragraphs": [
+        "Indiquez si la visite ou les passages sont envisageables avant ouverture, après fermeture ou en présence de votre équipe. Prévoyez qui ouvre et qui vérifie la fermeture, sans inscrire de code dans la demande publique. À votre adresse de Thuir, les accès au matériel et à l’eau doivent être expliqués. Les vitrages ou éléments extérieurs demandés doivent être décrits séparément et confirmés, plutôt qu’ajoutés implicitement à l’entretien des surfaces intérieures de la boutique."
+      ]
+    },
+    {
+      "heading": "Vérifier les tâches et les fréquences convenues",
+      "paragraphs": [
+        "Demandez une proposition qui distingue les opérations régulières des besoins ponctuels, avec les exclusions et les modalités de signalement d’un oubli. Un changement de mobilier ou d’horaires peut modifier le besoin : identifiez la personne qui le communiquera. Le formulaire garde Thuir et le nettoyage ; précisez le type de boutique et les priorités. Une date souhaitée ou une demande envoyée n’engage pas automatiquement un créneau, qui doit être confirmé directement par l’entreprise."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une petite boutique nécessite-t-elle quand même une visite ?",
+      "answer": "La nécessité se discute avec l’entreprise. Une description précise et des vues d’ensemble peuvent préparer l’échange, mais la surface seule ne permet pas d’évaluer les obstacles, les matériaux et les manipulations à prévoir."
+    },
+    {
+      "question": "Peut-on inclure le nettoyage sous les présentoirs ?",
+      "answer": "Décrivez leur configuration et précisez s’ils peuvent être déplacés. La tâche et les préparatifs doivent être confirmés ; ne supposez pas que le prestataire manipule les marchandises ou des éléments lourds sans accord préalable."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66210",
+      "label": "API Géo — identité officielle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://thuir.fr/",
+      "label": "Présentation institutionnelle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

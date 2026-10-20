@@ -1,0 +1,70 @@
+{
+  "communeCode": "66172",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Saint-Estève : préparer une reprise après une longue absence",
+  "h1": "Nettoyage à Saint-Estève : préparer une reprise après une longue absence",
+  "description": "Pour rouvrir un logement à Saint-Estève, distinguez poussière, état des surfaces et opérations exclues avant de demander un nettoyage.",
+  "intro": "Après une longue absence, un logement de Saint-Estève peut nécessiter un état des lieux avant de demander son nettoyage. Il faut distinguer les salissures accessibles, l’état des équipements et les travaux qui relèvent d’un autre métier. Le réseau permet d’identifier l’entreprise à consulter ; cette page aide à décrire une remise en usage sans promettre qu’un nettoyage suffira à résoudre toutes les anomalies.",
+  "intent": "Un parcours de réouverture d’un logement peu utilisé : reconnaissance préalable, état du mobilier, fonctionnement des accès et limites entre nettoyage et remise en état technique.",
+  "specificValue": "Un parcours de réouverture d’un logement peu utilisé : reconnaissance préalable, état du mobilier, fonctionnement des accès et limites entre nettoyage et remise en état technique.",
+  "sections": [
+    {
+      "heading": "Faire une première visite de reconnaissance",
+      "paragraphs": [
+        "Avant de fixer le périmètre, parcourez les pièces normalement accessibles et notez ce qui nécessite une attention particulière : poussière déposée, mobilier couvert, sanitaires peu utilisés ou accès encombrés. Une absence ne renseigne pas à elle seule la nature des salissures. Si des désordres inhabituels apparaissent, décrivez-les sans les qualifier et demandez s’ils entrent dans le champ de l’entretien proposé ou nécessitent une vérification distincte avant le passage."
+      ]
+    },
+    {
+      "heading": "Séparer le rangement de l’entretien des surfaces",
+      "paragraphs": [
+        "Des cartons à évacuer, des effets personnels à trier et un sol à nettoyer ne constituent pas une opération unique. Faites une liste des objets conservés et indiquez qui prend en charge les déplacements ou l’évacuation éventuelle. La prestation du réseau ne doit pas être assimilée à un débarras spécialisé sans confirmation. Les zones à ne pas toucher doivent être signalées clairement, surtout si une autre personne remet les clés."
+      ]
+    },
+    {
+      "heading": "Vérifier les conditions pratiques de réouverture",
+      "paragraphs": [
+        "Précisez si l’eau et l’électricité sont disponibles et si les équipements peuvent être utilisés normalement. Une entreprise de nettoyage ne doit pas être chargée implicitement de remettre en service une installation défaillante. À votre adresse de Saint-Estève, indiquez l’étage, l’accès au matériel et les plages possibles de présence. Pour les revêtements ou meubles fragiles, demandez une reconnaissance adaptée plutôt qu’une méthode agressive choisie seulement pour aller plus vite."
+      ]
+    },
+    {
+      "heading": "Organiser une réception avant le retour des occupants",
+      "paragraphs": [
+        "Convenez des pièces incluses et d’un interlocuteur pouvant vérifier la fin de prestation. Décrivez les attentes concrètes sans promettre une remise à neuf : poussière, traces et usure ne sont pas interchangeables. Le dossier conserve la commune et peut préciser la date de retour souhaitée, qui reste à faire confirmer. Gardez une copie locale et transmettez-la directement si le service d’envoi n’est pas activé ; son téléchargement ne déclenche aucune intervention."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il demander le nettoyage avant la première visite du logement ?",
+      "answer": "Vous pouvez préparer un contact, mais une reconnaissance des lieux rend le périmètre plus fiable. Signalez les informations encore inconnues et demandez comment l’entreprise souhaite les vérifier avant de confirmer sa proposition."
+    },
+    {
+      "question": "Le nettoyage comprend-il la remise en service des appareils ?",
+      "answer": "Ne le supposez pas. Le fonctionnement technique et l’entretien des surfaces sont des sujets distincts ; précisez les équipements concernés et faites confirmer les limites de manipulation et d’intervention avant le passage."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66172",
+      "label": "API Géo — identité officielle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saint-esteve/",
+      "label": "Présentation institutionnelle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

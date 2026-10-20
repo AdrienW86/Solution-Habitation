@@ -1,0 +1,487 @@
+{
+  "version": 1,
+  "departmentSlots": [
+    {
+      "id": "territoire-1",
+      "code": "66",
+      "active": true
+    },
+    {
+      "id": "territoire-2",
+      "code": "11",
+      "active": true
+    },
+    {
+      "id": "territoire-3",
+      "code": "34",
+      "active": true
+    }
+  ],
+  "companies": [
+    {
+      "id": "narbonne-toiture",
+      "name": "Narbonne Toiture",
+      "description": "Entretien, démoussage, protection et travaux de couverture.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/narbonne-toiture.png",
+        "alt": "Logo Narbonne Toiture",
+        "source": {
+          "url": "https://www.narbonnetoiture.fr",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": {
+        "url": "https://www.narbonnetoiture.fr",
+        "verifiedAt": "2026-10-19"
+      },
+      "contact": {
+        "phone": "0662125611",
+        "email": null,
+        "proof": {
+          "url": "https://www.narbonnetoiture.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "toiture",
+          "services": [
+            "reparation-infiltrations",
+            "renovation-couverture",
+            "zinguerie",
+            "entretien-toiture"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "11",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://www.narbonnetoiture.fr",
+            "verifiedAt": "2026-10-19"
+          }
+        }
+      ],
+      "legal": {
+        "name": "Grégory José Robles — entrepreneur individuel",
+        "siren": "834799751",
+        "source": {
+          "url": "https://www.narbonnetoiture.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "profileSource": {
+        "url": "https://www.narbonnetoiture.fr/mentions-legales",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "couverture-catalane",
+      "name": "Couverture Catalane",
+      "description": "Couverture, réparation, recherche de fuite, zinguerie et entretien de toiture.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/couverture-catalane.png",
+        "alt": "Logo Couverture Catalane",
+        "source": {
+          "url": "https://www.couverture-catalane.fr",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": {
+        "url": "https://www.couverture-catalane.fr",
+        "verifiedAt": "2026-10-19"
+      },
+      "contact": {
+        "phone": "0662125611",
+        "email": "contact@couverture-catalane.fr",
+        "proof": {
+          "url": "https://www.couverture-catalane.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "toiture",
+          "services": [
+            "reparation-infiltrations",
+            "renovation-couverture",
+            "zinguerie",
+            "entretien-toiture"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://www.couverture-catalane.fr",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": {
+        "name": "Grégory Robles — entrepreneur individuel",
+        "siren": "834799751",
+        "source": {
+          "url": "https://www.couverture-catalane.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "profileSource": {
+        "url": "https://www.couverture-catalane.fr/mentions-legales",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "protection-nuisibles",
+      "name": "Protection Nuisibles",
+      "description": "Dératisation, désinsectisation et interventions sur les nids de guêpes et frelons.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/protection-nuisibles.png",
+        "alt": "Logo Protection Nuisibles",
+        "source": {
+          "url": "https://www.protection-nuisibles.fr",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": {
+        "url": "https://www.protection-nuisibles.fr",
+        "verifiedAt": "2026-10-19"
+      },
+      "contact": {
+        "phone": "0757516414",
+        "email": "contact@protection-nuisibles.fr",
+        "proof": {
+          "url": "https://www.protection-nuisibles.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "nuisibles",
+          "services": [
+            "deratisation",
+            "punaises-de-lit",
+            "cafards-blattes",
+            "guepes-frelons"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://www.protection-nuisibles.fr",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": {
+        "name": "Grégory Robles — entrepreneur individuel",
+        "siren": "834799751",
+        "source": {
+          "url": "https://www.protection-nuisibles.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "profileSource": {
+        "url": "https://www.protection-nuisibles.fr/mentions-legales",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "express-nuisibles",
+      "name": "Express Nuisibles",
+      "description": "Prise en charge des rongeurs, punaises de lit, cafards, guêpes et frelons.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/express-nuisibles.png",
+        "alt": "Logo Express Nuisibles",
+        "source": {
+          "url": "https://www.express-nuisibles.fr",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": {
+        "url": "https://www.express-nuisibles.fr",
+        "verifiedAt": "2026-10-19"
+      },
+      "contact": {
+        "phone": "0743260451",
+        "email": "contact@express-nuisibles.fr",
+        "proof": {
+          "url": "https://www.express-nuisibles.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "nuisibles",
+          "services": [
+            "deratisation",
+            "punaises-de-lit",
+            "cafards-blattes",
+            "guepes-frelons"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://www.express-nuisibles.fr",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": {
+        "name": "Grégory José Robles — entrepreneur individuel",
+        "siren": "834799751",
+        "source": {
+          "url": "https://www.express-nuisibles.fr/mentions-legales",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "profileSource": {
+        "url": "https://www.express-nuisibles.fr/mentions-legales",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "peinture-occitane",
+      "name": "Peinture Occitane",
+      "description": "Peinture intérieure, peinture extérieure, préparation des supports et ravalement.",
+      "active": true,
+      "logo": null,
+      "website": {
+        "url": "https://www.peinture-occitane.fr",
+        "verifiedAt": "2026-10-19"
+      },
+      "contact": {
+        "phone": "0743260451",
+        "email": "contact@peinture-occitane.fr",
+        "proof": {
+          "url": "https://www.peinture-occitane.fr",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "peinture-facades",
+          "services": [
+            "peinture-interieure",
+            "peinture-exterieure",
+            "ravalement-facade",
+            "preparation-supports"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "communes",
+          "communeCodes": [
+            "66136"
+          ],
+          "proof": {
+            "url": "https://www.peinture-occitane.fr",
+            "verifiedAt": "2026-10-19"
+          }
+        }
+      ],
+      "legal": null,
+      "profileSource": {
+        "url": "https://www.peinture-occitane.fr",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "nettoyage-perpignan",
+      "name": "Nettoyage Perpignan",
+      "description": "Nettoyage résidentiel et entretien de bureaux à Perpignan.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/nettoyage-perpignan.png",
+        "alt": "Logo Nettoyage Perpignan",
+        "source": {
+          "url": "https://raw.githubusercontent.com/AdrienW86/Nettoyage-Perpignan/master/public/logo2.png",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": null,
+      "contact": {
+        "phone": null,
+        "email": null,
+        "proof": {
+          "url": "https://github.com/AdrienW86/Nettoyage-Perpignan",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "nettoyage",
+          "services": [
+            "locaux-professionnels",
+            "nettoyage-residentiel"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://github.com/AdrienW86/Nettoyage-Perpignan",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": null,
+      "profileSource": {
+        "url": "https://github.com/AdrienW86/Nettoyage-Perpignan",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "toiture66",
+      "name": "Toiture66",
+      "description": "Entretien, réparation et rénovation de toiture.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/toiture66.avif",
+        "alt": "Logo Toiture66",
+        "source": {
+          "url": "https://raw.githubusercontent.com/AdrienW86/Toiture66/master/public/logo.avif",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": null,
+      "contact": {
+        "phone": null,
+        "email": null,
+        "proof": {
+          "url": "https://github.com/AdrienW86/Toiture66",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "toiture",
+          "services": [
+            "reparation-infiltrations",
+            "renovation-couverture",
+            "entretien-toiture"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://github.com/AdrienW86/Toiture66",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": null,
+      "profileSource": {
+        "url": "https://github.com/AdrienW86/Toiture66",
+        "verifiedAt": "2026-10-19"
+      }
+    },
+    {
+      "id": "elite-couverture",
+      "name": "Elite Couverture",
+      "description": "Entretien, rénovation de toiture et zinguerie.",
+      "active": true,
+      "logo": {
+        "src": "/images/enseignes/elite-couverture.svg",
+        "alt": "Logo Elite Couverture",
+        "source": {
+          "url": "https://raw.githubusercontent.com/AdrienW86/elite-couverture66/master/public/logo.svg",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "website": null,
+      "contact": {
+        "phone": null,
+        "email": null,
+        "proof": {
+          "url": "https://github.com/AdrienW86/elite-couverture66",
+          "verifiedAt": "2026-10-19"
+        }
+      },
+      "offerings": [
+        {
+          "expertise": "toiture",
+          "services": [
+            "reparation-infiltrations",
+            "renovation-couverture",
+            "zinguerie",
+            "entretien-toiture"
+          ]
+        }
+      ],
+      "coverage": [
+        {
+          "departmentCode": "66",
+          "mode": "department",
+          "communeCodes": [],
+          "proof": {
+            "url": "https://github.com/AdrienW86/elite-couverture66",
+            "verifiedAt": "2026-10-19"
+          },
+          "ownerConfirmation": {
+            "confirmedAt": "2026-10-20",
+            "reference": "mission-proprietaire-2026-10-20-couverture-66",
+            "scope": "Ensemble des 226 communes des Pyrénées-Orientales, selon les prestations déclarées de cette entreprise."
+          }
+        }
+      ],
+      "legal": null,
+      "profileSource": {
+        "url": "https://github.com/AdrienW86/elite-couverture66",
+        "verifiedAt": "2026-10-19"
+      }
+    }
+  ]
+}

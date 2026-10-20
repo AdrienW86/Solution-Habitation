@@ -1,0 +1,64 @@
+{
+  "communeCode": "66141",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Pia : distinguer les indices des dégâts de toiture",
+  "h1": "Dératisation à Pia : distinguer les indices des dégâts de toiture",
+  "description": "À Pia, préparez une recherche de rongeurs sans confondre traces, bruits sous toiture et défauts du bâtiment qui peuvent relever d’un autre métier.",
+  "intro": "Un bruit sous toiture accompagné d’une trace ou d’un matériau abîmé dans une maison de Pia peut conduire à plusieurs hypothèses. La dératisation doit rester fondée sur les indices examinés, et un éventuel défaut de couverture doit être signalé séparément. Le réseau permet de consulter les entreprises desservant la commune ; cette page aide à organiser les constats pour éviter qu’un seul mot, « nuisibles », remplace un diagnostic réel.",
+  "intent": "Faire dialoguer plusieurs constats sans les confondre : rongeurs suspectés, isolant ou couverture endommagés, chronologie et orientation vers les métiers compétents.",
+  "specificValue": "Faire dialoguer plusieurs constats sans les confondre : rongeurs suspectés, isolant ou couverture endommagés, chronologie et orientation vers les métiers compétents.",
+  "sections": [
+    {
+      "heading": "Écrire une observation par type de signe",
+      "paragraphs": [
+        "Séparez ce qui est entendu, ce qui est visible et les dommages sur les objets ou matériaux. Notez l’emplacement, les dates et la fréquence sans conclure à une espèce. Une trace d’humidité et un emballage abîmé peuvent avoir des causes distinctes. Les photographies doivent être réalisées sans manipuler des indices ou accéder à un volume dangereux. Cette séparation permet au professionnel de comprendre ce qui motive la demande et les points qui nécessitent une vérification sur place."
+      ]
+    },
+    {
+      "heading": "Décrire les accès avant toute investigation",
+      "paragraphs": [
+        "Indiquez les trappes et volumes normalement accessibles, les passages masqués et les éventuelles limites connues de circulation. Ne vous engagez pas dans des combles non aménagés pour fournir une image plus précise. Si une anomalie de couverture est visible depuis le sol, décrivez-la comme telle. L’intervenant doit pouvoir déterminer les conditions de reconnaissance et expliquer les zones qui n’auront pas été examinées, sans considérer un accès incertain comme une partie du bâtiment déjà contrôlée."
+      ]
+    },
+    {
+      "heading": "Garder des demandes distinctes pour des métiers différents",
+      "paragraphs": [
+        "Une entreprise de nuisibles ne doit pas être attendue implicitement sur une réparation de toiture, et un couvreur ne confirme pas une présence de rongeurs par son seul métier. Lorsque plusieurs sujets apparaissent, exposez-les séparément et demandez quel périmètre chaque interlocuteur prend en charge. La couverture commerciale à Pia n’attribue aucune compétence supplémentaire : les prestations proposées restent celles du catalogue. Le diagnostic et la coordination des opérations doivent rendre cette répartition compréhensible avant toute intervention."
+      ]
+    },
+    {
+      "heading": "Prévoir le suivi des indices utiles",
+      "paragraphs": [
+        "Demandez les consignes adaptées aux occupants, aux animaux et aux essais déjà réalisés. La proposition doit préciser les actions retenues et les observations à poursuivre depuis des espaces sûrs. Le formulaire conserve Pia et la dératisation ; ajoutez la chronologie et les limites d’accès, sans annoncer une cause déjà certaine. Après le rendez-vous, un relevé daté permet de distinguer l’évolution des indices d’un problème de bâtiment qui demanderait encore un autre examen ou une intervention spécifique."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un isolant abîmé prouve-t-il la présence de rongeurs ?",
+      "answer": "Il constitue un élément à examiner, mais ne suffit pas à établir une cause. Décrivez le dommage sans manipuler les matériaux et demandez quels indices et contrôles permettront de confirmer ou d’écarter l’hypothèse."
+    },
+    {
+      "question": "Puis-je traiter la toiture et les nuisibles dans une seule demande ?",
+      "answer": "Vous pouvez mentionner les deux sujets, mais il faut distinguer les observations et les métiers concernés. Faites confirmer les missions de chacun pour éviter qu’une réparation ou une investigation soit implicitement attendue d’un interlocuteur non prévu pour elle."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66141",
+      "label": "API Géo — identité officielle de Pia",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

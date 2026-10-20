@@ -1,0 +1,70 @@
+{
+  "communeCode": "66017",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation au Barcarès : coordonner logement et locaux de résidence",
+  "h1": "Dératisation au Barcarès : coordonner logement et locaux de résidence",
+  "description": "Au Barcarès, préparez un signalement de rongeurs en distinguant logement, local commun et observations extérieures avant de fixer le périmètre du diagnostic.",
+  "intro": "Dans une résidence du Barcarès, un indice aperçu à l’extérieur et une trace découverte dans un logement ne doivent pas être réunis en un diagnostic automatique. Le réseau permet de consulter les entreprises de dératisation desservant la commune. Ce dossier aide à organiser un signalement par espace et à identifier les interlocuteurs pour les parties communes, sans attribuer une présence particulière de rongeurs au contexte entre mer et étang.",
+  "intent": "Ne pas attribuer aux milieux littoraux une infestation supposée ; organiser le signalement d’une résidence et l’accès au local partagé sans désigner une origine ni un responsable.",
+  "specificValue": "Ne pas attribuer aux milieux littoraux une infestation supposée ; organiser le signalement d’une résidence et l’accès au local partagé sans désigner une origine ni un responsable.",
+  "sections": [
+    {
+      "heading": "Conserver trois périmètres distincts",
+      "paragraphs": [
+        "Séparez les constats dans le logement, dans un local partagé et dans les espaces extérieurs. Pour chacun, notez la date, le signe et la personne qui l’a réellement observé. Une photographie prise sans manipulation peut compléter le dossier. Les observations proches ne prouvent pas un trajet commun : l’entreprise doit pouvoir vérifier les relations entre espaces, avec leurs limites d’accès, avant de conclure aux zones qui nécessitent une intervention ou des mesures complémentaires de prévention."
+      ]
+    },
+    {
+      "heading": "Centraliser les informations avec le bon interlocuteur",
+      "paragraphs": [
+        "Lorsqu’un espace commun est concerné, identifiez le gestionnaire ou la personne habilitée à autoriser l’ouverture. Évitez de multiplier les signalements sans contexte, au risque de présenter plusieurs fois le même indice comme des événements différents. Le premier dossier peut indiquer qu’une coordination est nécessaire sans transmettre les coordonnées de tous les occupants. Les autorisations et l’organisation de la visite doivent être discutées directement ; une demande pour un logement ne donne pas accès de droit à tous les volumes de la résidence."
+      ]
+    },
+    {
+      "heading": "Faire vérifier les accès plutôt que l’environnement supposé",
+      "paragraphs": [
+        "Les secteurs de la commune situent l’adresse, mais ne désignent ni la cause ni l’intensité d’une présence. Décrivez portes, réserves, contenants et passages techniques visibles à votre emplacement. Ne modifiez pas une ventilation pour supprimer un accès supposé. Demandez comment le diagnostic reliera les indices aux mesures proposées, et signalez les produits déjà utilisés ainsi que la présence d’animaux ou d’enfants. La méthode et les précautions doivent correspondre aux lieux effectivement examinés."
+      ]
+    },
+    {
+      "heading": "Clarifier les actions après la reconnaissance",
+      "paragraphs": [
+        "Demandez ce que comprend la proposition et qui prend en charge les mesures d’entretien ou d’adaptation qui resteraient nécessaires. Un suivi doit permettre de comparer de nouveaux constats aux premiers indices sans promettre une absence définitive de rongeurs dans tout le quartier. Le formulaire conserve Le Barcarès et la dératisation ; il ne réserve pas de rendez-vous. Les entreprises présentées ont une couverture de desserte, sans qu’une agence locale ou un délai soit inventé par la page du réseau."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une présence extérieure prouve-t-elle que la résidence est touchée ?",
+      "answer": "Non, elle doit être distinguée des indices à l’intérieur. Décrivez chaque observation dans son lieu et sa chronologie afin que le professionnel vérifie les relations éventuelles avant de proposer un périmètre d’intervention."
+    },
+    {
+      "question": "Qui doit donner accès à un local partagé ?",
+      "answer": "Identifiez l’interlocuteur habilité dans votre résidence et convenez de l’ouverture avec lui. L’entreprise doit connaître ces conditions avant la visite, et le diagnostic doit préciser les espaces qui n’ont pas pu être examinés."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66017",
+      "label": "API Géo — identité officielle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/le-barcares/",
+      "label": "Présentation institutionnelle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

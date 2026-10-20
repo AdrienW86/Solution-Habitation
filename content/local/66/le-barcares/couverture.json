@@ -1,0 +1,70 @@
+{
+  "communeCode": "66017",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture au Barcarès : examiner les ouvrages avant de choisir un entretien",
+  "h1": "Couverture au Barcarès : examiner les ouvrages avant de choisir un entretien",
+  "description": "Au Barcarès, préparez l’examen d’une couverture et de ses évacuations sans déduire une dégradation du seul contexte littoral de la commune.",
+  "intro": "Le Barcarès est situé entre Méditerranée et étang dans sa présentation institutionnelle. Ce contexte ne suffit pas à diagnostiquer votre toiture ni à imposer une opération d’entretien. Pour consulter les couvreurs du réseau, partez des matériaux connus, des observations et de l’accès au bien. Cette page aide à demander une vérification des ouvrages avant de choisir une méthode, sans transformer la localisation littorale en preuve de dégradation.",
+  "intent": "Faire la part entre contexte mer-étang documenté et état réel des matériaux ; choisir un entretien justifié, avec reconnaissance des raccords et distinction d’une réparation nécessaire.",
+  "specificValue": "Faire la part entre contexte mer-étang documenté et état réel des matériaux ; choisir un entretien justifié, avec reconnaissance des raccords et distinction d’une réparation nécessaire.",
+  "sections": [
+    {
+      "heading": "Décrire l’état observé avec ses limites",
+      "paragraphs": [
+        "Indiquez les signes visibles depuis le sol, les traces intérieures éventuelles et les travaux déjà connus. Si vous ne connaissez pas le matériau ou la date d’une reprise, signalez cette incertitude. Des photographies générales peuvent faciliter la préparation de la visite mais ne permettent pas de juger toutes les fixations ou les raccords. La demande doit laisser au professionnel la possibilité d’expliquer ce qui peut être examiné et ce qui restera hors constat avant une organisation complémentaire."
+      ]
+    },
+    {
+      "heading": "Distinguer les ouvrages à contrôler",
+      "paragraphs": [
+        "Couverture, raccordements et évacuations remplissent des fonctions liées mais différentes. Demandez que leur examen soit expliqué plutôt qu’englobé dans une formule d’entretien générale. Un changement d’aspect d’un élément ne prouve pas à lui seul une perte de fonction. À l’inverse, une anomalie d’écoulement ne se corrige pas nécessairement par une opération sur toute la surface du toit. Le périmètre doit rester relié aux constats du bâtiment, et non à une solution identique proposée à toutes les adresses proches de la mer."
+      ]
+    },
+    {
+      "heading": "Comparer les objectifs annoncés",
+      "paragraphs": [
+        "Entretien, protection d’un support et réparation d’un défaut ne sont pas interchangeables. Pour chaque opération, demandez l’objectif, la compatibilité avec le matériau et les limites de résultat. Les préparatifs et moyens d’accès doivent aussi être précisés. Situez le bien dans la commune avec son adresse et son entrée réelle ; un nom de secteur comme la Coudalère ne renseigne pas la forme du toit ni les conditions d’utilisation d’une partie partagée pour préparer les travaux."
+      ]
+    },
+    {
+      "heading": "Conserver une trace utile du diagnostic",
+      "paragraphs": [
+        "Demandez quels points ont été observés et quelles recommandations restent à examiner après la visite. Un programme de suivi compréhensible vaut mieux qu’un calendrier d’opérations choisi sans rapport avec l’état constaté. Le formulaire garde Le Barcarès et la famille couverture ; ajoutez vos questions sur les matériaux et les évacuations. Les entreprises affichées desservent la commune selon le réseau, mais les disponibilités, le devis et la faisabilité technique d’une méthode se confirment directement avec chacune."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il traiter une toiture parce qu’elle est près de la mer ?",
+      "answer": "La localisation constitue un contexte à examiner, pas une prescription automatique. Demandez une lecture des matériaux et des ouvrages pour comprendre si une opération est nécessaire, adaptée et distincte d’une éventuelle réparation."
+    },
+    {
+      "question": "Une proposition d’entretien couvre-t-elle les raccords défectueux ?",
+      "answer": "Il faut le vérifier explicitement. Demandez quels ouvrages sont inspectés, quelles réparations sont incluses et quelles limites subsistent ; une opération sur la surface du toit ne remplace pas automatiquement la reprise d’un raccord."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66017",
+      "label": "API Géo — identité officielle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/le-barcares/",
+      "label": "Présentation institutionnelle de Le Barcarès",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

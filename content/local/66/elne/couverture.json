@@ -1,0 +1,70 @@
+{
+  "communeCode": "66065",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Elne : préparer une réparation dans un ensemble bâti",
+  "h1": "Couverture à Elne : préparer une réparation dans un ensemble bâti",
+  "description": "À Elne, documentez les versants, les raccords et l’accès à votre toiture pour comparer une réparation sans présumer l’état des bâtiments voisins.",
+  "intro": "Dans un ensemble de bâtiments à Elne, plusieurs pans de toiture et raccords peuvent rendre une trace difficile à situer. Une réparation commence par la compréhension du bâtiment concerné, pas par une conclusion sur tous les toits voisins. Le réseau permet de consulter les couvreurs desservant la commune ; ce dossier aide à présenter la zone à examiner et à préciser les limites d’accès avant la reconnaissance.",
+  "intent": "Rendre lisible une réparation dans un ensemble de toitures avec niveaux et jonctions ; distinguer patrimoine local documenté et contraintes propres au bâtiment concerné.",
+  "specificValue": "Rendre lisible une réparation dans un ensemble de toitures avec niveaux et jonctions ; distinguer patrimoine local documenté et contraintes propres au bâtiment concerné.",
+  "sections": [
+    {
+      "heading": "Dessiner les volumes sans monter sur le toit",
+      "paragraphs": [
+        "Un croquis simple peut distinguer bâtiment principal, extension, appentis et murs mitoyens apparents. Placez la pièce où le désordre est observé et joignez une vue d’ensemble depuis le sol. Indiquez ce qui n’est pas visible. Le dessin n’a pas besoin d’être un plan technique : il sert à éviter qu’une photographie de détail soit interprétée sans comprendre le versant, le niveau ou l’ouvrage auquel elle se rapporte dans le bâtiment."
+      ]
+    },
+    {
+      "heading": "Faire examiner les jonctions avant de choisir l’étendue",
+      "paragraphs": [
+        "Une liaison contre un mur, une différence de niveau ou une évacuation peuvent mériter une vérification spécifique. Demandez quels éléments expliquent le périmètre retenu et quels raccords relient la partie réparée aux ouvrages conservés. Une reprise ciblée doit être cohérente avec son environnement. L’absence de trace dans une pièce adjacente n’est pas une preuve sur l’état de la couverture ; c’est une observation à rapprocher des autres constats du diagnostic professionnel."
+      ]
+    },
+    {
+      "heading": "Tenir compte de l’adresse et des règles du bien",
+      "paragraphs": [
+        "La ville haute et le patrimoine d’Elne sont documentés par l’office de tourisme, sans que chaque habitation soit pour autant soumise aux mêmes contraintes. Si votre bien se trouve dans un secteur concerné par des prescriptions, faites vérifier les démarches et les choix de matériaux avec les interlocuteurs compétents. Décrivez aussi les passages et les espaces où une installation serait envisagée. Le contexte historique ne remplace ni la vérification des règles à l’adresse ni l’examen du toit."
+      ]
+    },
+    {
+      "heading": "Demander une solution lisible par ouvrage",
+      "paragraphs": [
+        "La proposition doit identifier la zone reprise, les travaux de raccordement et les limites éventuelles dues à un accès non obtenu. Regroupez vos observations plutôt que de demander d’emblée une rénovation complète. Le formulaire conserve Elne et la couverture ; précisez les volumes et les travaux antérieurs connus. Pour comparer, vérifiez que les devis portent sur les mêmes ouvrages et demandent les mêmes préparatifs, avec les disponibilités et modalités d’exécution confirmées directement auprès des entreprises."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le caractère ancien d’un quartier suffit-il à choisir un matériau ?",
+      "answer": "Non, les caractéristiques du toit et les éventuelles prescriptions applicables à l’adresse doivent être vérifiées. Un contexte patrimonial général ne permet pas de définir à lui seul une solution technique pour votre bien."
+    },
+    {
+      "question": "Pourquoi joindre un croquis si j’ai déjà une photo du défaut ?",
+      "answer": "Le croquis aide à relier le détail au bâtiment, aux niveaux et aux pièces concernées. Il complète la photographie sans remplacer le relevé ni l’inspection nécessaires au professionnel pour établir son diagnostic."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66065",
+      "label": "API Géo — identité officielle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/les-villages-incontournables-en-pyrenees-mediterranee/elne/",
+      "label": "Présentation institutionnelle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

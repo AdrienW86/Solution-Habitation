@@ -1,0 +1,70 @@
+{
+  "communeCode": "66210",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Thuir : prioriser plusieurs désordres sur le même toit",
+  "h1": "Couverture à Thuir : prioriser plusieurs désordres sur le même toit",
+  "description": "À Thuir, classez traces, tuiles observées et évacuations pour demander un diagnostic de toiture cohérent plutôt qu’une addition de réparations isolées.",
+  "intro": "Une demande de couverture à Thuir peut rassembler plusieurs observations : une trace au plafond, un élément abîmé aperçu du sol et une évacuation qui semble mal fonctionner. Les traiter comme trois réparations indépendantes risque de masquer leurs relations. Le réseau permet de consulter les couvreurs intervenant dans la commune ; la préparation consiste à classer les constats pour demander une lecture d’ensemble du toit, avec des priorités expliquées.",
+  "intent": "Hiérarchiser des symptômes multiples et comparer un programme de travaux par zones ; éviter de choisir des gestes sans diagnostic et rendre les exclusions de devis visibles.",
+  "specificValue": "Hiérarchiser des symptômes multiples et comparer un programme de travaux par zones ; éviter de choisir des gestes sans diagnostic et rendre les exclusions de devis visibles.",
+  "sections": [
+    {
+      "heading": "Organiser les observations par zone et par date",
+      "paragraphs": [
+        "Sur un croquis du logement, placez les pièces concernées et indiquez les signes visibles depuis le sol. Pour chaque élément, distinguez date de découverte, évolution et circonstances. N’essayez pas de vérifier un élément sur le toit en le manipulant. Une observation imprécise peut être signalée comme telle ; le professionnel devra la confirmer. Ce classement permet aussi de voir si plusieurs symptômes sont apparus ensemble ou s’ils correspondent à des événements distincts dans le temps."
+      ]
+    },
+    {
+      "heading": "Faire expliquer les relations entre les ouvrages",
+      "paragraphs": [
+        "Le diagnostic peut porter sur des éléments de couverture, des raccords et l’écoulement des eaux. Demandez comment les zones sont reliées et quelles vérifications justifient les priorités proposées. Un devis centré sur un seul point doit préciser ce qu’il ne traite pas. La situation à Thuir ne renseigne pas à elle seule les pentes, les matériaux ni l’état des ouvrages ; les caractéristiques à retenir sont celles de votre bâtiment, après reconnaissance des parties accessibles."
+      ]
+    },
+    {
+      "heading": "Distinguer réparation nécessaire et entretien envisagé",
+      "paragraphs": [
+        "Une opération d’entretien ne remplace pas une réparation dont la cause a été identifiée. À l’inverse, tous les signes décrits ne conduisent pas forcément au même programme de travaux. Faites séparer les objectifs et demandez quelles interventions peuvent être regroupées de façon cohérente. L’accès, les protections et les parties conservées doivent être pris en compte dans la proposition, sans transformer une liste d’observations en commande automatique de tous les travaux possibles sur le toit."
+      ]
+    },
+    {
+      "heading": "Comparer des propositions de périmètre équivalent",
+      "paragraphs": [
+        "Pour chaque devis, vérifiez les zones examinées, les ouvrages repris, les exclusions et les contrôles de fin d’intervention annoncés. Si une proposition semble plus limitée, demandez pourquoi et ce qu’elle laisse à vérifier. Le formulaire conserve Thuir et la famille toiture ; transmettez votre classement des constats et les travaux déjà connus. Les disponibilités et l’organisation se confirment directement avec l’entreprise ; le site ne qualifie pas à distance le caractère urgent ou définitif d’une solution technique."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Dois-je demander un devis séparé pour chaque trace ?",
+      "answer": "Pas nécessairement : commencez par présenter l’ensemble des observations et leur localisation. Le professionnel pourra expliquer si elles sont liées et proposer un périmètre cohérent, en distinguant les zones et les limites de ses vérifications."
+    },
+    {
+      "question": "Un entretien du toit peut-il régler une infiltration ?",
+      "answer": "Il ne faut pas le présumer. Le diagnostic doit relier les symptômes à leur cause avant de choisir la réponse ; demandez de distinguer les opérations d’entretien des réparations et d’expliquer l’objectif de chaque poste proposé."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66210",
+      "label": "API Géo — identité officielle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://thuir.fr/",
+      "label": "Présentation institutionnelle de Thuir",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

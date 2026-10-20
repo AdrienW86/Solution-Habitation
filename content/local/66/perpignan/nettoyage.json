@@ -1,0 +1,70 @@
+{
+  "communeCode": "66136",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Perpignan : cadrer l’entretien de bureaux occupés",
+  "h1": "Nettoyage à Perpignan : cadrer l’entretien de bureaux occupés",
+  "description": "Définissez les fréquences, les zones et les horaires de vos bureaux à Perpignan pour comparer une prestation de nettoyage réellement adaptée.",
+  "intro": "Pour des bureaux à Perpignan, une demande de nettoyage gagne à décrire les usages avant les mètres carrés. Un accueil ouvert au public, des postes de travail et une salle de réunion n’ont pas forcément le même rythme d’entretien. Cette page permet d’établir un premier cahier des besoins et d’identifier le prestataire du réseau à consulter, sans présumer d’une fréquence standard.",
+  "intent": "Construire un cahier des besoins pour un lieu de travail occupé, avec priorités, zones confidentielles, fréquence et réception plutôt qu’un forfait indifférencié.",
+  "specificValue": "Construire un cahier des besoins pour un lieu de travail occupé, avec priorités, zones confidentielles, fréquence et réception plutôt qu’un forfait indifférencié.",
+  "sections": [
+    {
+      "heading": "Découper les locaux selon leur usage",
+      "paragraphs": [
+        "Distinguez accueil, circulations, postes, sanitaires et espaces de pause. Pour chaque zone, indiquez les horaires d’occupation et le résultat attendu, par exemple enlèvement des déchets courants ou entretien des sols. Les tâches sur le mobilier, les vitrages ou les équipements doivent être décrites séparément. Une surface totale seule ne permet pas de connaître le temps d’accès, la densité du mobilier ni les opérations qui nécessitent une organisation particulière."
+      ]
+    },
+    {
+      "heading": "Choisir des horaires compatibles avec l’activité",
+      "paragraphs": [
+        "Précisez si le passage doit avoir lieu avant l’ouverture, après le départ des équipes ou pendant une plage de présence. Discutez la remise des clés, les alarmes et la fermeture des lieux avant de les inscrire dans une prestation. Ne transmettez pas les codes d’accès dans le formulaire public. L’adresse et les contraintes générales suffisent au premier dossier ; les modalités sensibles s’organisent directement avec l’interlocuteur retenu."
+      ]
+    },
+    {
+      "heading": "Décrire les surfaces et les limites",
+      "paragraphs": [
+        "Signalez un revêtement fragile, un sol récemment posé et les zones où des documents ou équipements ne doivent pas être manipulés. Demandez quelles opérations sont incluses autour des postes informatiques et quelle préparation incombe aux utilisateurs. Le nettoyage d’un espace tertiaire ne doit pas être présenté comme une désinfection spécialisée par défaut. Le besoin réel, les méthodes adaptées et les précautions se confirment dans la proposition, sans allégation sanitaire générale."
+      ]
+    },
+    {
+      "heading": "Installer une vérification simple du service",
+      "paragraphs": [
+        "Le devis doit relier les zones, les tâches et les fréquences convenues, avec une procédure pour signaler un oubli ou modifier le besoin. Prévoyez un interlocuteur sur place et un point après les premiers passages, sans supposer qu’une amélioration est incluse sans discussion. Le parcours garde Perpignan et la famille nettoyage ; l’ajout de la prestation précise permet au destinataire de qualifier la demande avant de confirmer un rendez-vous."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il imposer une fréquence identique à toutes les pièces ?",
+      "answer": "Non, décrivez les usages et les priorités par zone. La proposition peut ensuite différencier les passages selon les lieux et les tâches, avec des limites compréhensibles plutôt qu’un rythme unique choisi sans observation."
+    },
+    {
+      "question": "Les équipes doivent-elles ranger leurs bureaux avant le passage ?",
+      "answer": "Il faut convenir de ce point. Les documents confidentiels, les effets personnels et les matériels fragiles ne doivent pas être déplacés sans consigne ; précisez les surfaces à libérer et les manipulations exclues."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66136",
+      "label": "API Géo — identité officielle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/perpignan/",
+      "label": "Présentation institutionnelle de Perpignan",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

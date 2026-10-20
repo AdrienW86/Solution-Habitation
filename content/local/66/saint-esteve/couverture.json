@@ -1,0 +1,70 @@
+{
+  "communeCode": "66172",
+  "departmentCode": "66",
+  "family": "couverture",
+  "title": "Couverture à Saint-Estève : préparer la reprise d’un toit remanié",
+  "h1": "Couverture à Saint-Estève : préparer la reprise d’un toit remanié",
+  "description": "À Saint-Estève, rassemblez l’historique des réparations et les traces observées pour comparer une reprise de toiture sur un périmètre expliqué.",
+  "intro": "Une toiture déjà réparée à plusieurs reprises pose une question particulière : quel élément faut-il reprendre, et comment le relier aux parties conservées ? Pour un bien à Saint-Estève, préparez l’historique disponible avant de consulter les couvreurs du réseau. Ce dossier aide à discuter des interfaces et des limites d’une réparation, sans transformer des interventions passées en preuve d’un défaut actuel.",
+  "intent": "Traiter une demande après réparations successives : historique, interfaces entre zones anciennes et reprises, limites d’une photo et justification d’une solution pérenne.",
+  "specificValue": "Traiter une demande après réparations successives : historique, interfaces entre zones anciennes et reprises, limites d’une photo et justification d’une solution pérenne.",
+  "sections": [
+    {
+      "heading": "Reconstituer les réparations connues",
+      "paragraphs": [
+        "Classez les factures, descriptions ou photographies que vous possédez, même si elles ne couvrent pas toute la vie du toit. Repérez les zones concernées et les motifs annoncés lors des travaux précédents. Distinguez une information écrite d’un souvenir incertain. Le but est de faciliter la lecture du bâtiment par le professionnel, pas d’attribuer une responsabilité à partir d’un dossier incomplet ou d’une trace revenue au même endroit."
+      ]
+    },
+    {
+      "heading": "Examiner les raccords avec les parties conservées",
+      "paragraphs": [
+        "Une reprise localisée doit être pensée avec ce qui l’entoure : matériaux, recouvrements, points singuliers et cheminement de l’eau. Demandez quels éléments seront inspectés et pourquoi la zone proposée est suffisante, ou au contraire trop limitée. La proximité de Saint-Estève avec Perpignan est un repère de localisation, sans renseigner la composition de votre toiture. L’adresse et les caractéristiques réelles du bâtiment restent indispensables pour organiser la reconnaissance."
+      ]
+    },
+    {
+      "heading": "Décrire les signes nouveaux séparément",
+      "paragraphs": [
+        "Si une trace intérieure réapparaît, indiquez depuis quand, dans quelles circonstances et avec quelle évolution. Ne supposez pas qu’elle a nécessairement la même cause que la réparation précédente. Une photo générale et un suivi daté rendent l’échange plus précis. Restez au sol ou dans les pièces normalement accessibles : soulever des éléments ou accéder au toit pour vérifier soi-même pourrait aggraver un désordre et créer un risque inutile."
+      ]
+    },
+    {
+      "heading": "Choisir un périmètre plutôt qu’une formule vague",
+      "paragraphs": [
+        "Un devis doit faire apparaître les ouvrages repris, les éléments conservés et les limites des vérifications. Demandez comment les raccords seront traités et sur quelles observations repose la solution. Dans le formulaire, indiquez Saint-Estève et précisez « toiture déjà réparée » avec l’historique utile. Les entreprises sont sélectionnées sur leur couverture départementale confirmée ; cela ne dispense ni de la visite ni de la confirmation des conditions de travaux pour votre bien."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une ancienne réparation oblige-t-elle à refaire toute la couverture ?",
+      "answer": "Non, elle constitue une information pour le diagnostic. L’étendue de la reprise doit être justifiée par l’état constaté, les raccordements et la cohérence technique de la solution, pas par le seul nombre d’interventions antérieures."
+    },
+    {
+      "question": "Que faire si je n’ai plus les factures précédentes ?",
+      "answer": "Expliquez les informations dont vous disposez et leurs incertitudes. Des photographies datées ou une chronologie approximative peuvent aider, mais le professionnel devra vérifier sur place les éléments qu’un historique incomplet ne permet pas d’établir."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66172",
+      "label": "API Géo — identité officielle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/saint-esteve/",
+      "label": "Présentation institutionnelle de Saint-Estève",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "preparer-diagnostic-toiture",
+    "comparer-devis-couverture"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

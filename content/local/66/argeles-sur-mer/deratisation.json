@@ -1,0 +1,70 @@
+{
+  "communeCode": "66008",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Argelès-sur-Mer : préparer un diagnostic en hébergement",
+  "h1": "Dératisation à Argelès-sur-Mer : préparer un diagnostic en hébergement",
+  "description": "À Argelès-sur-Mer, préparez une recherche de rongeurs dans un hébergement en distinguant constats, disponibilité des lieux et consignes aux occupants.",
+  "intro": "Dans un hébergement à Argelès-sur-Mer, un signalement de rongeurs demande de préciser l’unité concernée et les observations disponibles, sans qualifier tous les logements du site. La demande doit aussi tenir compte des personnes présentes et des accès autorisés. Le réseau identifie les entreprises desservant la commune ; ce guide organise les informations utiles à leur premier examen sans présumer que le contexte touristique entraîne une infestation.",
+  "intent": "Organiser un signalement dans un hébergement utilisé par plusieurs personnes : observations datées, confidentialité, accès aux unités et absence de conclusion tirée de la vocation touristique.",
+  "specificValue": "Organiser un signalement dans un hébergement utilisé par plusieurs personnes : observations datées, confidentialité, accès aux unités et absence de conclusion tirée de la vocation touristique.",
+  "sections": [
+    {
+      "heading": "Conserver des signalements distincts et factuels",
+      "paragraphs": [
+        "Pour chaque observation, notez le lieu précis, la date et la nature du signe : dommage, trace ou animal aperçu. Ne fusionnez pas les récits de plusieurs occupants en une conclusion unique. Une photographie peut aider si elle est réalisée sans manipulation et sans données personnelles inutiles. Signalez ce qui a déjà été vérifié et ce qui reste inaccessible. Cette traçabilité facilite la comparaison des constats avant et après une éventuelle intervention."
+      ]
+    },
+    {
+      "heading": "Identifier les autorisations et les plages de visite",
+      "paragraphs": [
+        "Précisez quelles unités peuvent être ouvertes, qui donnera accès et à quels moments une inspection peut être envisagée. Les logements occupés, les pièces communes et les locaux techniques doivent être distingués. Aucun intervenant ne doit être attendu dans un espace sans autorisation. Les consignes à donner aux occupants et les éventuelles restrictions d’usage doivent être convenues avec le professionnel, selon le diagnostic et la méthode retenue, avant d’être annoncées comme certaines."
+      ]
+    },
+    {
+      "heading": "Rendre lisible le périmètre réel du problème",
+      "paragraphs": [
+        "Un signalement dans une pièce ne justifie pas automatiquement la prise en charge de toutes les unités voisines. Demandez comment les observations et les communications entre espaces seront examinées. Les cheminements particuliers d’un secteur comme le Racou sont des repères d’accès, pas une explication d’infestation. Dans votre dossier, décrivez les lieux concernés à l’adresse réelle, les stockages et les ouvertures visibles plutôt que d’attribuer la cause au quartier ou à l’usage touristique."
+      ]
+    },
+    {
+      "heading": "Préparer un suivi avec un interlocuteur stable",
+      "paragraphs": [
+        "Choisissez une personne pour centraliser les comptes rendus et les nouveaux constats, sans diffuser les coordonnées des occupants dans le formulaire. Demandez ce que comprend la proposition en matière de diagnostic, d’actions et de contrôle. Le parcours garde Argelès-sur-Mer, la dératisation et l’enseigne souhaitée ; les conditions de visite restent à confirmer. Une page du réseau n’annonce ni protocole spécialisé pour tous les hébergements ni garantie de remise en usage à une date imposée."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Un signalement impose-t-il de traiter toutes les unités de l’hébergement ?",
+      "answer": "Le périmètre doit être justifié par le diagnostic. Décrivez les observations par unité et les espaces de communication possibles ; le professionnel précisera ce qui doit être examiné avant de proposer une intervention."
+    },
+    {
+      "question": "Quelles informations sur les occupants transmettre au premier contact ?",
+      "answer": "Indiquez les contraintes utiles de présence et de sécurité, sans données personnelles superflues. Les autorisations d’accès et les consignes d’usage se préparent directement avec les responsables et l’entreprise dans le cadre de l’intervention retenue."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66008",
+      "label": "API Géo — identité officielle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.argeles-sur-mer.com/cap-mediteranee/les-plages/plage-du-racou/",
+      "label": "Présentation institutionnelle de Argelès-sur-Mer",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

@@ -1,0 +1,70 @@
+{
+  "communeCode": "66021",
+  "departmentCode": "66",
+  "family": "nettoyage",
+  "title": "Nettoyage à Bompas : organiser un entretien sans vider toute la maison",
+  "h1": "Nettoyage à Bompas : organiser un entretien sans vider toute la maison",
+  "description": "À Bompas, définissez les pièces, les surfaces fragiles et les objets à déplacer pour une demande de nettoyage claire auprès du réseau.",
+  "intro": "Un nettoyage demandé à Bompas peut concerner une maison encore occupée, avec des meubles, des objets fragiles et des pièces dont l’usage doit rester possible. La bonne préparation consiste à définir une intervention compatible avec cette occupation. Cette page propose un ordre de décision concret, puis les coordonnées du réseau pour vérifier le périmètre réellement proposé et les conditions du devis.",
+  "intent": "Un dossier destiné au logement occupé : protections des affaires, répartition des déplacements, accès à l’eau et réception pièce par pièce sans promesse de remise à neuf.",
+  "specificValue": "Un dossier destiné au logement occupé : protections des affaires, répartition des déplacements, accès à l’eau et réception pièce par pièce sans promesse de remise à neuf.",
+  "sections": [
+    {
+      "heading": "Choisir les pièces qui passent en premier",
+      "paragraphs": [
+        "Établissez une liste courte des zones prioritaires : cuisine, sanitaires, sols ou pièces peu utilisées. Distinguez l’entretien courant d’un besoin ponctuel plus appuyé et indiquez les pièces qui doivent rester accessibles pendant le passage. Le nom de la commune ne renseigne pas l’état du logement ; quelques vues d’ensemble et une description sincère des surfaces permettent une première qualification plus utile qu’une demande de « grand nettoyage » sans détail."
+      ]
+    },
+    {
+      "heading": "Décider qui déplace les affaires",
+      "paragraphs": [
+        "Vider un placard, déplacer un canapé et nettoyer derrière un meuble sont trois opérations différentes. Précisez les déplacements que vous prendrez en charge et ceux qui doivent être discutés avec l’entreprise. Repérez les objets de valeur, les documents et les éléments qui ne doivent pas être manipulés. Si un accès est encombré, signalez-le avant la visite plutôt que de supposer que le rangement est inclus dans la prestation."
+      ]
+    },
+    {
+      "heading": "Faire connaître les matériaux et les accès",
+      "paragraphs": [
+        "Pour un sol fragile, une surface récemment rénovée ou un revêtement dont la nature est incertaine, demandez une vérification avant choix de méthode. Indiquez aussi l’accès à l’eau, les étages et les possibilités d’entrée du matériel à votre adresse de Bompas. Les consignes de protection et les limites d’intervention doivent être convenues ; ne conseillez pas un mélange de produits pour obtenir plus vite un résultat apparent."
+      ]
+    },
+    {
+      "heading": "Définir un résultat vérifiable",
+      "paragraphs": [
+        "Une proposition exploitable énumère les zones incluses, les opérations prévues et les exclusions. Prévoyez une réception par pièce et signalez les traces anciennes qui pourraient relever d’une usure plutôt que d’une salissure. Le formulaire permet de conserver la commune et le type de demande ; ajoutez les horaires compatibles avec votre présence. Tant que l’envoi n’est pas configuré, le dossier téléchargé reste une préparation à transmettre vous-même."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Le déplacement des meubles est-il toujours compris ?",
+      "answer": "Il doit être discuté explicitement. Certaines pièces sont lourdes, fragiles ou fixées ; précisez ce qui doit être déplacé et demandez les limites de manipulation avant d’accepter la proposition."
+    },
+    {
+      "question": "Peut-on garantir que toutes les marques disparaîtront ?",
+      "answer": "Une salissure, une décoloration et une usure ne se traitent pas de la même manière. Faites examiner les traces qui motivent votre demande et demandez quels résultats sont raisonnablement attendus pour les matériaux concernés."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66021",
+      "label": "API Géo — identité officielle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/bompas/",
+      "label": "Présentation institutionnelle de Bompas",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "nettoyage-bureaux-frequences",
+    "nettoyage-residentiel-perimetre"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

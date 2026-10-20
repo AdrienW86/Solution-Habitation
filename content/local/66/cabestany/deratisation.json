@@ -1,0 +1,70 @@
+{
+  "communeCode": "66028",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Cabestany : préparer la visite d’un local professionnel",
+  "h1": "Dératisation à Cabestany : préparer la visite d’un local professionnel",
+  "description": "À Cabestany, constituez un dossier de dératisation pour vos locaux : zones observées, circulation, contraintes d’exploitation et suivi à convenir.",
+  "intro": "Dans un local professionnel à Cabestany, un indice de rongeur doit être décrit avec précision et discrétion, sans qualifier tout l’établissement d’infesté. La métropole documente des zones économiques dans la commune ; cela ne fournit aucune information sur la situation de vos locaux. Le réseau peut orienter une demande de dératisation vers les entreprises couvrant Cabestany, sur la base des faits que vous aurez relevés.",
+  "intent": "Qualifier un besoin dans des locaux professionnels sans leur attribuer une contamination ni une obligation sectorielle supposée, et organiser un dialogue documenté sur les accès et les consignes.",
+  "specificValue": "Qualifier un besoin dans des locaux professionnels sans leur attribuer une contamination ni une obligation sectorielle supposée, et organiser un dialogue documenté sur les accès et les consignes.",
+  "sections": [
+    {
+      "heading": "Distinguer les espaces concernés par le constat",
+      "paragraphs": [
+        "Sur un croquis, séparez accueil, stockage, circulation et locaux techniques. Localisez les dommages ou traces observés et indiquez si les zones étaient ouvertes ou fermées lors de leur découverte. Une observation près d’une livraison ne prouve pas l’origine du passage. Si plusieurs personnes rapportent des signes, conservez la date et le lieu de chaque constat plutôt que de les transformer en une affirmation générale sur le bâtiment."
+      ]
+    },
+    {
+      "heading": "Préparer une visite compatible avec l’exploitation",
+      "paragraphs": [
+        "Désignez un interlocuteur pouvant expliquer les usages et donner accès aux seules zones autorisées. Signalez les contraintes d’ouverture et les périodes pendant lesquelles une inspection peut être organisée. Les modalités d’intervention doivent être discutées avec le professionnel ; n’annoncez pas aux équipes une fermeture ou un maintien d’activité avant cette discussion. Les éventuelles exigences propres à votre secteur doivent être transmises et vérifiées, pas déduites du nom de l’entreprise."
+      ]
+    },
+    {
+      "heading": "Demander les consignes pour les personnes et les stocks",
+      "paragraphs": [
+        "Le diagnostic doit permettre d’expliquer la méthode retenue et les précautions nécessaires pour les occupants, les marchandises et les accès. Indiquez les traitements déjà tentés, même s’ils n’ont pas eu le résultat espéré. Ne déplacez pas des indices vers une autre zone pour les montrer : une photographie prise sans manipulation peut suffire à préparer l’entretien. La prestation doit rester justifiée par les lieux examinés et leurs usages effectifs."
+      ]
+    },
+    {
+      "heading": "Construire une traçabilité utilisable",
+      "paragraphs": [
+        "Demandez quel compte rendu est prévu, quels points nécessitent une action de votre part et comment sont organisés les contrôles éventuels. Un suivi utile distingue les constats, les mesures exécutées et les recommandations encore à appliquer. Le formulaire garde la commune, la dératisation et l’enseigne souhaitée ; ne communiquez que les informations nécessaires au premier échange. Aucun créneau ni protocole spécialisé n’est garanti par l’affichage d’une entreprise du réseau."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Faut-il détailler l’activité du local dès la demande ?",
+      "answer": "Oui, ses usages peuvent modifier l’organisation et les précautions à discuter. Restez factuel et signalez vos contraintes, sans transmettre de documents confidentiels ; les exigences particulières se vérifient directement avec l’intervenant."
+    },
+    {
+      "question": "Un compte rendu est-il identique à une garantie d’absence de rongeurs ?",
+      "answer": "Non. Il peut décrire le diagnostic et les actions réalisées ; demandez séparément les engagements, les limites et les conditions du suivi prévus dans la proposition avant de les considérer comme acquis."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66028",
+      "label": "API Géo — identité officielle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://perpignanmediterraneemetropole.fr/cabestany/",
+      "label": "Présentation institutionnelle de Cabestany",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}

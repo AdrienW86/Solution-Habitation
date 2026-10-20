@@ -1,0 +1,66 @@
+{
+  "measuredAt": "2026-10-20T10:27:54.038Z",
+  "environment": "Local Next.js production build, Chromium. Mobile: viewport iPhone 13, 4 Mbps download, 40 ms latency, CPU x4. Three fresh contexts per device; no before/after baseline.",
+  "samples": [
+    {
+      "device": "desktop",
+      "run": 1,
+      "lcp": 116,
+      "cls": 0,
+      "ttfb": 6.5,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    },
+    {
+      "device": "desktop",
+      "run": 2,
+      "lcp": 112,
+      "cls": 0,
+      "ttfb": 5.099999964237213,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    },
+    {
+      "device": "desktop",
+      "run": 3,
+      "lcp": 108,
+      "cls": 0,
+      "ttfb": 5.699999988079071,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    },
+    {
+      "device": "mobile",
+      "run": 1,
+      "lcp": 596,
+      "cls": 0,
+      "ttfb": 6.199999988079071,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    },
+    {
+      "device": "mobile",
+      "run": 2,
+      "lcp": 592,
+      "cls": 0,
+      "ttfb": 5.199999988079071,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    },
+    {
+      "device": "mobile",
+      "run": 3,
+      "lcp": 612,
+      "cls": 0,
+      "ttfb": 5,
+      "clsAfterScroll": 0,
+      "mediaResources": 0,
+      "mp4RequestsBeforePlay": 0
+    }
+  ]
+}

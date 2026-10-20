@@ -1,0 +1,70 @@
+{
+  "communeCode": "66065",
+  "departmentCode": "66",
+  "family": "deratisation",
+  "title": "Dératisation à Elne : distinguer logements, caves et volumes partagés",
+  "h1": "Dératisation à Elne : distinguer logements, caves et volumes partagés",
+  "description": "À Elne, préparez une recherche de rongeurs avec un plan des volumes, des indices datés et les autorisations nécessaires pour examiner les espaces partagés.",
+  "intro": "Lorsque des indices de rongeurs sont signalés dans un bâtiment d’Elne comportant une cave, une remise ou des volumes partagés, leur localisation doit rester précise. Le contexte patrimonial de la ville ne démontre aucune infestation propre aux logements anciens. Les entreprises du réseau desservant Elne peuvent être consultées pour distinguer les constats, comprendre les accès et définir une intervention à partir des lieux effectivement examinés.",
+  "intent": "Lecture d’un bâti à volumes multiples : observer les communications sans attribuer d’infestation aux maisons anciennes, coordonner les accès et expliquer les limites du traitement proposé.",
+  "specificValue": "Lecture d’un bâti à volumes multiples : observer les communications sans attribuer d’infestation aux maisons anciennes, coordonner les accès et expliquer les limites du traitement proposé.",
+  "sections": [
+    {
+      "heading": "Décrire les volumes qui communiquent réellement",
+      "paragraphs": [
+        "Identifiez les pièces accessibles, les portes, les escaliers et les passages techniques visibles. Un mur voisin ou une cave proche ne prouve pas une communication entre propriétés. Notez les informations connues et celles qui restent hypothétiques, sans engager de démontage. Un plan sommaire peut aider à relier les observations des différents occupants, à condition que les indices conservent leur lieu et leur date plutôt qu’une simple mention générale de présence dans l’immeuble."
+      ]
+    },
+    {
+      "heading": "Préserver la précision des constats",
+      "paragraphs": [
+        "Séparez les bruits, les traces et les dommages sur des objets. Indiquez si le lieu est fréquenté quotidiennement ou contrôlé plus rarement, car la date de découverte n’est pas forcément celle d’apparition. Des photographies à distance peuvent préparer la visite sans manipulation de déjections. Si des produits ont déjà été utilisés, signalez leur présence au professionnel et demandez les précautions à appliquer avant toute nouvelle action. Le mélange d’essais complique l’interprétation des observations."
+      ]
+    },
+    {
+      "heading": "Obtenir les accès sans confondre les responsabilités",
+      "paragraphs": [
+        "Une dépendance privative et un espace partagé nécessitent des interlocuteurs différents. Identifiez la personne pouvant ouvrir et expliquer l’usage de chaque volume. L’entreprise doit savoir ce qui pourra être inspecté ; un espace inaccessible doit être mentionné comme une limite, sans être présenté comme traité. Pour une propriété ancienne comme pour un bâtiment récent, la coordination se fonde sur la situation réelle du bien, pas sur une présomption tirée de son quartier."
+      ]
+    },
+    {
+      "heading": "Faire préciser prévention et contrôle",
+      "paragraphs": [
+        "Demandez quelles mesures relèvent de l’intervention et lesquelles nécessitent une action sur l’entretien ou les accès du bâtiment. Un traitement sans explication des limites ne suffit pas à comprendre le suivi attendu. Le formulaire conserve Elne, la dératisation et l’entreprise souhaitée ; ajoutez les contraintes d’ouverture et les observations par volume. La proposition doit clarifier les contrôles éventuels et la façon de signaler de nouveaux indices, sans promettre une absence définitive de rongeurs dans tout l’ensemble bâti."
+      ]
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Une cave ancienne constitue-t-elle forcément l’origine des passages ?",
+      "answer": "Non, c’est un espace à décrire parmi les autres. La localisation des indices et l’inspection doivent guider les conclusions ; l’âge ou l’aspect d’un volume ne suffit pas à établir un trajet de rongeurs."
+    },
+    {
+      "question": "Que faire si un volume voisin ne peut pas être ouvert ?",
+      "answer": "Signalez cette limite dès le rendez-vous et identifiez l’interlocuteur concerné. Le diagnostic et la proposition doivent préciser ce qui a été examiné, ce qui reste inaccessible et les conséquences sur le périmètre retenu."
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://geo.api.gouv.fr/communes/66065",
+      "label": "API Géo — identité officielle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Nom officiel, département et code INSEE de la commune. Aucun indicateur de sinistre ou d’infestation."
+    },
+    {
+      "url": "https://www.tourisme-pyrenees-mediterranee.com/explorer_la_destination_pyrenees_mediterranee/les-villages-incontournables-en-pyrenees-mediterranee/elne/",
+      "label": "Présentation institutionnelle de Elne",
+      "checkedAt": "2026-10-20",
+      "supports": "Repères territoriaux uniquement ; ne documente ni une fréquence de problèmes ni une couverture commerciale."
+    }
+  ],
+  "guides": [
+    "rongeurs-indices",
+    "rongeurs-acces-prevention"
+  ],
+  "image": null,
+  "revisedAt": "2026-10-20",
+  "batch": "66-lot-01",
+  "status": "review",
+  "humanReview": null
+}
